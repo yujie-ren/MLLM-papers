@@ -1,5 +1,5 @@
 ## Vision Language Model Papers
-Keywords: 
+Search Keywords: Vision, Multimodal
 
 ## Contents
 - 2025
@@ -22,8 +22,8 @@ Keywords:
 ## NAACL-202504
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDM2Mjg0OTIsNzA0NjUzODc0LC0xMz
-UwOTIxMjA1LDEyNzYxOTg3OTQsMTg0NTY5MjgwMSwtMTYwNTQx
-MDYxMSw0NzcwMTE4ODEsMTIyNjU1MjczMSw1MTY1NzQyMTcsMj
-AzOTE5MDY1LDcyODE0OTg4OV19
+eyJoaXN0b3J5IjpbMTg2NTQ2NDEyMCw3MDQ2NTM4NzQsLTEzNT
+A5MjEyMDUsMTI3NjE5ODc5NCwxODQ1NjkyODAxLC0xNjA1NDEw
+NjExLDQ3NzAxMTg4MSwxMjI2NTUyNzMxLDUxNjU3NDIxNywyMD
+M5MTkwNjUsNzI4MTQ5ODg5XX0=
 -->
