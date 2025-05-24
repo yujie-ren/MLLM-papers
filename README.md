@@ -1,4 +1,5 @@
 ## Vision Language Model Papers
+Keywords: 
 
 ## Contents
 - 2025
@@ -21,8 +22,8 @@
 ## NAACL-202504
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA0NjUzODc0LC0xMzUwOTIxMjA1LDEyNz
-YxOTg3OTQsMTg0NTY5MjgwMSwtMTYwNTQxMDYxMSw0NzcwMTE4
-ODEsMTIyNjU1MjczMSw1MTY1NzQyMTcsMjAzOTE5MDY1LDcyOD
-E0OTg4OV19
+eyJoaXN0b3J5IjpbLTE5NDM2Mjg0OTIsNzA0NjUzODc0LC0xMz
+UwOTIxMjA1LDEyNzYxOTg3OTQsMTg0NTY5MjgwMSwtMTYwNTQx
+MDYxMSw0NzcwMTE4ODEsMTIyNjU1MjczMSw1MTY1NzQyMTcsMj
+AzOTE5MDY1LDcyODE0OTg4OV19
 -->
