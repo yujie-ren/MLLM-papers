@@ -17,8 +17,12 @@
 2.  Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps  [[pdf]](https://aclanthology.org/2024.emnlp-main.84/)  
     (⭐️MIT, Detect consistent hallucination, Model's attention on provided context vs its own generations)
 
+
+## NAACL-202504
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTA5MjEyMDUsMTI3NjE5ODc5NCwxOD
-Q1NjkyODAxLC0xNjA1NDEwNjExLDQ3NzAxMTg4MSwxMjI2NTUy
-NzMxLDUxNjU3NDIxNywyMDM5MTkwNjUsNzI4MTQ5ODg5XX0=
+eyJoaXN0b3J5IjpbMTIxMTY5MDk3NiwtMTM1MDkyMTIwNSwxMj
+c2MTk4Nzk0LDE4NDU2OTI4MDEsLTE2MDU0MTA2MTEsNDc3MDEx
+ODgxLDEyMjY1NTI3MzEsNTE2NTc0MjE3LDIwMzkxOTA2NSw3Mj
+gxNDk4ODldfQ==
 -->
