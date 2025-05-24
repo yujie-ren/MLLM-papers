@@ -5,46 +5,65 @@
   - [ICLR-202504](#iclr-202504)
 
 ## ICLR-202504
-
-
-
-test
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-test
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-test
+1.  EFUF: Efficient Fine-Grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models  [[pdf]](https://aclanthology.org/2024.emnlp-main.67/)  
+    (NJU, Mitigate object hallucination in MLLMs, Gradient ascent by designing losses)
+2.  Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps  [[pdf]](https://aclanthology.org/2024.emnlp-main.84/)  
+    (⭐️MIT, Detect consistent hallucination, Model's attention on provided context vs its own generations)
+3.  HELPD: Mitigating Hallucination of LVLMs by Hierarchical Feedback Learning with Vision-enhanced Penalty Decoding  [[pdf]](https://aclanthology.org/2024.emnlp-main.105/)  
+    (NUAA, Mitigate object hallucination in VLMs, Feedback, Penalty decoding)
+4.  Embedding and Gradient Say Wrong: A White-Box Method for Hallucination Detection  [[pdf]](https://aclanthology.org/2024.emnlp-main.116/)  
+    (ZJU, Detect hallucination in LLMs, Embedding and gradient information, plug-and-play, sota)
+5.  Knowledge Verification to Nip Hallucination in the Bud  [[pdf]](https://aclanthology.org/2024.emnlp-main.152/)  
+    (SunU, Mitigate hallucination in LLMs, Reduce knowledge inconsistency between external knowledge & foundation LLM)
+6.  Whispers that Shake Foundations: Analyzing and Mitigating False Premise Hallucinations in Large Language Models  [[pdf]](https://aclanthology.org/2024.emnlp-main.155/)  
+    (⭐️CAS, Analysis & Mitigate False Premise Hallucinations in LLMs)
+7.  Does Object Grounding Really Reduce Hallucination of Large Vision-Language Models?  [[pdf]](https://aclanthology.org/2024.emnlp-main.159/)  
+    (⭐️WüNLP, Systematic analysis, Effect of object grounding on LVLM hallucination)
+8.  An Audit on the Perspectives and Challenges of Hallucinations in NLP  [[pdf]](https://aclanthology.org/2024.emnlp-main.375/)  
+    (⭐️PennsylvaniaSU, Survey, Definition of hallucination)
+9.  Knowledge-Centric Hallucination Detection  [[pdf]](https://aclanthology.org/2024.emnlp-main.395/)  
+    (Shanghai AI Lab, Detect hallucination, Split model's response into claim-triplets, different with FActScore)
+10.  DAMRO: Dive into the Attention Mechanism of LVLM to Reduce Object Hallucination  [[pdf]](https://aclanthology.org/2024.emnlp-main.439/)  
+    (TongjiU, Reduce object hallucination in VLMs, Attention distribution, Filter out high-attention outlier tokens)
+11.  Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations?  [[pdf]](https://aclanthology.org/2024.emnlp-main.444/)  
+    (IIT+Google, Study the effect of new knowledge during fine-tuning on the model's hallucination)
+12.  Pelican: Correcting Hallucination in Vision-LLMs via Claim Decomposition and Program of Thought Verification  [[pdf]](https://aclanthology.org/2024.emnlp-main.470/)  
+    (SRI Inc. Detect and mitigate hallucinations in VLMs, Claim decomposition, Verification)
+13.  ToolBeHonest: A Multi-level Hallucination Diagnostic Benchmark for Tool-Augmented Large Language Models  [[pdf]](https://aclanthology.org/2024.emnlp-main.637/)  
+    (WasedaU, Hallucination benchmark for Tool-augmented LLM)
+14.  Null-Shot Prompting: Rethinking Prompting Large Language Models With Hallucination  [[pdf]](https://aclanthology.org/2024.emnlp-main.740/)  
+    (⭐️RitsumeikanU, Hallucination in prompt, Enhance LLM's performance)
+15.  Small Agent Can Also Rock! Empowering Small Language Models as Hallucination Detector  [[pdf]](https://aclanthology.org/2024.emnlp-main.809/)  
+    (RUC, Detect hallucination in LLM, HaluAgent, Combining hallucination & Agent)
+16.  HalluMeasure: Fine-grained Hallucination Measurement Using Chain-of-Thought Reasoning  [[pdf]](https://aclanthology.org/2024.emnlp-main.837/)  
+    (Amazon, Detect hallucination in LLM's responses, Decompose claims, Check atomic claims using CoT reasoning)
+17.  Game on Tree: Visual Hallucination Mitigation via Coarse-to-Fine View Tree and Game Theory  [[pdf]](https://aclanthology.org/2024.emnlp-main.998/)  
+    (PKU, Mitigate hallucination in VLM, New decoding strategy)
+18.  Investigating and Mitigating Object Hallucinations in Pretrained Vision-Language (CLIP) Models  [[pdf]](https://aclanthology.org/2024.emnlp-main.1016/)  
+    (⭐️ECNU, Investigate hallucination in CLIP, Which part does the hallucination come from,  **Inspiration for LLaVA's hallucination?**)
+19.  Enhanced Hallucination Detection in Neural Machine Translation through Simple Detector Aggregation  [[pdf]](https://aclanthology.org/2024.emnlp-main.1033/)  
+    (Paris-SaclayU, Detect hallucination in machine translation)
+20.  Mitigating Open-Vocabulary Caption Hallucinations  [[pdf]](https://aclanthology.org/2024.emnlp-main.1263/)  
+    (Tel-AvivU, Mitigate hallucination in image captioning)
+21.  VGA: Vision GUI Assistant - Minimizing Hallucinations through Image-Centric Fine-Tuning  [[pdf]](https://aclanthology.org/2024.findings-emnlp.68/)  
+    (ECNU, Reduce hallucination in GPU understanding task, VQA dataset, Fune-tuning)
+22.  Zero-Resource Hallucination Prevention for Large Language Models  [[pdf]](https://aclanthology.org/2024.findings-emnlp.204/)  
+    (⭐️PSU, Detect hallucination before generation, Evaluate model's familiarity with the concepts in prompts)
+23.  Reference-free Hallucination Detection for Large Vision-Language Models  [[pdf]](https://aclanthology.org/2024.findings-emnlp.262/)  
+    (⭐️MBZUAI, Detect hallucination in VLM, reference-free, little summary)
+24.  FaithScore: Fine-grained Evaluations of Hallucinations in Large Vision-Language Models  [[pdf]](https://aclanthology.org/2024.findings-emnlp.290/)  
+    (UoTD, Detect hallucination in VLM, Evaluation metric, Multimodal version of FActScore)
+25.  Mitigating Hallucinations of Large Language Models in Medical Information Extraction via Contrastive Decoding  [[pdf]](https://aclanthology.org/2024.findings-emnlp.456/)  
+    (USTC, Mitigate hallucination in Medical information extraction, Contrastive Decoding, )
+26.  Multilingual Fine-Grained News Headline Hallucination Detection  [[pdf]](https://aclanthology.org/2024.findings-emnlp.461/)  
+    (Google, News headline hallucination detection, Dataset, Multilingual)
+27.  Mechanistic Understanding and Mitigation of Language Model Non-Factual Hallucinations  [[pdf]](https://aclanthology.org/2024.findings-emnlp.466/)  
+    (UoT, Explore mechanistic causes of hallucinations, Dataset, Mitigate hallucination)
+28.  AutoHallusion: Automatic Generation of Hallucination Benchmarks for Vision-Language Models  [[pdf]](https://aclanthology.org/2024.findings-emnlp.493/)  
+    (UoMaryland, Benchmark for VLM, Automated benchmark generation approach)
+29.  DiaHalu: A Dialogue-level Hallucination Evaluation Benchmark for Large Language Models  [[pdf]](https://aclanthology.org/2024.findings-emnlp.529/)  
+    (ECNU, Benchmark, Dialogue)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NjY0MTY3MSwxMjI2NTUyNzMxLDUxNj
-U3NDIxNywyMDM5MTkwNjUsNzI4MTQ5ODg5XX0=
+eyJoaXN0b3J5IjpbLTExMjE3MjgyMDEsMTIyNjU1MjczMSw1MT
+Y1NzQyMTcsMjAzOTE5MDY1LDcyODE0OTg4OV19
 -->
