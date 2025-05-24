@@ -22,9 +22,13 @@ Search Keywords: Vision, Multimodal
 
 ## NAACL-202504
 [All Papers](https://aclanthology.org/events/naacl-2025/)
+1.  EFUF: Efficient Fine-Grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models  [[pdf]](https://aclanthology.org/2024.emnlp-main.67/)  
+    (NJU, Mitigate object hallucination in MLLMs, Gradient ascent by designing losses)
+2.  Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps  [[pdf]](https://aclanthology.org/2024.emnlp-main.84/)  
+    (⭐️MIT, Detect consistent hallucination, Model's attention on provided context vs its own generations)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTg4NDA5NzEsNDgyOTkxMDkzLDcwND
-Y1Mzg3NCwtMTM1MDkyMTIwNSwxMjc2MTk4Nzk0LDE4NDU2OTI4
-MDEsLTE2MDU0MTA2MTEsNDc3MDExODgxLDEyMjY1NTI3MzEsNT
-E2NTc0MjE3LDIwMzkxOTA2NSw3MjgxNDk4ODldfQ==
+eyJoaXN0b3J5IjpbLTI1MDUwMzY3MSw0ODI5OTEwOTMsNzA0Nj
+UzODc0LC0xMzUwOTIxMjA1LDEyNzYxOTg3OTQsMTg0NTY5Mjgw
+MSwtMTYwNTQxMDYxMSw0NzcwMTE4ODEsMTIyNjU1MjczMSw1MT
+Y1NzQyMTcsMjAzOTE5MDY1LDcyODE0OTg4OV19
 -->
