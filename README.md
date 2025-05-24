@@ -5,7 +5,7 @@
   - [ICLR-202504](#iclr-202504)
 
 ## ICLR-202504
-[All papers](https://iclr.cc/virtual/2025/papers.html?filter=titles&layout=mini)
+[All Papers](https://iclr.cc/virtual/2025/papers.html?filter=titles&layout=mini)
 1.  EFUF: Efficient Fine-Grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models  [[pdf]](https://aclanthology.org/2024.emnlp-main.67/)  
     (NJU, Mitigate object hallucination in MLLMs, Gradient ascent by designing losses)
 2.  Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps  [[pdf]](https://aclanthology.org/2024.emnlp-main.84/)  
@@ -65,7 +65,7 @@
 29.  DiaHalu: A Dialogue-level Hallucination Evaluation Benchmark for Large Language Models  [[pdf]](https://aclanthology.org/2024.findings-emnlp.529/)  
     (ECNU, Benchmark, Dialogue)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3ODI5MTg0OSw0NzcwMTE4ODEsMTIyNj
-U1MjczMSw1MTY1NzQyMTcsMjAzOTE5MDY1LDcyODE0OTg4OV19
+eyJoaXN0b3J5IjpbNDc3NTQwMjAxLDQ3NzAxMTg4MSwxMjI2NT
+UyNzMxLDUxNjU3NDIxNywyMDM5MTkwNjUsNzI4MTQ5ODg5XX0=
 
 -->
