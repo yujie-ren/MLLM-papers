@@ -5,6 +5,7 @@ Search Keywords: Vision, Multimodal
 - 2025
   - [other](#other)
   - [ICLR-202504](#iclr-202504)
+  - [NAACL-202504](#naacl-202504)
 
 ## Other
 
@@ -22,8 +23,8 @@ Search Keywords: Vision, Multimodal
 ## NAACL-202504
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NTQ2NDEyMCw3MDQ2NTM4NzQsLTEzNT
-A5MjEyMDUsMTI3NjE5ODc5NCwxODQ1NjkyODAxLC0xNjA1NDEw
-NjExLDQ3NzAxMTg4MSwxMjI2NTUyNzMxLDUxNjU3NDIxNywyMD
-M5MTkwNjUsNzI4MTQ5ODg5XX0=
+eyJoaXN0b3J5IjpbMjc4NjQ3NTQxLDcwNDY1Mzg3NCwtMTM1MD
+kyMTIwNSwxMjc2MTk4Nzk0LDE4NDU2OTI4MDEsLTE2MDU0MTA2
+MTEsNDc3MDExODgxLDEyMjY1NTI3MzEsNTE2NTc0MjE3LDIwMz
+kxOTA2NSw3MjgxNDk4ODldfQ==
 -->
