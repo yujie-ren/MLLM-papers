@@ -3,7 +3,7 @@ Search Keywords: Vision, Multimodal
 
 ## Contents
 - 2025
-  - [other](#other)
+  - [Other](#other)
   - [ICLR-202504](#iclr-202504)
   - [NAACL-202504](#naacl-202504)
 
@@ -27,8 +27,9 @@ Search Keywords: Vision, Multimodal
 2.  Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps  [[pdf]](https://aclanthology.org/2024.emnlp-main.84/)  
     (⭐️MIT, Detect consistent hallucination, Model's attention on provided context vs its own generations)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MDUwMzY3MSw0ODI5OTEwOTMsNzA0Nj
-UzODc0LC0xMzUwOTIxMjA1LDEyNzYxOTg3OTQsMTg0NTY5Mjgw
-MSwtMTYwNTQxMDYxMSw0NzcwMTE4ODEsMTIyNjU1MjczMSw1MT
-Y1NzQyMTcsMjAzOTE5MDY1LDcyODE0OTg4OV19
+eyJoaXN0b3J5IjpbLTczMDE5MjQwNywtMjUwNTAzNjcxLDQ4Mj
+k5MTA5Myw3MDQ2NTM4NzQsLTEzNTA5MjEyMDUsMTI3NjE5ODc5
+NCwxODQ1NjkyODAxLC0xNjA1NDEwNjExLDQ3NzAxMTg4MSwxMj
+I2NTUyNzMxLDUxNjU3NDIxNywyMDM5MTkwNjUsNzI4MTQ5ODg5
+XX0=
 -->
