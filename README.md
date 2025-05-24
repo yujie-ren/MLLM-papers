@@ -1,8 +1,8 @@
-# VLM-papers
+# Vision Language Model-papers
 
 ## Contents
 - 2025
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI4MTQ5ODg5XX0=
+eyJoaXN0b3J5IjpbMTYwMzU1OTc3NSw3MjgxNDk4ODldfQ==
 -->
