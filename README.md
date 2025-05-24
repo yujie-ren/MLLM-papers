@@ -2,7 +2,10 @@
 
 ## Contents
 - 2025
+  - [other](#other)
   - [ICLR-202504](#iclr-202504)
+
+## Other
 
 ## ICLR-202504
 [All Papers](https://openreview.net/group?id=ICLR.cc/2025/Conference#tab-accept-oral)  
@@ -14,7 +17,7 @@
     (⭐️MIT, Detect consistent hallucination, Model's attention on provided context vs its own generations)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkzMzY5MTcwLDEyNzYxOTg3OTQsMTg0NT
-Y5MjgwMSwtMTYwNTQxMDYxMSw0NzcwMTE4ODEsMTIyNjU1Mjcz
-MSw1MTY1NzQyMTcsMjAzOTE5MDY1LDcyODE0OTg4OV19
+eyJoaXN0b3J5IjpbMTE0NzEwODk1NywxMjc2MTk4Nzk0LDE4ND
+U2OTI4MDEsLTE2MDU0MTA2MTEsNDc3MDExODgxLDEyMjY1NTI3
+MzEsNTE2NTc0MjE3LDIwMzkxOTA2NSw3MjgxNDk4ODldfQ==
 -->
