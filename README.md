@@ -17,6 +17,8 @@ Search Keywords: Vision, Multimodal
 
 1. Mechanistic Interpretability Meets Vision Language Models: Insights and Limitations  [[pdf]](https://d2jud02ci9yv69.cloudfront.net/2025-04-28-vlm-understanding-29/blog/vlm-understanding/)  
 (THU, 全面介绍了Interpretability & VLM)
+2. Fine-Tuning Token-Based Large Multimodal Models: What Works, What Doesn’t and What's Next  [[pdf]](https://d2jud02ci9yv69.cloudfront.net/2025-04-28-fine-tuning-token-based-large-multimodal-models-86/blog/fine-tuning-token-based-large-multimodal-models/)  
+(Pengfei Liu, 探索了VLM fine-tuning)
 
 
 ## NAACL-202504
@@ -26,9 +28,9 @@ Search Keywords: Vision, Multimodal
 2.  Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps  [[pdf]](https://aclanthology.org/2024.emnlp-main.84/)  
     (⭐️MIT, Detect consistent hallucination, Model's attention on provided context vs its own generations)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NzMyMzg1NSwtNzMwMTkyNDA3LC0yNT
-A1MDM2NzEsNDgyOTkxMDkzLDcwNDY1Mzg3NCwtMTM1MDkyMTIw
-NSwxMjc2MTk4Nzk0LDE4NDU2OTI4MDEsLTE2MDU0MTA2MTEsND
-c3MDExODgxLDEyMjY1NTI3MzEsNTE2NTc0MjE3LDIwMzkxOTA2
-NSw3MjgxNDk4ODldfQ==
+eyJoaXN0b3J5IjpbMTg4NTM0MDIwNSwxMjk3MzIzODU1LC03Mz
+AxOTI0MDcsLTI1MDUwMzY3MSw0ODI5OTEwOTMsNzA0NjUzODc0
+LC0xMzUwOTIxMjA1LDEyNzYxOTg3OTQsMTg0NTY5MjgwMSwtMT
+YwNTQxMDYxMSw0NzcwMTE4ODEsMTIyNjU1MjczMSw1MTY1NzQy
+MTcsMjAzOTE5MDY1LDcyODE0OTg4OV19
 -->
