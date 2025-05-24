@@ -19,6 +19,7 @@ Search Keywords: Vision, Multimodal
 2.  Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps  [[pdf]](https://aclanthology.org/2024.emnlp-main.84/)  
     (⭐️MIT, Detect consistent hallucination, Model's attention on provided context vs its own generations)
 3. Mechanistic Interpretability Meets Vision Language Models: Insights and Limitations  [[pdf]](https://d2jud02ci9yv69.cloudfront.net/2025-04-28-vlm-understanding-29/blog/vlm-understanding/)  
+(THU)
 
 
 ## NAACL-202504
@@ -28,9 +29,9 @@ Search Keywords: Vision, Multimodal
 2.  Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps  [[pdf]](https://aclanthology.org/2024.emnlp-main.84/)  
     (⭐️MIT, Detect consistent hallucination, Model's attention on provided context vs its own generations)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDIzMDAwNDMsLTczMDE5MjQwNywtMj
-UwNTAzNjcxLDQ4Mjk5MTA5Myw3MDQ2NTM4NzQsLTEzNTA5MjEy
-MDUsMTI3NjE5ODc5NCwxODQ1NjkyODAxLC0xNjA1NDEwNjExLD
-Q3NzAxMTg4MSwxMjI2NTUyNzMxLDUxNjU3NDIxNywyMDM5MTkw
-NjUsNzI4MTQ5ODg5XX0=
+eyJoaXN0b3J5IjpbNTE0MzMyMTAzLC03MzAxOTI0MDcsLTI1MD
+UwMzY3MSw0ODI5OTEwOTMsNzA0NjUzODc0LC0xMzUwOTIxMjA1
+LDEyNzYxOTg3OTQsMTg0NTY5MjgwMSwtMTYwNTQxMDYxMSw0Nz
+cwMTE4ODEsMTIyNjU1MjczMSw1MTY1NzQyMTcsMjAzOTE5MDY1
+LDcyODE0OTg4OV19
 -->
