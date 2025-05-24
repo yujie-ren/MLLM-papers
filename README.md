@@ -20,6 +20,7 @@ Search Keywords: Vision, Multimodal
 2. Fine-Tuning Token-Based Large Multimodal Models: What Works, What Doesn’t and What's Next  [[pdf]](https://d2jud02ci9yv69.cloudfront.net/2025-04-28-fine-tuning-token-based-large-multimodal-models-86/blog/fine-tuning-token-based-large-multimodal-models/)  
 (Pengfei Liu from SHJT, 探索了VLM Fine-tuning)
 
+Inference Optimal VLMs Need Fewer Visual Tokens and More Parameters
 
 ## NAACL-202504
 [All Papers](https://aclanthology.org/events/naacl-2025/)
@@ -28,9 +29,9 @@ Search Keywords: Vision, Multimodal
 2.  Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps  [[pdf]](https://aclanthology.org/2024.emnlp-main.84/)  
     (⭐️MIT, Detect consistent hallucination, Model's attention on provided context vs its own generations)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDMwNDU0NDgsMTI5NzMyMzg1NSwtNz
-MwMTkyNDA3LC0yNTA1MDM2NzEsNDgyOTkxMDkzLDcwNDY1Mzg3
-NCwtMTM1MDkyMTIwNSwxMjc2MTk4Nzk0LDE4NDU2OTI4MDEsLT
-E2MDU0MTA2MTEsNDc3MDExODgxLDEyMjY1NTI3MzEsNTE2NTc0
-MjE3LDIwMzkxOTA2NSw3MjgxNDk4ODldfQ==
+eyJoaXN0b3J5IjpbMjAzOTAzNDA5NiwtMTMwMzA0NTQ0OCwxMj
+k3MzIzODU1LC03MzAxOTI0MDcsLTI1MDUwMzY3MSw0ODI5OTEw
+OTMsNzA0NjUzODc0LC0xMzUwOTIxMjA1LDEyNzYxOTg3OTQsMT
+g0NTY5MjgwMSwtMTYwNTQxMDYxMSw0NzcwMTE4ODEsMTIyNjU1
+MjczMSw1MTY1NzQyMTcsMjAzOTE5MDY1LDcyODE0OTg4OV19
 -->
