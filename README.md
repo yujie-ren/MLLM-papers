@@ -24,14 +24,12 @@ Inference Optimal VLMs Need Fewer Visual Tokens and More Parameters
 
 ## NAACL-202504
 [All Papers](https://aclanthology.org/events/naacl-2025/)
-1.  EFUF: Efficient Fine-Grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models  [[pdf]](https://aclanthology.org/2024.emnlp-main.67/)  
-    (NJU, Mitigate object hallucination in MLLMs, Gradient ascent by designing losses)
-2.  Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps  [[pdf]](https://aclanthology.org/2024.emnlp-main.84/)  
-    (⭐️MIT, Detect consistent hallucination, Model's attention on provided context vs its own generations)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzOTAzNDA5NiwtMTMwMzA0NTQ0OCwxMj
-k3MzIzODU1LC03MzAxOTI0MDcsLTI1MDUwMzY3MSw0ODI5OTEw
-OTMsNzA0NjUzODc0LC0xMzUwOTIxMjA1LDEyNzYxOTg3OTQsMT
-g0NTY5MjgwMSwtMTYwNTQxMDYxMSw0NzcwMTE4ODEsMTIyNjU1
-MjczMSw1MTY1NzQyMTcsMjAzOTE5MDY1LDcyODE0OTg4OV19
+eyJoaXN0b3J5IjpbLTE1NTE3Mjk1NzIsMjAzOTAzNDA5NiwtMT
+MwMzA0NTQ0OCwxMjk3MzIzODU1LC03MzAxOTI0MDcsLTI1MDUw
+MzY3MSw0ODI5OTEwOTMsNzA0NjUzODc0LC0xMzUwOTIxMjA1LD
+EyNzYxOTg3OTQsMTg0NTY5MjgwMSwtMTYwNTQxMDYxMSw0Nzcw
+MTE4ODEsMTIyNjU1MjczMSw1MTY1NzQyMTcsMjAzOTE5MDY1LD
+cyODE0OTg4OV19
 -->
