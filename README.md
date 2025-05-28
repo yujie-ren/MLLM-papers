@@ -25,16 +25,24 @@ Search Keywords: Vision, Visual, Multimodal
 (KAIST AI, Pretraining过程中参数化知识的整合倾向)
 5.  Context-Parametric Inversion: Why Instruction Finetuning May Not Actually Improve Context Reliance  [[pdf]](https://openreview.net/forum?id=SPS6HzVzyt)  
 (CMU，知识冲突中的上下文依赖)
+6.  Scaling LLM Test-Time Compute Optimally Can be More Effective than Scaling Parameters for Reasoning  [[pdf]](https://openreview.net/forum?id=4FWAwZtd2n)  
+(UC Berkeley，)
+
+
+
+
+
+
 
 ## NAACL-202504
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNzgwNjQ5MiwtMTU4Njg0MjM4NywyNj
-A5MTM1NDIsMTE5NTIzMDY0MiwxNjY3MDk3NDEyLDE4MjY5MTkw
-MjksLTE3MjY0NzE3NjEsLTE1NTE3Mjk1NzIsMjAzOTAzNDA5Ni
-wtMTMwMzA0NTQ0OCwxMjk3MzIzODU1LC03MzAxOTI0MDcsLTI1
-MDUwMzY3MSw0ODI5OTEwOTMsNzA0NjUzODc0LC0xMzUwOTIxMj
-A1LDEyNzYxOTg3OTQsMTg0NTY5MjgwMSwtMTYwNTQxMDYxMSw0
-NzcwMTE4ODFdfQ==
+eyJoaXN0b3J5IjpbMjA2NjQwMDc2NywtNjI3ODA2NDkyLC0xNT
+g2ODQyMzg3LDI2MDkxMzU0MiwxMTk1MjMwNjQyLDE2NjcwOTc0
+MTIsMTgyNjkxOTAyOSwtMTcyNjQ3MTc2MSwtMTU1MTcyOTU3Mi
+wyMDM5MDM0MDk2LC0xMzAzMDQ1NDQ4LDEyOTczMjM4NTUsLTcz
+MDE5MjQwNywtMjUwNTAzNjcxLDQ4Mjk5MTA5Myw3MDQ2NTM4Nz
+QsLTEzNTA5MjEyMDUsMTI3NjE5ODc5NCwxODQ1NjkyODAxLC0x
+NjA1NDEwNjExXX0=
 -->
