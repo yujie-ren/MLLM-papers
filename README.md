@@ -23,17 +23,18 @@ Search Keywords: Vision, Visual, Multimodal
 (CMU, 研究了减少visual token和减少LLM参数的trade-off, 没有对比实验。)
 4. Knowledge Entropy Decay during Language Model Pretraining Hinders New Knowledge Acquisition  [[pdf]](https://openreview.net/forum?id=eHehzSDUFp)  
 (KAIST AI, Pretraining过程中参数化知识的整合倾向)
-
+5.  Context-Parametric Inversion: Why Instruction Finetuning May Not Actually Improve Context Reliance  [[pdf]](https://openreview.net/forum?id=SPS6HzVzyt)  
+(CMU，知识冲突中的上下文依赖)
 
 ## NAACL-202504
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODY4NDIzODcsMjYwOTEzNTQyLDExOT
-UyMzA2NDIsMTY2NzA5NzQxMiwxODI2OTE5MDI5LC0xNzI2NDcx
-NzYxLC0xNTUxNzI5NTcyLDIwMzkwMzQwOTYsLTEzMDMwNDU0ND
-gsMTI5NzMyMzg1NSwtNzMwMTkyNDA3LC0yNTA1MDM2NzEsNDgy
-OTkxMDkzLDcwNDY1Mzg3NCwtMTM1MDkyMTIwNSwxMjc2MTk4Nz
-k0LDE4NDU2OTI4MDEsLTE2MDU0MTA2MTEsNDc3MDExODgxLDEy
-MjY1NTI3MzFdfQ==
+eyJoaXN0b3J5IjpbLTYyNzgwNjQ5MiwtMTU4Njg0MjM4NywyNj
+A5MTM1NDIsMTE5NTIzMDY0MiwxNjY3MDk3NDEyLDE4MjY5MTkw
+MjksLTE3MjY0NzE3NjEsLTE1NTE3Mjk1NzIsMjAzOTAzNDA5Ni
+wtMTMwMzA0NTQ0OCwxMjk3MzIzODU1LC03MzAxOTI0MDcsLTI1
+MDUwMzY3MSw0ODI5OTEwOTMsNzA0NjUzODc0LC0xMzUwOTIxMj
+A1LDEyNzYxOTg3OTQsMTg0NTY5MjgwMSwtMTYwNTQxMDYxMSw0
+NzcwMTE4ODFdfQ==
 -->
