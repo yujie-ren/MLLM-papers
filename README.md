@@ -30,7 +30,7 @@ Search Keywords: Vision, Visual, Multimodal
 7.  Capturing the Temporal Dependence of Training Data Influence  [[pdf]](https://openreview.net/forum?id=uHLgDEgiS5)  
 (Princeton, the influence of specific training data)
 8. Data Shapley in One Training Run  [[pdf]](https://openreview.net/forum?id=HD6bWcj87Y)  
-(Princeton, )
+(Princeton, the influence of specific training data)
 
 
 
@@ -40,7 +40,7 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk4MTQzNDE2LDEyNTMwMzcwNjEsMjY5MD
+eyJoaXN0b3J5IjpbMTc1NTM5NTczLDEyNTMwMzcwNjEsMjY5MD
 g2MDUyLC02Mjc4MDY0OTIsLTE1ODY4NDIzODcsMjYwOTEzNTQy
 LDExOTUyMzA2NDIsMTY2NzA5NzQxMiwxODI2OTE5MDI5LC0xNz
 I2NDcxNzYxLC0xNTUxNzI5NTcyLDIwMzkwMzQwOTYsLTEzMDMw
