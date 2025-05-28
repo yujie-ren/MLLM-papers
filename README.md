@@ -29,7 +29,7 @@ Search Keywords: Vision, Visual, Multimodal
 (UC Berkeley，test time computing)
 7.  Capturing the Temporal Dependence of Training Data Influence  [[pdf]](https://openreview.net/forum?id=uHLgDEgiS5)  
 (Princeton, the influence of specific training data)
-
+#### [Data Shapley in One Training Run](https://openreview.net/forum?id=HD6bWcj87Y)
 
 
 
@@ -39,11 +39,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MzAzNzA2MSwyNjkwODYwNTIsLTYyNz
-gwNjQ5MiwtMTU4Njg0MjM4NywyNjA5MTM1NDIsMTE5NTIzMDY0
-MiwxNjY3MDk3NDEyLDE4MjY5MTkwMjksLTE3MjY0NzE3NjEsLT
-E1NTE3Mjk1NzIsMjAzOTAzNDA5NiwtMTMwMzA0NTQ0OCwxMjk3
-MzIzODU1LC03MzAxOTI0MDcsLTI1MDUwMzY3MSw0ODI5OTEwOT
-MsNzA0NjUzODc0LC0xMzUwOTIxMjA1LDEyNzYxOTg3OTQsMTg0
-NTY5MjgwMV19
+eyJoaXN0b3J5IjpbLTQzMzU3ODk0NSwxMjUzMDM3MDYxLDI2OT
+A4NjA1MiwtNjI3ODA2NDkyLC0xNTg2ODQyMzg3LDI2MDkxMzU0
+MiwxMTk1MjMwNjQyLDE2NjcwOTc0MTIsMTgyNjkxOTAyOSwtMT
+cyNjQ3MTc2MSwtMTU1MTcyOTU3MiwyMDM5MDM0MDk2LC0xMzAz
+MDQ1NDQ4LDEyOTczMjM4NTUsLTczMDE5MjQwNywtMjUwNTAzNj
+cxLDQ4Mjk5MTA5Myw3MDQ2NTM4NzQsLTEzNTA5MjEyMDUsMTI3
+NjE5ODc5NF19
 -->
