@@ -16,9 +16,9 @@ Search Keywords: Vision, Multimodal
 
 
 1. Mechanistic Interpretability Meets Vision Language Models: Insights and Limitations  [[pdf]](https://d2jud02ci9yv69.cloudfront.net/2025-04-28-vlm-understanding-29/blog/vlm-understanding/)  
-(THU, blog, 全面介绍了Interpretability & VLM)
+(Blog, THU, 全面介绍了Interpretability & VLM)
 2. Fine-Tuning Token-Based Large Multimodal Models: What Works, What Doesn’t and What's Next  [[pdf]](https://d2jud02ci9yv69.cloudfront.net/2025-04-28-fine-tuning-token-based-large-multimodal-models-86/blog/fine-tuning-token-based-large-multimodal-models/)  
-(Pengfei Liu from SHJT, 探索了VLM Fine-tuning)
+(Blog, Pengfei Liu from SHJT, 探索了VLM Fine-tuning)
 
 Inference Optimal VLMs Need Fewer Visual Tokens and More Parameters
 
@@ -26,7 +26,7 @@ Inference Optimal VLMs Need Fewer Visual Tokens and More Parameters
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjM3OTU2MDMsLTE1NTE3Mjk1NzIsMj
+eyJoaXN0b3J5IjpbLTE3MjY0NzE3NjEsLTE1NTE3Mjk1NzIsMj
 AzOTAzNDA5NiwtMTMwMzA0NTQ0OCwxMjk3MzIzODU1LC03MzAx
 OTI0MDcsLTI1MDUwMzY3MSw0ODI5OTEwOTMsNzA0NjUzODc0LC
 0xMzUwOTIxMjA1LDEyNzYxOTg3OTQsMTg0NTY5MjgwMSwtMTYw
