@@ -1,4 +1,4 @@
-## Vision Language Model Papers
+## Multimodal Large Language Model Papers
 Search Keywords: Vision, Multimodal
 
 ## Contents
@@ -26,10 +26,10 @@ Inference Optimal VLMs Need Fewer Visual Tokens and More Parameters
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTE3Mjk1NzIsMjAzOTAzNDA5NiwtMT
-MwMzA0NTQ0OCwxMjk3MzIzODU1LC03MzAxOTI0MDcsLTI1MDUw
-MzY3MSw0ODI5OTEwOTMsNzA0NjUzODc0LC0xMzUwOTIxMjA1LD
-EyNzYxOTg3OTQsMTg0NTY5MjgwMSwtMTYwNTQxMDYxMSw0Nzcw
-MTE4ODEsMTIyNjU1MjczMSw1MTY1NzQyMTcsMjAzOTE5MDY1LD
-cyODE0OTg4OV19
+eyJoaXN0b3J5IjpbOTIzOTQ2NTYzLC0xNTUxNzI5NTcyLDIwMz
+kwMzQwOTYsLTEzMDMwNDU0NDgsMTI5NzMyMzg1NSwtNzMwMTky
+NDA3LC0yNTA1MDM2NzEsNDgyOTkxMDkzLDcwNDY1Mzg3NCwtMT
+M1MDkyMTIwNSwxMjc2MTk4Nzk0LDE4NDU2OTI4MDEsLTE2MDU0
+MTA2MTEsNDc3MDExODgxLDEyMjY1NTI3MzEsNTE2NTc0MjE3LD
+IwMzkxOTA2NSw3MjgxNDk4ODldfQ==
 -->
