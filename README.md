@@ -31,7 +31,8 @@ Search Keywords: Vision, Visual, Multimodal
 (Princeton, the influence of specific training data)
 8. Data Shapley in One Training Run  [[pdf]](https://openreview.net/forum?id=HD6bWcj87Y)  
 (Princeton, the influence of specific training data)
-
+9.  Interpreting Emergent Planning in Model-Free Reinforcement Learning  [[pdf]](https://openreview.net/forum?id=DzGe40glxs)  
+(Cambridge, Interpr) 
 
 
 
@@ -40,11 +41,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NTM5NTczLDEyNTMwMzcwNjEsMjY5MD
-g2MDUyLC02Mjc4MDY0OTIsLTE1ODY4NDIzODcsMjYwOTEzNTQy
-LDExOTUyMzA2NDIsMTY2NzA5NzQxMiwxODI2OTE5MDI5LC0xNz
-I2NDcxNzYxLC0xNTUxNzI5NTcyLDIwMzkwMzQwOTYsLTEzMDMw
-NDU0NDgsMTI5NzMyMzg1NSwtNzMwMTkyNDA3LC0yNTA1MDM2Nz
-EsNDgyOTkxMDkzLDcwNDY1Mzg3NCwtMTM1MDkyMTIwNSwxMjc2
-MTk4Nzk0XX0=
+eyJoaXN0b3J5IjpbLTE4MjU5NDc0NjQsMTc1NTM5NTczLDEyNT
+MwMzcwNjEsMjY5MDg2MDUyLC02Mjc4MDY0OTIsLTE1ODY4NDIz
+ODcsMjYwOTEzNTQyLDExOTUyMzA2NDIsMTY2NzA5NzQxMiwxOD
+I2OTE5MDI5LC0xNzI2NDcxNzYxLC0xNTUxNzI5NTcyLDIwMzkw
+MzQwOTYsLTEzMDMwNDU0NDgsMTI5NzMyMzg1NSwtNzMwMTkyND
+A3LC0yNTA1MDM2NzEsNDgyOTkxMDkzLDcwNDY1Mzg3NCwtMTM1
+MDkyMTIwNV19
 -->
