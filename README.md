@@ -27,7 +27,7 @@ Search Keywords: Vision, Visual, Multimodal
 (CMU，知识冲突中的上下文依赖)
 6.  Scaling LLM Test-Time Compute Optimally Can be More Effective than Scaling Parameters for Reasoning  [[pdf]](https://openreview.net/forum?id=4FWAwZtd2n)  
 (UC Berkeley，test time computing)
-
+#### [Capturing the Temporal Dependence of Training Data Influence](https://openreview.net/forum?id=uHLgDEgiS5)
 
 
 
@@ -38,11 +38,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY5MDg2MDUyLC02Mjc4MDY0OTIsLTE1OD
-Y4NDIzODcsMjYwOTEzNTQyLDExOTUyMzA2NDIsMTY2NzA5NzQx
-MiwxODI2OTE5MDI5LC0xNzI2NDcxNzYxLC0xNTUxNzI5NTcyLD
-IwMzkwMzQwOTYsLTEzMDMwNDU0NDgsMTI5NzMyMzg1NSwtNzMw
-MTkyNDA3LC0yNTA1MDM2NzEsNDgyOTkxMDkzLDcwNDY1Mzg3NC
-wtMTM1MDkyMTIwNSwxMjc2MTk4Nzk0LDE4NDU2OTI4MDEsLTE2
-MDU0MTA2MTFdfQ==
+eyJoaXN0b3J5IjpbLTE3MTU2MTM1NzAsMjY5MDg2MDUyLC02Mj
+c4MDY0OTIsLTE1ODY4NDIzODcsMjYwOTEzNTQyLDExOTUyMzA2
+NDIsMTY2NzA5NzQxMiwxODI2OTE5MDI5LC0xNzI2NDcxNzYxLC
+0xNTUxNzI5NTcyLDIwMzkwMzQwOTYsLTEzMDMwNDU0NDgsMTI5
+NzMyMzg1NSwtNzMwMTkyNDA3LC0yNTA1MDM2NzEsNDgyOTkxMD
+kzLDcwNDY1Mzg3NCwtMTM1MDkyMTIwNSwxMjc2MTk4Nzk0LDE4
+NDU2OTI4MDFdfQ==
 -->
