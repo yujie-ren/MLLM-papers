@@ -19,17 +19,18 @@ Search Keywords: Vision, Multimodal
 (Blog, THU, 全面介绍了Interpretability & VLM)
 2. Fine-Tuning Token-Based Large Multimodal Models: What Works, What Doesn’t and What's Next  [[pdf]](https://d2jud02ci9yv69.cloudfront.net/2025-04-28-fine-tuning-token-based-large-multimodal-models-86/blog/fine-tuning-token-based-large-multimodal-models/)  
 (Blog, Pengfei Liu from SHJT, 探索了VLM Fine-tuning)
+3. Inference Optimal VLMs Need Fewer Visual Tokens and More Parameters  [[pdf]](https://openreview.net/pdf?id=6VhDQP7WGX)  
+4. 
 
-Inference Optimal VLMs Need Fewer Visual Tokens and More Parameters
 
 ## NAACL-202504
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjY0NzE3NjEsLTE1NTE3Mjk1NzIsMj
-AzOTAzNDA5NiwtMTMwMzA0NTQ0OCwxMjk3MzIzODU1LC03MzAx
-OTI0MDcsLTI1MDUwMzY3MSw0ODI5OTEwOTMsNzA0NjUzODc0LC
-0xMzUwOTIxMjA1LDEyNzYxOTg3OTQsMTg0NTY5MjgwMSwtMTYw
-NTQxMDYxMSw0NzcwMTE4ODEsMTIyNjU1MjczMSw1MTY1NzQyMT
-csMjAzOTE5MDY1LDcyODE0OTg4OV19
+eyJoaXN0b3J5IjpbLTkxNzA5OTkzNSwtMTcyNjQ3MTc2MSwtMT
+U1MTcyOTU3MiwyMDM5MDM0MDk2LC0xMzAzMDQ1NDQ4LDEyOTcz
+MjM4NTUsLTczMDE5MjQwNywtMjUwNTAzNjcxLDQ4Mjk5MTA5My
+w3MDQ2NTM4NzQsLTEzNTA5MjEyMDUsMTI3NjE5ODc5NCwxODQ1
+NjkyODAxLC0xNjA1NDEwNjExLDQ3NzAxMTg4MSwxMjI2NTUyNz
+MxLDUxNjU3NDIxNywyMDM5MTkwNjUsNzI4MTQ5ODg5XX0=
 -->
