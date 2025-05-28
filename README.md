@@ -22,14 +22,14 @@ Search Keywords: Vision, Visual, Multimodal
 3. Inference Optimal VLMs Need Fewer Visual Tokens and More Parameters  [[pdf]](https://openreview.net/pdf?id=6VhDQP7WGX)  
 (CMU, 研究了减少visual token和减少LLM参数的trade-off, 没有对比实验。)
 4. Knowledge Entropy Decay during Language Model Pretraining Hinders New Knowledge Acquisition  [[pdf]](https://openreview.net/forum?id=eHehzSDUFp)  
-()
+(KAIST AI, )
 
 
 ## NAACL-202504
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyODMwNTA2NSwyNjA5MTM1NDIsMTE5NT
+eyJoaXN0b3J5IjpbMTc2NTYzODI3MSwyNjA5MTM1NDIsMTE5NT
 IzMDY0MiwxNjY3MDk3NDEyLDE4MjY5MTkwMjksLTE3MjY0NzE3
 NjEsLTE1NTE3Mjk1NzIsMjAzOTAzNDA5NiwtMTMwMzA0NTQ0OC
 wxMjk3MzIzODU1LC03MzAxOTI0MDcsLTI1MDUwMzY3MSw0ODI5
