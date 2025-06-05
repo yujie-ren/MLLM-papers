@@ -19,7 +19,7 @@ Search Keywords: Vision, Visual, Multimodal
 (Blog, THU, 全面介绍了Interpretability & VLM)
 2. Fine-Tuning Token-Based Large Multimodal Models: What Works, What Doesn’t and What's Next  [[pdf]](https://d2jud02ci9yv69.cloudfront.net/2025-04-28-fine-tuning-token-based-large-multimodal-models-86/blog/fine-tuning-token-based-large-multimodal-models/)  
 (Blog, Pengfei Liu from SHJT, 探索了VLM Fine-tuning)
-3. Inference Optimal VLMs Need Fewer Visual Tokens and More Parameters  [[pdf]](https://openreview.net/pdf?id=6VhDQP7WGX)  
+3. Inference Optimal VLMs Need Fewer Visual Tokens and More Parameters  [[pdf]](https://openreview.net/forum?id=6VhDQP7WGX)  
 (CMU, 研究了减少visual token和减少LLM参数的trade-off, 没有对比实验。)
 4. Knowledge Entropy Decay during Language Model Pretraining Hinders New Knowledge Acquisition  [[pdf]](https://openreview.net/forum?id=eHehzSDUFp)  
 (KAIST AI, Pretraining过程中参数化知识的整合倾向)
