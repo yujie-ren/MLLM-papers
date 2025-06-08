@@ -20,7 +20,7 @@ Search Keywords: Vision, Visual, Multimodal
 2. Fine-Tuning Token-Based Large Multimodal Models: What Works, What Doesn’t and What's Next  [[pdf]](https://d2jud02ci9yv69.cloudfront.net/2025-04-28-fine-tuning-token-based-large-multimodal-models-86/blog/fine-tuning-token-based-large-multimodal-models/)  
 (Blog, Pengfei Liu from SHJT, 探索了VLM Fine-tuning)
 3. Inference Optimal VLMs Need Fewer Visual Tokens and More Parameters  [[pdf]](https://openreview.net/forum?id=6VhDQP7WGX)  
-(CMU, 研究了减少visual token和减少LLM参数的trade-off, 没有对比实验。)
+(CMU, VLM, 研究了减少visual token和减少LLM参数的trade-off, 没有对比实验。)
 4. Knowledge Entropy Decay during Language Model Pretraining Hinders New Knowledge Acquisition  [[pdf]](https://openreview.net/forum?id=eHehzSDUFp)  
 (KAIST AI, Pretraining过程中参数化知识的整合倾向)
 5.  Context-Parametric Inversion: Why Instruction Finetuning May Not Actually Improve Context Reliance  [[pdf]](https://openreview.net/forum?id=SPS6HzVzyt)  
@@ -41,11 +41,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczOTQ1NzM4OSwxNzU1Mzk1NzMsMTI1Mz
-AzNzA2MSwyNjkwODYwNTIsLTYyNzgwNjQ5MiwtMTU4Njg0MjM4
-NywyNjA5MTM1NDIsMTE5NTIzMDY0MiwxNjY3MDk3NDEyLDE4Mj
-Y5MTkwMjksLTE3MjY0NzE3NjEsLTE1NTE3Mjk1NzIsMjAzOTAz
-NDA5NiwtMTMwMzA0NTQ0OCwxMjk3MzIzODU1LC03MzAxOTI0MD
-csLTI1MDUwMzY3MSw0ODI5OTEwOTMsNzA0NjUzODc0LC0xMzUw
-OTIxMjA1XX0=
+eyJoaXN0b3J5IjpbLTEwNDEwODQzODEsLTczOTQ1NzM4OSwxNz
+U1Mzk1NzMsMTI1MzAzNzA2MSwyNjkwODYwNTIsLTYyNzgwNjQ5
+MiwtMTU4Njg0MjM4NywyNjA5MTM1NDIsMTE5NTIzMDY0MiwxNj
+Y3MDk3NDEyLDE4MjY5MTkwMjksLTE3MjY0NzE3NjEsLTE1NTE3
+Mjk1NzIsMjAzOTAzNDA5NiwtMTMwMzA0NTQ0OCwxMjk3MzIzOD
+U1LC03MzAxOTI0MDcsLTI1MDUwMzY3MSw0ODI5OTEwOTMsNzA0
+NjUzODc0XX0=
 -->
