@@ -25,7 +25,9 @@ Search Keywords: Vision, Visual, Multimodal
 (SJTU, VLM, VLM evaluation, data contamination)  
 5. MMIE: Massive Multimodal Interleaved Comprehension Benchmark for Large Vision-Language Models  [[pdf]](https://openreview.net/forum?id=HnhNRrLPwm)  
 (UNC-Chapel Hill, VLM, VLM evaluation)  
-6. #### [Do Vision-Language Models Represent Space and How? Evaluating Spatial Frame of Reference under Ambiguities](https://openreview.net/forum?id=84pDoCD4lH)
+6. Do Vision-Language Models Represent Space and How? Evaluating Spatial Frame of Reference under Ambiguities  [[pdf]](https://openreview.net/forum?id=84pDoCD4lH)  
+(U of Michigan, VLM evaluation)  
+
 
 
 #### Other
@@ -52,11 +54,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjc2MjQ2NzAsLTEzNzg3MDczODgsNj
-MxODUyMzYzLC0xNTk3OTMwNDU4LC0xOTUxOTU4NzIxLC0xMDQx
-MDg0MzgxLC03Mzk0NTczODksMTc1NTM5NTczLDEyNTMwMzcwNj
-EsMjY5MDg2MDUyLC02Mjc4MDY0OTIsLTE1ODY4NDIzODcsMjYw
-OTEzNTQyLDExOTUyMzA2NDIsMTY2NzA5NzQxMiwxODI2OTE5MD
-I5LC0xNzI2NDcxNzYxLC0xNTUxNzI5NTcyLDIwMzkwMzQwOTYs
-LTEzMDMwNDU0NDhdfQ==
+eyJoaXN0b3J5IjpbLTI0NDI1MjI0MCwtMTM3ODcwNzM4OCw2Mz
+E4NTIzNjMsLTE1OTc5MzA0NTgsLTE5NTE5NTg3MjEsLTEwNDEw
+ODQzODEsLTczOTQ1NzM4OSwxNzU1Mzk1NzMsMTI1MzAzNzA2MS
+wyNjkwODYwNTIsLTYyNzgwNjQ5MiwtMTU4Njg0MjM4NywyNjA5
+MTM1NDIsMTE5NTIzMDY0MiwxNjY3MDk3NDEyLDE4MjY5MTkwMj
+ksLTE3MjY0NzE3NjEsLTE1NTE3Mjk1NzIsMjAzOTAzNDA5Niwt
+MTMwMzA0NTQ0OF19
 -->
