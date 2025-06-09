@@ -24,7 +24,7 @@ Search Keywords: Vision, Visual, Multimodal
 4. Dynamic Multimodal Evaluation with Flexible Complexity by Vision-Language Bootstrapping  [[pdf]](https://openreview.net/forum?id=X1OfiRYCLn)  
 (SJTU, VLM, VLM evaluation, data contamination)  
 5. MMIE: Massive Multimodal Interleaved Comprehension Benchmark for Large Vision-Language Models  [[pdf]](https://openreview.net/forum?id=HnhNRrLPwm)  
-(UNC-Chapel Hill, VLM, )
+(UNC-Chapel Hill, VLM, VLM evaluation)
 
 
 ### Other
@@ -51,7 +51,7 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NzQyMTMxOSw2MzE4NTIzNjMsLTE1OT
+eyJoaXN0b3J5IjpbMjEzMjM2MDY0Miw2MzE4NTIzNjMsLTE1OT
 c5MzA0NTgsLTE5NTE5NTg3MjEsLTEwNDEwODQzODEsLTczOTQ1
 NzM4OSwxNzU1Mzk1NzMsMTI1MzAzNzA2MSwyNjkwODYwNTIsLT
 YyNzgwNjQ5MiwtMTU4Njg0MjM4NywyNjA5MTM1NDIsMTE5NTIz
