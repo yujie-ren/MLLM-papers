@@ -31,7 +31,7 @@ Search Keywords: Vision, Visual, Multimodal
 (USC, VLM Evaluation)  
 8.  Reducing Hallucinations in Large Vision-Language Models via Latent Space Steering  [[pdf]](https://openreview.net/forum?id=LBl7Hez0fF)  
 (Stanford, VLM Hallucination)  
-
+9. 
 
 
 
@@ -59,11 +59,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTAzMjEzMjEsLTE2MzI1MDQwNTQsMz
-E3MjQwNzg2LC04MTE0MTg1MDUsLTEzNzg3MDczODgsNjMxODUy
-MzYzLC0xNTk3OTMwNDU4LC0xOTUxOTU4NzIxLC0xMDQxMDg0Mz
-gxLC03Mzk0NTczODksMTc1NTM5NTczLDEyNTMwMzcwNjEsMjY5
-MDg2MDUyLC02Mjc4MDY0OTIsLTE1ODY4NDIzODcsMjYwOTEzNT
-QyLDExOTUyMzA2NDIsMTY2NzA5NzQxMiwxODI2OTE5MDI5LC0x
-NzI2NDcxNzYxXX0=
+eyJoaXN0b3J5IjpbMjE0Mjc2ODc0LC0xNjMyNTA0MDU0LDMxNz
+I0MDc4NiwtODExNDE4NTA1LC0xMzc4NzA3Mzg4LDYzMTg1MjM2
+MywtMTU5NzkzMDQ1OCwtMTk1MTk1ODcyMSwtMTA0MTA4NDM4MS
+wtNzM5NDU3Mzg5LDE3NTUzOTU3MywxMjUzMDM3MDYxLDI2OTA4
+NjA1MiwtNjI3ODA2NDkyLC0xNTg2ODQyMzg3LDI2MDkxMzU0Mi
+wxMTk1MjMwNjQyLDE2NjcwOTc0MTIsMTgyNjkxOTAyOSwtMTcy
+NjQ3MTc2MV19
 -->
