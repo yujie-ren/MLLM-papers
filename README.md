@@ -34,8 +34,9 @@ Search Keywords: Vision, Visual, Multimodal
 9. Vision Language Models are In-Context Value Learners  [[pdf]](https://openreview.net/forum?id=friHAl5ofG)  
 (Google, VLM, Robots)  
 10. AHA: A Vision-Language-Model for Detecting and Reasoning Over Failures in Robotic Manipulation  [[pdf]](https://openreview.net/forum?id=JVkdSi7Ekg)  
-(Nvidia, VLM, Robot, Detect failures)
-
+(Nvidia, VLM, Robot, Detect failures)  
+11. Teaching Human Behavior Improves Content Understanding Abilities Of VLMs  [[pdf]](https://openreview.net/forum?id=ff2V3UR9sC)  
+()
 
 
 #### Other
@@ -75,11 +76,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NzQ3MDQ1MCwtNDA1MzcwMzA2LDExOD
-Q5NzU4MDEsOTk4MTA5MzEzLDE1MzY3MDAwOTMsMTY1MjE4NTQ2
-OSwxODM5OTEwMTAwLDIwNDE1ODg4NjcsLTExODA1OTkwNjgsMj
-E0Mjc2ODc0LC0xNjMyNTA0MDU0LDMxNzI0MDc4NiwtODExNDE4
-NTA1LC0xMzc4NzA3Mzg4LDYzMTg1MjM2MywtMTU5NzkzMDQ1OC
-wtMTk1MTk1ODcyMSwtMTA0MTA4NDM4MSwtNzM5NDU3Mzg5LDE3
-NTUzOTU3M119
+eyJoaXN0b3J5IjpbLTEzNjc4OTA4MjEsMTc2NzQ3MDQ1MCwtND
+A1MzcwMzA2LDExODQ5NzU4MDEsOTk4MTA5MzEzLDE1MzY3MDAw
+OTMsMTY1MjE4NTQ2OSwxODM5OTEwMTAwLDIwNDE1ODg4NjcsLT
+ExODA1OTkwNjgsMjE0Mjc2ODc0LC0xNjMyNTA0MDU0LDMxNzI0
+MDc4NiwtODExNDE4NTA1LC0xMzc4NzA3Mzg4LDYzMTg1MjM2My
+wtMTU5NzkzMDQ1OCwtMTk1MTk1ODcyMSwtMTA0MTA4NDM4MSwt
+NzM5NDU3Mzg5XX0=
 -->
