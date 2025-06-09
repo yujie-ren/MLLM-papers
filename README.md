@@ -24,7 +24,8 @@ Search Keywords: Vision, Visual, Multimodal
 4. Dynamic Multimodal Evaluation with Flexible Complexity by Vision-Language Bootstrapping  [[pdf]](https://openreview.net/forum?id=X1OfiRYCLn)  
 (SJTU, VLM, VLM evaluation, data contamination)  
 5. MMIE: Massive Multimodal Interleaved Comprehension Benchmark for Large Vision-Language Models  [[pdf]](https://openreview.net/forum?id=HnhNRrLPwm)  
-(UNC-Chapel Hill, VLM, VLM evaluation)
+(UNC-Chapel Hill, VLM, VLM evaluation)  
+6. #### [Do Vision-Language Models Represent Space and How? Evaluating Spatial Frame of Reference under Ambiguities](https://openreview.net/forum?id=84pDoCD4lH)
 
 
 #### Other
@@ -51,11 +52,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzg3MDczODgsNjMxODUyMzYzLC0xNT
-k3OTMwNDU4LC0xOTUxOTU4NzIxLC0xMDQxMDg0MzgxLC03Mzk0
-NTczODksMTc1NTM5NTczLDEyNTMwMzcwNjEsMjY5MDg2MDUyLC
-02Mjc4MDY0OTIsLTE1ODY4NDIzODcsMjYwOTEzNTQyLDExOTUy
-MzA2NDIsMTY2NzA5NzQxMiwxODI2OTE5MDI5LC0xNzI2NDcxNz
-YxLC0xNTUxNzI5NTcyLDIwMzkwMzQwOTYsLTEzMDMwNDU0NDgs
-MTI5NzMyMzg1NV19
+eyJoaXN0b3J5IjpbLTEyNjc2MjQ2NzAsLTEzNzg3MDczODgsNj
+MxODUyMzYzLC0xNTk3OTMwNDU4LC0xOTUxOTU4NzIxLC0xMDQx
+MDg0MzgxLC03Mzk0NTczODksMTc1NTM5NTczLDEyNTMwMzcwNj
+EsMjY5MDg2MDUyLC02Mjc4MDY0OTIsLTE1ODY4NDIzODcsMjYw
+OTEzNTQyLDExOTUyMzA2NDIsMTY2NzA5NzQxMiwxODI2OTE5MD
+I5LC0xNzI2NDcxNzYxLC0xNTUxNzI5NTcyLDIwMzkwMzQwOTYs
+LTEzMDMwNDU0NDhdfQ==
 -->
