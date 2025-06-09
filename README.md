@@ -40,14 +40,14 @@ Search Keywords: Vision, Visual, Multimodal
 12. Two Effects, One Trigger: On the Modality Gap, Object Bias, and Information Imbalance in Contrastive Vision-Language Models  [[pdf]](https://openreview.net/forum?id=uAFHCZRmXk)  
 (U of Freiburg, CLIP)  
 13. MMIE: Massive Multimodal Interleaved Comprehension Benchmark for Large Vision-Language Models  [[pdf]](https://openreview.net/forum?id=HnhNRrLPwm)  
-(UNC-Chapel Hill, )
+(UNC-Chapel Hill, VLM, )
 
 
 ## NAACL-202504
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTA2MDMxMzUsNjMxODUyMzYzLC0xNT
+eyJoaXN0b3J5IjpbLTE0NTkzMjI0NDYsNjMxODUyMzYzLC0xNT
 k3OTMwNDU4LC0xOTUxOTU4NzIxLC0xMDQxMDg0MzgxLC03Mzk0
 NTczODksMTc1NTM5NTczLDEyNTMwMzcwNjEsMjY5MDg2MDUyLC
 02Mjc4MDY0OTIsLTE1ODY4NDIzODcsMjYwOTEzNTQyLDExOTUy
