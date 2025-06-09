@@ -60,7 +60,7 @@ Search Keywords: Vision, Visual, Multimodal
 (MIT, VLM, Computer graphics)  
 11. LLaVA-Interleave: Tackling Multi-image, Video, and 3D in Large Multimodal Models  [[pdf]](https://openreview.net/forum?id=oSQiao9GqB)  
 (ByteDance, VLM, Multi-image, Video, 3D)  
-12
+12. 
 
 
 
@@ -68,11 +68,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMDEyMjc1NiwxNTM2NzAwMDkzLDE2NT
-IxODU0NjksMTgzOTkxMDEwMCwyMDQxNTg4ODY3LC0xMTgwNTk5
-MDY4LDIxNDI3Njg3NCwtMTYzMjUwNDA1NCwzMTcyNDA3ODYsLT
-gxMTQxODUwNSwtMTM3ODcwNzM4OCw2MzE4NTIzNjMsLTE1OTc5
-MzA0NTgsLTE5NTE5NTg3MjEsLTEwNDEwODQzODEsLTczOTQ1Nz
-M4OSwxNzU1Mzk1NzMsMTI1MzAzNzA2MSwyNjkwODYwNTIsLTYy
-NzgwNjQ5Ml19
+eyJoaXN0b3J5IjpbLTE5OTg2Njc5NTAsMTUzNjcwMDA5MywxNj
+UyMTg1NDY5LDE4Mzk5MTAxMDAsMjA0MTU4ODg2NywtMTE4MDU5
+OTA2OCwyMTQyNzY4NzQsLTE2MzI1MDQwNTQsMzE3MjQwNzg2LC
+04MTE0MTg1MDUsLTEzNzg3MDczODgsNjMxODUyMzYzLC0xNTk3
+OTMwNDU4LC0xOTUxOTU4NzIxLC0xMDQxMDg0MzgxLC03Mzk0NT
+czODksMTc1NTM5NTczLDEyNTMwMzcwNjEsMjY5MDg2MDUyLC02
+Mjc4MDY0OTJdfQ==
 -->
