@@ -30,7 +30,8 @@ Search Keywords: Vision, Visual, Multimodal
 7. PhysBench: Benchmarking and Enhancing Vision-Language Models for Physical World Understanding  [[pdf]](https://openreview.net/forum?id=Q6a9W6kzv5)  
 (USC, VLM Evaluation)  
 8.  Reducing Hallucinations in Large Vision-Language Models via Latent Space Steering  [[pdf]](https://openreview.net/forum?id=LBl7Hez0fF)  
-9. 
+(Stanford, VLM Hallucination)  
+
 
 
 
@@ -58,7 +59,7 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTA1MDUwNDQsLTE2MzI1MDQwNTQsMz
+eyJoaXN0b3J5IjpbLTEyMTAzMjEzMjEsLTE2MzI1MDQwNTQsMz
 E3MjQwNzg2LC04MTE0MTg1MDUsLTEzNzg3MDczODgsNjMxODUy
 MzYzLC0xNTk3OTMwNDU4LC0xOTUxOTU4NzIxLC0xMDQxMDg0Mz
 gxLC03Mzk0NTczODksMTc1NTM5NTczLDEyNTMwMzcwNjEsMjY5
