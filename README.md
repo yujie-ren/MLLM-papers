@@ -56,7 +56,8 @@ Search Keywords: Vision, Visual, Multimodal
 (U of Freiburg, CLIP)  
 9. Weighted Point Set Embedding for Multimodal Contrastive Learning Toward Optimal Similarity Metric  [[pdf]](https://openreview.net/forum?id=uSz2K30RRd)  
 (Sony AI, CLIP)  
-10. 
+10. VLMaterial: Procedural Material Generation with Large Vision-Language Models  [[pdf]](https://openreview.net/forum?id=wHebuIb6IH)  
+()
 
 
 
@@ -64,11 +65,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MTU4ODg2NywtMTE4MDU5OTA2OCwyMT
-QyNzY4NzQsLTE2MzI1MDQwNTQsMzE3MjQwNzg2LC04MTE0MTg1
-MDUsLTEzNzg3MDczODgsNjMxODUyMzYzLC0xNTk3OTMwNDU4LC
-0xOTUxOTU4NzIxLC0xMDQxMDg0MzgxLC03Mzk0NTczODksMTc1
-NTM5NTczLDEyNTMwMzcwNjEsMjY5MDg2MDUyLC02Mjc4MDY0OT
-IsLTE1ODY4NDIzODcsMjYwOTEzNTQyLDExOTUyMzA2NDIsMTY2
-NzA5NzQxMl19
+eyJoaXN0b3J5IjpbMTgzOTkxMDEwMCwyMDQxNTg4ODY3LC0xMT
+gwNTk5MDY4LDIxNDI3Njg3NCwtMTYzMjUwNDA1NCwzMTcyNDA3
+ODYsLTgxMTQxODUwNSwtMTM3ODcwNzM4OCw2MzE4NTIzNjMsLT
+E1OTc5MzA0NTgsLTE5NTE5NTg3MjEsLTEwNDEwODQzODEsLTcz
+OTQ1NzM4OSwxNzU1Mzk1NzMsMTI1MzAzNzA2MSwyNjkwODYwNT
+IsLTYyNzgwNjQ5MiwtMTU4Njg0MjM4NywyNjA5MTM1NDIsMTE5
+NTIzMDY0Ml19
 -->
