@@ -37,18 +37,20 @@ Search Keywords: Vision, Visual, Multimodal
 (USTC, Catastrophic forgetting, Continual learning)  
 11. Dynamic Multimodal Evaluation with Flexible Complexity by Vision-Language Bootstrapping  [[pdf]](https://openreview.net/forum?id=X1OfiRYCLn)  
 (SJTU, VLM, VLM evaluation, data contamination)  
-12. 
+12. Two Effects, One Trigger: On the Modality Gap, Object Bias, and Information Imbalance in Contrastive Vision-Language Models  [[pdf]](https://openreview.net/forum?id=uAFHCZRmXk)  
+(U of Freiburg, CLIP)  
+13.
 
 
 ## NAACL-202504
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTc5MzA0NTgsLTE5NTE5NTg3MjEsLT
-EwNDEwODQzODEsLTczOTQ1NzM4OSwxNzU1Mzk1NzMsMTI1MzAz
-NzA2MSwyNjkwODYwNTIsLTYyNzgwNjQ5MiwtMTU4Njg0MjM4Ny
-wyNjA5MTM1NDIsMTE5NTIzMDY0MiwxNjY3MDk3NDEyLDE4MjY5
-MTkwMjksLTE3MjY0NzE3NjEsLTE1NTE3Mjk1NzIsMjAzOTAzND
-A5NiwtMTMwMzA0NTQ0OCwxMjk3MzIzODU1LC03MzAxOTI0MDcs
-LTI1MDUwMzY3MV19
+eyJoaXN0b3J5IjpbLTEzNDk0NTU2ODIsLTE1OTc5MzA0NTgsLT
+E5NTE5NTg3MjEsLTEwNDEwODQzODEsLTczOTQ1NzM4OSwxNzU1
+Mzk1NzMsMTI1MzAzNzA2MSwyNjkwODYwNTIsLTYyNzgwNjQ5Mi
+wtMTU4Njg0MjM4NywyNjA5MTM1NDIsMTE5NTIzMDY0MiwxNjY3
+MDk3NDEyLDE4MjY5MTkwMjksLTE3MjY0NzE3NjEsLTE1NTE3Mj
+k1NzIsMjAzOTAzNDA5NiwtMTMwMzA0NTQ0OCwxMjk3MzIzODU1
+LC03MzAxOTI0MDddfQ==
 -->
