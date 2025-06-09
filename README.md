@@ -21,7 +21,14 @@ Search Keywords: Vision, Visual, Multimodal
 (Blog, Pengfei Liu from SHJT, 探索了VLM Fine-tuning)
 3. Inference Optimal VLMs Need Fewer Visual Tokens and More Parameters  [[pdf]](https://openreview.net/forum?id=6VhDQP7WGX)  
 (CMU, VLM, 研究了减少visual token和减少LLM参数的trade-off, 没有对比实验。)
-4. Knowledge Entropy Decay during Language Model Pretraining Hinders New Knowledge Acquisition  [[pdf]](https://openreview.net/forum?id=eHehzSDUFp)  
+4. Dynamic Multimodal Evaluation with Flexible Complexity by Vision-Language Bootstrapping  [[pdf]](https://openreview.net/forum?id=X1OfiRYCLn)  
+(SJTU, VLM, VLM evaluation, data contamination)  
+5. MMIE: Massive Multimodal Interleaved Comprehension Benchmark for Large Vision-Language Models  [[pdf]](https://openreview.net/forum?id=HnhNRrLPwm)  
+(UNC-Chapel Hill, VLM, )
+
+
+### Other
+1. Knowledge Entropy Decay during Language Model Pretraining Hinders New Knowledge Acquisition  [[pdf]](https://openreview.net/forum?id=eHehzSDUFp)  
 (KAIST AI, Pretraining过程中参数化知识的整合倾向)
 5.  Context-Parametric Inversion: Why Instruction Finetuning May Not Actually Improve Context Reliance  [[pdf]](https://openreview.net/forum?id=SPS6HzVzyt)  
 (CMU，知识冲突中的上下文依赖)
@@ -35,27 +42,18 @@ Search Keywords: Vision, Visual, Multimodal
 (Cambridge, Interpretability, RL agents)  
 10.  Unlocking the Power of Function Vectors for Characterizing and Mitigating Catastrophic Forgetting in Continual Instruction Tuning  [[pdf]](https://openreview.net/forum?id=gc8QAQfXv6)  
 (USTC, Catastrophic forgetting, Continual learning)  
-11. Dynamic Multimodal Evaluation with Flexible Complexity by Vision-Language Bootstrapping  [[pdf]](https://openreview.net/forum?id=X1OfiRYCLn)  
-(SJTU, VLM, VLM evaluation, data contamination)  
 12. Two Effects, One Trigger: On the Modality Gap, Object Bias, and Information Imbalance in Contrastive Vision-Language Models  [[pdf]](https://openreview.net/forum?id=uAFHCZRmXk)  
 (U of Freiburg, CLIP)  
-13. MMIE: Massive Multimodal Interleaved Comprehension Benchmark for Large Vision-Language Models  [[pdf]](https://openreview.net/forum?id=HnhNRrLPwm)  
-(UNC-Chapel Hill, VLM, )
-
-
-### Other
-
-
 
 ## NAACL-202504
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODYzODI0NTksNjMxODUyMzYzLC0xNT
-k3OTMwNDU4LC0xOTUxOTU4NzIxLC0xMDQxMDg0MzgxLC03Mzk0
-NTczODksMTc1NTM5NTczLDEyNTMwMzcwNjEsMjY5MDg2MDUyLC
-02Mjc4MDY0OTIsLTE1ODY4NDIzODcsMjYwOTEzNTQyLDExOTUy
-MzA2NDIsMTY2NzA5NzQxMiwxODI2OTE5MDI5LC0xNzI2NDcxNz
-YxLC0xNTUxNzI5NTcyLDIwMzkwMzQwOTYsLTEzMDMwNDU0NDgs
-MTI5NzMyMzg1NV19
+eyJoaXN0b3J5IjpbNzQ3OTUxMjQzLDYzMTg1MjM2MywtMTU5Nz
+kzMDQ1OCwtMTk1MTk1ODcyMSwtMTA0MTA4NDM4MSwtNzM5NDU3
+Mzg5LDE3NTUzOTU3MywxMjUzMDM3MDYxLDI2OTA4NjA1MiwtNj
+I3ODA2NDkyLC0xNTg2ODQyMzg3LDI2MDkxMzU0MiwxMTk1MjMw
+NjQyLDE2NjcwOTc0MTIsMTgyNjkxOTAyOSwtMTcyNjQ3MTc2MS
+wtMTU1MTcyOTU3MiwyMDM5MDM0MDk2LC0xMzAzMDQ1NDQ4LDEy
+OTczMjM4NTVdfQ==
 -->
