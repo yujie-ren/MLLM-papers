@@ -36,14 +36,15 @@ Search Keywords: Vision, Visual, Multimodal
 10.  Unlocking the Power of Function Vectors for Characterizing and Mitigating Catastrophic Forgetting in Continual Instruction Tuning  [[pdf]](https://openreview.net/forum?id=gc8QAQfXv6)  
 (USTC, Catastrophic forgetting, Continual learning)  
 11. Dynamic Multimodal Evaluation with Flexible Complexity by Vision-Language Bootstrapping  [[pdf]](https://openreview.net/forum?id=X1OfiRYCLn)  
-(SJTU, VLM, V)
+(SJTU, VLM, VLM evaluation, data contamination)  
+12. 
 
 
 ## NAACL-202504
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjMxNDc5OTIsLTE5NTE5NTg3MjEsLT
+eyJoaXN0b3J5IjpbLTE1OTc5MzA0NTgsLTE5NTE5NTg3MjEsLT
 EwNDEwODQzODEsLTczOTQ1NzM4OSwxNzU1Mzk1NzMsMTI1MzAz
 NzA2MSwyNjkwODYwNTIsLTYyNzgwNjQ5MiwtMTU4Njg0MjM4Ny
 wyNjA5MTM1NDIsMTE5NTIzMDY0MiwxNjY3MDk3NDEyLDE4MjY5
