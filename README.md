@@ -29,7 +29,7 @@ Search Keywords: Vision, Visual, Multimodal
 (U of Michigan, VLM evaluation)  
 7. PhysBench: Benchmarking and Enhancing Vision-Language Models for Physical World Understanding  [[pdf]](https://openreview.net/forum?id=Q6a9W6kzv5)  
 (USC, VLM Evaluation)
-
+#### [Reducing Hallucinations in Large Vision-Language Models via Latent Space Steering](https://openreview.net/forum?id=LBl7Hez0fF)
 
 #### Other
 1. Knowledge Entropy Decay during Language Model Pretraining Hinders New Knowledge Acquisition  [[pdf]](https://openreview.net/forum?id=eHehzSDUFp)  
@@ -55,11 +55,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzI1MDQwNTQsMzE3MjQwNzg2LC04MT
-E0MTg1MDUsLTEzNzg3MDczODgsNjMxODUyMzYzLC0xNTk3OTMw
-NDU4LC0xOTUxOTU4NzIxLC0xMDQxMDg0MzgxLC03Mzk0NTczOD
-ksMTc1NTM5NTczLDEyNTMwMzcwNjEsMjY5MDg2MDUyLC02Mjc4
-MDY0OTIsLTE1ODY4NDIzODcsMjYwOTEzNTQyLDExOTUyMzA2ND
-IsMTY2NzA5NzQxMiwxODI2OTE5MDI5LC0xNzI2NDcxNzYxLC0x
-NTUxNzI5NTcyXX0=
+eyJoaXN0b3J5IjpbMTMzMjI2OTE3OSwtMTYzMjUwNDA1NCwzMT
+cyNDA3ODYsLTgxMTQxODUwNSwtMTM3ODcwNzM4OCw2MzE4NTIz
+NjMsLTE1OTc5MzA0NTgsLTE5NTE5NTg3MjEsLTEwNDEwODQzOD
+EsLTczOTQ1NzM4OSwxNzU1Mzk1NzMsMTI1MzAzNzA2MSwyNjkw
+ODYwNTIsLTYyNzgwNjQ5MiwtMTU4Njg0MjM4NywyNjA5MTM1ND
+IsMTE5NTIzMDY0MiwxNjY3MDk3NDEyLDE4MjY5MTkwMjksLTE3
+MjY0NzE3NjFdfQ==
 -->
