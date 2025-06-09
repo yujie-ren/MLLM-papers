@@ -63,7 +63,7 @@ Search Keywords: Vision, Visual, Multimodal
 12. Large-scale and Fine-grained Vision-language Pre-training for Enhanced CT Image Understanding [[pdf]](https://openreview.net/forum?id=nYpPAT4L3D)  
 (Alibaba, VLM, Medical image interpretation and diagnosis)  
 13. Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders [[pdf]](https://openreview.net/forum?id=Y2RW9EVwhT)  
-()
+(Nvidia, )
 
 
 
@@ -71,11 +71,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NDk3NTgwMSw5OTgxMDkzMTMsMTUzNj
-cwMDA5MywxNjUyMTg1NDY5LDE4Mzk5MTAxMDAsMjA0MTU4ODg2
-NywtMTE4MDU5OTA2OCwyMTQyNzY4NzQsLTE2MzI1MDQwNTQsMz
-E3MjQwNzg2LC04MTE0MTg1MDUsLTEzNzg3MDczODgsNjMxODUy
-MzYzLC0xNTk3OTMwNDU4LC0xOTUxOTU4NzIxLC0xMDQxMDg0Mz
-gxLC03Mzk0NTczODksMTc1NTM5NTczLDEyNTMwMzcwNjEsMjY5
-MDg2MDUyXX0=
+eyJoaXN0b3J5IjpbMjgwMDg3MDQ4LDExODQ5NzU4MDEsOTk4MT
+A5MzEzLDE1MzY3MDAwOTMsMTY1MjE4NTQ2OSwxODM5OTEwMTAw
+LDIwNDE1ODg4NjcsLTExODA1OTkwNjgsMjE0Mjc2ODc0LC0xNj
+MyNTA0MDU0LDMxNzI0MDc4NiwtODExNDE4NTA1LC0xMzc4NzA3
+Mzg4LDYzMTg1MjM2MywtMTU5NzkzMDQ1OCwtMTk1MTk1ODcyMS
+wtMTA0MTA4NDM4MSwtNzM5NDU3Mzg5LDE3NTUzOTU3MywxMjUz
+MDM3MDYxXX0=
 -->
