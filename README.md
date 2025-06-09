@@ -33,7 +33,8 @@ Search Keywords: Vision, Visual, Multimodal
 (Stanford, VLM Hallucination)  
 9. Vision Language Models are In-Context Value Learners  [[pdf]](https://openreview.net/forum?id=friHAl5ofG)  
 (Google, VLM, Robots)  
-10. #### [VLM2Vec: Training Vision-Language Models for Massive Multimodal Embedding Tasks](https://openreview.net/forum?id=TE0KOzWYAF)
+10. VLM2Vec: Training Vision-Language Models for Massive Multimodal Embedding Tasks  [[pdf]](https://openreview.net/forum?id=TE0KOzWYAF)  
+(U of Waterloo, )
 
 
 
@@ -73,11 +74,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMzk1MzEyLC00MDUzNzAzMDYsMTE4ND
-k3NTgwMSw5OTgxMDkzMTMsMTUzNjcwMDA5MywxNjUyMTg1NDY5
-LDE4Mzk5MTAxMDAsMjA0MTU4ODg2NywtMTE4MDU5OTA2OCwyMT
-QyNzY4NzQsLTE2MzI1MDQwNTQsMzE3MjQwNzg2LC04MTE0MTg1
-MDUsLTEzNzg3MDczODgsNjMxODUyMzYzLC0xNTk3OTMwNDU4LC
-0xOTUxOTU4NzIxLC0xMDQxMDg0MzgxLC03Mzk0NTczODksMTc1
-NTM5NTczXX0=
+eyJoaXN0b3J5IjpbMTM3MzkzMjc4NiwtNDA1MzcwMzA2LDExOD
+Q5NzU4MDEsOTk4MTA5MzEzLDE1MzY3MDAwOTMsMTY1MjE4NTQ2
+OSwxODM5OTEwMTAwLDIwNDE1ODg4NjcsLTExODA1OTkwNjgsMj
+E0Mjc2ODc0LC0xNjMyNTA0MDU0LDMxNzI0MDc4NiwtODExNDE4
+NTA1LC0xMzc4NzA3Mzg4LDYzMTg1MjM2MywtMTU5NzkzMDQ1OC
+wtMTk1MTk1ODcyMSwtMTA0MTA4NDM4MSwtNzM5NDU3Mzg5LDE3
+NTUzOTU3M119
 -->
