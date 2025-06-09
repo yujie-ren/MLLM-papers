@@ -36,7 +36,8 @@ Search Keywords: Vision, Visual, Multimodal
 10. AHA: A Vision-Language-Model for Detecting and Reasoning Over Failures in Robotic Manipulation  [[pdf]](https://openreview.net/forum?id=JVkdSi7Ekg)  
 (Nvidia, VLM, Robot, Detect failures)  
 11. Teaching Human Behavior Improves Content Understanding Abilities Of VLMs  [[pdf]](https://openreview.net/forum?id=ff2V3UR9sC)  
-(Adobe, VLM, )
+(Adobe, VLM, Training VLMs to predict receiver behaviors)  
+12
 
 
 #### Other
@@ -76,11 +77,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgwMjYxNjUxLDE3Njc0NzA0NTAsLTQwNT
-M3MDMwNiwxMTg0OTc1ODAxLDk5ODEwOTMxMywxNTM2NzAwMDkz
-LDE2NTIxODU0NjksMTgzOTkxMDEwMCwyMDQxNTg4ODY3LC0xMT
-gwNTk5MDY4LDIxNDI3Njg3NCwtMTYzMjUwNDA1NCwzMTcyNDA3
-ODYsLTgxMTQxODUwNSwtMTM3ODcwNzM4OCw2MzE4NTIzNjMsLT
-E1OTc5MzA0NTgsLTE5NTE5NTg3MjEsLTEwNDEwODQzODEsLTcz
-OTQ1NzM4OV19
+eyJoaXN0b3J5IjpbMjAwOTQ5OTU5NiwxNzY3NDcwNDUwLC00MD
+UzNzAzMDYsMTE4NDk3NTgwMSw5OTgxMDkzMTMsMTUzNjcwMDA5
+MywxNjUyMTg1NDY5LDE4Mzk5MTAxMDAsMjA0MTU4ODg2NywtMT
+E4MDU5OTA2OCwyMTQyNzY4NzQsLTE2MzI1MDQwNTQsMzE3MjQw
+Nzg2LC04MTE0MTg1MDUsLTEzNzg3MDczODgsNjMxODUyMzYzLC
+0xNTk3OTMwNDU4LC0xOTUxOTU4NzIxLC0xMDQxMDg0MzgxLC03
+Mzk0NTczODldfQ==
 -->
