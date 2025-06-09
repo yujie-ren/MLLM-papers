@@ -39,18 +39,18 @@ Search Keywords: Vision, Visual, Multimodal
 (SJTU, VLM, VLM evaluation, data contamination)  
 12. Two Effects, One Trigger: On the Modality Gap, Object Bias, and Information Imbalance in Contrastive Vision-Language Models  [[pdf]](https://openreview.net/forum?id=uAFHCZRmXk)  
 (U of Freiburg, CLIP)  
-13.
+13. 
 
 
 ## NAACL-202504
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDk0NTU2ODIsLTE1OTc5MzA0NTgsLT
-E5NTE5NTg3MjEsLTEwNDEwODQzODEsLTczOTQ1NzM4OSwxNzU1
-Mzk1NzMsMTI1MzAzNzA2MSwyNjkwODYwNTIsLTYyNzgwNjQ5Mi
-wtMTU4Njg0MjM4NywyNjA5MTM1NDIsMTE5NTIzMDY0MiwxNjY3
-MDk3NDEyLDE4MjY5MTkwMjksLTE3MjY0NzE3NjEsLTE1NTE3Mj
-k1NzIsMjAzOTAzNDA5NiwtMTMwMzA0NTQ0OCwxMjk3MzIzODU1
-LC03MzAxOTI0MDddfQ==
+eyJoaXN0b3J5IjpbMTYyOTU1MTU4MCwtMTU5NzkzMDQ1OCwtMT
+k1MTk1ODcyMSwtMTA0MTA4NDM4MSwtNzM5NDU3Mzg5LDE3NTUz
+OTU3MywxMjUzMDM3MDYxLDI2OTA4NjA1MiwtNjI3ODA2NDkyLC
+0xNTg2ODQyMzg3LDI2MDkxMzU0MiwxMTk1MjMwNjQyLDE2Njcw
+OTc0MTIsMTgyNjkxOTAyOSwtMTcyNjQ3MTc2MSwtMTU1MTcyOT
+U3MiwyMDM5MDM0MDk2LC0xMzAzMDQ1NDQ4LDEyOTczMjM4NTUs
+LTczMDE5MjQwN119
 -->
