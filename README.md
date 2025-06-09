@@ -30,26 +30,26 @@ Search Keywords: Vision, Visual, Multimodal
 ### Other
 1. Knowledge Entropy Decay during Language Model Pretraining Hinders New Knowledge Acquisition  [[pdf]](https://openreview.net/forum?id=eHehzSDUFp)  
 (KAIST AI, Pretraining过程中参数化知识的整合倾向)
-5.  Context-Parametric Inversion: Why Instruction Finetuning May Not Actually Improve Context Reliance  [[pdf]](https://openreview.net/forum?id=SPS6HzVzyt)  
+2.  Context-Parametric Inversion: Why Instruction Finetuning May Not Actually Improve Context Reliance  [[pdf]](https://openreview.net/forum?id=SPS6HzVzyt)  
 (CMU，知识冲突中的上下文依赖)
-6.  Scaling LLM Test-Time Compute Optimally Can be More Effective than Scaling Parameters for Reasoning  [[pdf]](https://openreview.net/forum?id=4FWAwZtd2n)  
+3.  Scaling LLM Test-Time Compute Optimally Can be More Effective than Scaling Parameters for Reasoning  [[pdf]](https://openreview.net/forum?id=4FWAwZtd2n)  
 (UC Berkeley，test time computing)
-7.  Capturing the Temporal Dependence of Training Data Influence  [[pdf]](https://openreview.net/forum?id=uHLgDEgiS5)  
+4.  Capturing the Temporal Dependence of Training Data Influence  [[pdf]](https://openreview.net/forum?id=uHLgDEgiS5)  
 (Princeton, the influence of specific training data)
-8. Data Shapley in One Training Run  [[pdf]](https://openreview.net/forum?id=HD6bWcj87Y)  
+5. Data Shapley in One Training Run  [[pdf]](https://openreview.net/forum?id=HD6bWcj87Y)  
 (Princeton, the influence of specific training data)
-9.  Interpreting Emergent Planning in Model-Free Reinforcement Learning  [[pdf]](https://openreview.net/forum?id=DzGe40glxs)  
+6.  Interpreting Emergent Planning in Model-Free Reinforcement Learning  [[pdf]](https://openreview.net/forum?id=DzGe40glxs)  
 (Cambridge, Interpretability, RL agents)  
-10.  Unlocking the Power of Function Vectors for Characterizing and Mitigating Catastrophic Forgetting in Continual Instruction Tuning  [[pdf]](https://openreview.net/forum?id=gc8QAQfXv6)  
+7.  Unlocking the Power of Function Vectors for Characterizing and Mitigating Catastrophic Forgetting in Continual Instruction Tuning  [[pdf]](https://openreview.net/forum?id=gc8QAQfXv6)  
 (USTC, Catastrophic forgetting, Continual learning)  
-12. Two Effects, One Trigger: On the Modality Gap, Object Bias, and Information Imbalance in Contrastive Vision-Language Models  [[pdf]](https://openreview.net/forum?id=uAFHCZRmXk)  
+8. Two Effects, One Trigger: On the Modality Gap, Object Bias, and Information Imbalance in Contrastive Vision-Language Models  [[pdf]](https://openreview.net/forum?id=uAFHCZRmXk)  
 (U of Freiburg, CLIP)  
 
 ## NAACL-202504
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ3OTUxMjQzLDYzMTg1MjM2MywtMTU5Nz
+eyJoaXN0b3J5IjpbMzA5MzY4NjE5LDYzMTg1MjM2MywtMTU5Nz
 kzMDQ1OCwtMTk1MTk1ODcyMSwtMTA0MTA4NDM4MSwtNzM5NDU3
 Mzg5LDE3NTUzOTU3MywxMjUzMDM3MDYxLDI2OTA4NjA1MiwtNj
 I3ODA2NDkyLC0xNTg2ODQyMzg3LDI2MDkxMzU0MiwxMTk1MjMw
