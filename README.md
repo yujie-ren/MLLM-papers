@@ -60,7 +60,9 @@ Search Keywords: Vision, Visual, Multimodal
 (MIT, VLM, Computer graphics)  
 11. LLaVA-Interleave: Tackling Multi-image, Video, and 3D in Large Multimodal Models  [[pdf]](https://openreview.net/forum?id=oSQiao9GqB)  
 (ByteDance, VLM, Multi-image, Video, 3D)  
-12. Large-scale and Fine-grained Vision-language Pre-training for Enhanced CT Image Understanding(https://openreview.net/forum?id=nYpPAT4L3D)
+12. Large-scale and Fine-grained Vision-language Pre-training for Enhanced CT Image Understanding [[pdf]](https://openreview.net/forum?id=nYpPAT4L3D)  
+(Alibaba, VLM, Medical image interpretation and diagnosis)  
+13. 
 
 
 
@@ -68,7 +70,7 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM1MDg4MjA1LDE1MzY3MDAwOTMsMTY1Mj
+eyJoaXN0b3J5IjpbOTk4MTA5MzEzLDE1MzY3MDAwOTMsMTY1Mj
 E4NTQ2OSwxODM5OTEwMTAwLDIwNDE1ODg4NjcsLTExODA1OTkw
 NjgsMjE0Mjc2ODc0LC0xNjMyNTA0MDU0LDMxNzI0MDc4NiwtOD
 ExNDE4NTA1LC0xMzc4NzA3Mzg4LDYzMTg1MjM2MywtMTU5Nzkz
