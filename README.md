@@ -65,18 +65,19 @@ Search Keywords: Vision, Visual, Multimodal
 13. Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders [[pdf]](https://openreview.net/forum?id=Y2RW9EVwhT)  
 (Nvidia, VLM, MoE, Systematic comparison)
 14. PerturboLLaVA: Reducing Multimodal Hallucinations with Perturbative Visual Training [[pdf]](https://openreview.net/forum?id=j4LITBSUjs)  
-(ZJU, )
+(ZJU, VLM hallucination, Incorporating adversarially perturbed text during training)  
+1
 
 
 ## NAACL-202504
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNTI2MTMzMywxMTg0OTc1ODAxLDk5OD
-EwOTMxMywxNTM2NzAwMDkzLDE2NTIxODU0NjksMTgzOTkxMDEw
-MCwyMDQxNTg4ODY3LC0xMTgwNTk5MDY4LDIxNDI3Njg3NCwtMT
-YzMjUwNDA1NCwzMTcyNDA3ODYsLTgxMTQxODUwNSwtMTM3ODcw
-NzM4OCw2MzE4NTIzNjMsLTE1OTc5MzA0NTgsLTE5NTE5NTg3Mj
-EsLTEwNDEwODQzODEsLTczOTQ1NzM4OSwxNzU1Mzk1NzMsMTI1
-MzAzNzA2MV19
+eyJoaXN0b3J5IjpbMzQ0ODczMTczLDExODQ5NzU4MDEsOTk4MT
+A5MzEzLDE1MzY3MDAwOTMsMTY1MjE4NTQ2OSwxODM5OTEwMTAw
+LDIwNDE1ODg4NjcsLTExODA1OTkwNjgsMjE0Mjc2ODc0LC0xNj
+MyNTA0MDU0LDMxNzI0MDc4NiwtODExNDE4NTA1LC0xMzc4NzA3
+Mzg4LDYzMTg1MjM2MywtMTU5NzkzMDQ1OCwtMTk1MTk1ODcyMS
+wtMTA0MTA4NDM4MSwtNzM5NDU3Mzg5LDE3NTUzOTU3MywxMjUz
+MDM3MDYxXX0=
 -->
