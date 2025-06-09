@@ -27,7 +27,7 @@ Search Keywords: Vision, Visual, Multimodal
 (UNC-Chapel Hill, VLM, VLM evaluation)  
 6. Do Vision-Language Models Represent Space and How? Evaluating Spatial Frame of Reference under Ambiguities  [[pdf]](https://openreview.net/forum?id=84pDoCD4lH)  
 (U of Michigan, VLM evaluation)  
-
+7. 
 
 
 #### Other
@@ -54,7 +54,7 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NDI1MjI0MCwtMTM3ODcwNzM4OCw2Mz
+eyJoaXN0b3J5IjpbLTgxMTQxODUwNSwtMTM3ODcwNzM4OCw2Mz
 E4NTIzNjMsLTE1OTc5MzA0NTgsLTE5NTE5NTg3MjEsLTEwNDEw
 ODQzODEsLTczOTQ1NzM4OSwxNzU1Mzk1NzMsMTI1MzAzNzA2MS
 wyNjkwODYwNTIsLTYyNzgwNjQ5MiwtMTU4Njg0MjM4NywyNjA5
