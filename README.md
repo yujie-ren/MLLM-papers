@@ -54,7 +54,8 @@ Search Keywords: Vision, Visual, Multimodal
 (USTC, Catastrophic forgetting, Continual learning)  
 8. Two Effects, One Trigger: On the Modality Gap, Object Bias, and Information Imbalance in Contrastive Vision-Language Models  [[pdf]](https://openreview.net/forum?id=uAFHCZRmXk)  
 (U of Freiburg, CLIP)  
-
+9. Weighted Point Set Embedding for Multimodal Contrastive Learning Toward Optimal Similarity Metric  [[pdf]](https://openreview.net/forum?id=uSz2K30RRd)  
+(Sony AI, CLIP) 
 
 
 
@@ -62,11 +63,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUzMDgwOTE0LC0xMTgwNTk5MDY4LDIxND
-I3Njg3NCwtMTYzMjUwNDA1NCwzMTcyNDA3ODYsLTgxMTQxODUw
-NSwtMTM3ODcwNzM4OCw2MzE4NTIzNjMsLTE1OTc5MzA0NTgsLT
-E5NTE5NTg3MjEsLTEwNDEwODQzODEsLTczOTQ1NzM4OSwxNzU1
-Mzk1NzMsMTI1MzAzNzA2MSwyNjkwODYwNTIsLTYyNzgwNjQ5Mi
-wtMTU4Njg0MjM4NywyNjA5MTM1NDIsMTE5NTIzMDY0MiwxNjY3
-MDk3NDEyXX0=
+eyJoaXN0b3J5IjpbMTQ0ODg1NDg5NiwtMTE4MDU5OTA2OCwyMT
+QyNzY4NzQsLTE2MzI1MDQwNTQsMzE3MjQwNzg2LC04MTE0MTg1
+MDUsLTEzNzg3MDczODgsNjMxODUyMzYzLC0xNTk3OTMwNDU4LC
+0xOTUxOTU4NzIxLC0xMDQxMDg0MzgxLC03Mzk0NTczODksMTc1
+NTM5NTczLDEyNTMwMzcwNjEsMjY5MDg2MDUyLC02Mjc4MDY0OT
+IsLTE1ODY4NDIzODcsMjYwOTEzNTQyLDExOTUyMzA2NDIsMTY2
+NzA5NzQxMl19
 -->
