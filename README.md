@@ -64,14 +64,15 @@ Search Keywords: Vision, Visual, Multimodal
 (Alibaba, VLM, Medical image interpretation and diagnosis)  
 13. Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders [[pdf]](https://openreview.net/forum?id=Y2RW9EVwhT)  
 (Nvidia, VLM, MoE, Systematic comparison)
-
+14. PerturboLLaVA: Reducing Multimodal Hallucinations with Perturbative Visual Training [[pdf]](https://openreview.net/forum?id=j4LITBSUjs)  
+()
 
 
 ## NAACL-202504
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMjEwNDE1NywxMTg0OTc1ODAxLDk5OD
+eyJoaXN0b3J5IjpbMTYwNzg0MDg0NCwxMTg0OTc1ODAxLDk5OD
 EwOTMxMywxNTM2NzAwMDkzLDE2NTIxODU0NjksMTgzOTkxMDEw
 MCwyMDQxNTg4ODY3LC0xMTgwNTk5MDY4LDIxNDI3Njg3NCwtMT
 YzMjUwNDA1NCwzMTcyNDA3ODYsLTgxMTQxODUwNSwtMTM3ODcw
