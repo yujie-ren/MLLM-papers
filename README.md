@@ -32,8 +32,8 @@ Search Keywords: Vision, Visual, Multimodal
 8. Data Shapley in One Training Run  [[pdf]](https://openreview.net/forum?id=HD6bWcj87Y)  
 (Princeton, the influence of specific training data)
 9.  Interpreting Emergent Planning in Model-Free Reinforcement Learning  [[pdf]](https://openreview.net/forum?id=DzGe40glxs)  
-(Cambridge, Interpretability, RL agents) 
-
+(Cambridge, Interpretability, RL agents)  
+10.  Unlocking the Power of Function Vectors for Characterizing and Mitigating Catastrophic Forgetting in Continual Instruction Tuning  [[pdf]](https://openreview.net/forum?id=gc8QAQfXv6)  
 
 
 
@@ -41,11 +41,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDEwODQzODEsLTczOTQ1NzM4OSwxNz
-U1Mzk1NzMsMTI1MzAzNzA2MSwyNjkwODYwNTIsLTYyNzgwNjQ5
-MiwtMTU4Njg0MjM4NywyNjA5MTM1NDIsMTE5NTIzMDY0MiwxNj
-Y3MDk3NDEyLDE4MjY5MTkwMjksLTE3MjY0NzE3NjEsLTE1NTE3
-Mjk1NzIsMjAzOTAzNDA5NiwtMTMwMzA0NTQ0OCwxMjk3MzIzOD
-U1LC03MzAxOTI0MDcsLTI1MDUwMzY3MSw0ODI5OTEwOTMsNzA0
-NjUzODc0XX0=
+eyJoaXN0b3J5IjpbLTE4NTQzNjkyOTQsLTEwNDEwODQzODEsLT
+czOTQ1NzM4OSwxNzU1Mzk1NzMsMTI1MzAzNzA2MSwyNjkwODYw
+NTIsLTYyNzgwNjQ5MiwtMTU4Njg0MjM4NywyNjA5MTM1NDIsMT
+E5NTIzMDY0MiwxNjY3MDk3NDEyLDE4MjY5MTkwMjksLTE3MjY0
+NzE3NjEsLTE1NTE3Mjk1NzIsMjAzOTAzNDA5NiwtMTMwMzA0NT
+Q0OCwxMjk3MzIzODU1LC03MzAxOTI0MDcsLTI1MDUwMzY3MSw0
+ODI5OTEwOTNdfQ==
 -->
