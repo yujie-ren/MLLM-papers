@@ -59,7 +59,8 @@ Search Keywords: Vision, Visual, Multimodal
 10. VLMaterial: Procedural Material Generation with Large Vision-Language Models  [[pdf]](https://openreview.net/forum?id=wHebuIb6IH)  
 (MIT, VLM, Computer graphics)  
 11. LLaVA-Interleave: Tackling Multi-image, Video, and 3D in Large Multimodal Models  [[pdf]](https://openreview.net/forum?id=oSQiao9GqB)  
-(ByteDance, )
+(ByteDance, VLM, Multi-image, Video, 3D)  
+12
 
 
 
@@ -67,11 +68,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNjcwMDA5MywxNjUyMTg1NDY5LDE4Mz
-k5MTAxMDAsMjA0MTU4ODg2NywtMTE4MDU5OTA2OCwyMTQyNzY4
-NzQsLTE2MzI1MDQwNTQsMzE3MjQwNzg2LC04MTE0MTg1MDUsLT
-EzNzg3MDczODgsNjMxODUyMzYzLC0xNTk3OTMwNDU4LC0xOTUx
-OTU4NzIxLC0xMDQxMDg0MzgxLC03Mzk0NTczODksMTc1NTM5NT
-czLDEyNTMwMzcwNjEsMjY5MDg2MDUyLC02Mjc4MDY0OTIsLTE1
-ODY4NDIzODddfQ==
+eyJoaXN0b3J5IjpbMTMxMDEyMjc1NiwxNTM2NzAwMDkzLDE2NT
+IxODU0NjksMTgzOTkxMDEwMCwyMDQxNTg4ODY3LC0xMTgwNTk5
+MDY4LDIxNDI3Njg3NCwtMTYzMjUwNDA1NCwzMTcyNDA3ODYsLT
+gxMTQxODUwNSwtMTM3ODcwNzM4OCw2MzE4NTIzNjMsLTE1OTc5
+MzA0NTgsLTE5NTE5NTg3MjEsLTEwNDEwODQzODEsLTczOTQ1Nz
+M4OSwxNzU1Mzk1NzMsMTI1MzAzNzA2MSwyNjkwODYwNTIsLTYy
+NzgwNjQ5Ml19
 -->
