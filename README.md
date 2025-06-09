@@ -34,18 +34,20 @@ Search Keywords: Vision, Visual, Multimodal
 9.  Interpreting Emergent Planning in Model-Free Reinforcement Learning  [[pdf]](https://openreview.net/forum?id=DzGe40glxs)  
 (Cambridge, Interpretability, RL agents)  
 10.  Unlocking the Power of Function Vectors for Characterizing and Mitigating Catastrophic Forgetting in Continual Instruction Tuning  [[pdf]](https://openreview.net/forum?id=gc8QAQfXv6)  
-(USTC, Catastrophic forgetting, Continual learning)
+(USTC, Catastrophic forgetting, Continual learning)  
+11. Dynamic Multimodal Evaluation with Flexible Complexity by Vision-Language Bootstrapping  [[pdf]](https://openreview.net/forum?id=X1OfiRYCLn)  
+12. 
 
 
 ## NAACL-202504
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTE5NTg3MjEsLTEwNDEwODQzODEsLT
-czOTQ1NzM4OSwxNzU1Mzk1NzMsMTI1MzAzNzA2MSwyNjkwODYw
-NTIsLTYyNzgwNjQ5MiwtMTU4Njg0MjM4NywyNjA5MTM1NDIsMT
-E5NTIzMDY0MiwxNjY3MDk3NDEyLDE4MjY5MTkwMjksLTE3MjY0
-NzE3NjEsLTE1NTE3Mjk1NzIsMjAzOTAzNDA5NiwtMTMwMzA0NT
-Q0OCwxMjk3MzIzODU1LC03MzAxOTI0MDcsLTI1MDUwMzY3MSw0
-ODI5OTEwOTNdfQ==
+eyJoaXN0b3J5IjpbLTc1ODY1NTY0OSwtMTk1MTk1ODcyMSwtMT
+A0MTA4NDM4MSwtNzM5NDU3Mzg5LDE3NTUzOTU3MywxMjUzMDM3
+MDYxLDI2OTA4NjA1MiwtNjI3ODA2NDkyLC0xNTg2ODQyMzg3LD
+I2MDkxMzU0MiwxMTk1MjMwNjQyLDE2NjcwOTc0MTIsMTgyNjkx
+OTAyOSwtMTcyNjQ3MTc2MSwtMTU1MTcyOTU3MiwyMDM5MDM0MD
+k2LC0xMzAzMDQ1NDQ4LDEyOTczMjM4NTUsLTczMDE5MjQwNywt
+MjUwNTAzNjcxXX0=
 -->
