@@ -54,7 +54,7 @@ Search Keywords: Vision, Visual, Multimodal
 19. Do Vision & Language Decoders use Images and Text equally? How Self-consistent are their Explanations? [[pdf]](https://openreview.net/forum?id=lCasyP21Bf)  
 (⭐️Heidelberg U, Multimodal degree of a VLM)  
 20. VL-Cache: Sparsity and Modality-Aware KV Cache Compression for Vision-Language Model Inference Acceleration [[pdf]](https://openreview.net/forum?id=HMrcv7Q4Ub)  
-()
+(UCLA, )
 
 
 
@@ -95,11 +95,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI1MTgwNzQsNjM1NzkyMTgsLTE4NDYzOD
-A0NzQsMjg4MzE4ODQ4LDIwOTk5NzQ0ODEsLTU0MjcyNjM4LC05
-MjI2Nzk0MDcsLTQ1NDQ0OTk0LDE3Njc0NzA0NTAsLTQwNTM3MD
-MwNiwxMTg0OTc1ODAxLDk5ODEwOTMxMywxNTM2NzAwMDkzLDE2
-NTIxODU0NjksMTgzOTkxMDEwMCwyMDQxNTg4ODY3LC0xMTgwNT
-k5MDY4LDIxNDI3Njg3NCwtMTYzMjUwNDA1NCwzMTcyNDA3ODZd
-fQ==
+eyJoaXN0b3J5IjpbLTcyOTc3NDIzNyw2MzU3OTIxOCwtMTg0Nj
+M4MDQ3NCwyODgzMTg4NDgsMjA5OTk3NDQ4MSwtNTQyNzI2Mzgs
+LTkyMjY3OTQwNywtNDU0NDQ5OTQsMTc2NzQ3MDQ1MCwtNDA1Mz
+cwMzA2LDExODQ5NzU4MDEsOTk4MTA5MzEzLDE1MzY3MDAwOTMs
+MTY1MjE4NTQ2OSwxODM5OTEwMTAwLDIwNDE1ODg4NjcsLTExOD
+A1OTkwNjgsMjE0Mjc2ODc0LC0xNjMyNTA0MDU0LDMxNzI0MDc4
+Nl19
 -->
