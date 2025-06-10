@@ -110,7 +110,9 @@ Search Keywords: Vision, Visual, Multimodal
 47. Modality-Specialized Synergizers for Interleaved Vision-Language Generalists [[pdf]](https://openreview.net/forum?id=7UgQjFEadn)  
 (Virginia Tech, Vision-Language Generalists, Understanding and generating both text and images)  
 48. How Does Vision-Language Adaptation Impact the Safety of Vision Language Models? [[pdf]](https://openreview.net/forum?id=eXB5TCrAu9)  
-(⭐️⭐️KAIST, Vision language adaptation, Safety, Model merging)
+(⭐️⭐️KAIST, Vision language adaptation, Safety, Model merging)  
+49. Cross-Modal Safety Mechanism Transfer in Large Vision-Language Models [[pdf]](https://openreview.net/forum?id=45rvZkJbuX)  
+()
 
 
 
@@ -152,11 +154,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNzU2ODE0Nyw2NjI2NDUwMzcsMTM4OD
-gwOTM0OSwxMzQwMDM1NTE2LDIwMTc2MzM5MDQsMzk3NzA2MDAz
-LC0xNjIzNzI4MjIwLDExNDQwNjYwMDksMTg4NjgwODk2NiwtMj
-g2MTI0Njc2LDg5MDk1MDA5MiwxMTAzODU1MTgsLTgxNjA5MDE5
-NiwxNjY5MTY0NTk1LC0xMjUxNzkzMTA3LC0xMjcwODE0MTE0LD
-YzNTc5MjE4LC0xODQ2MzgwNDc0LDI4ODMxODg0OCwyMDk5OTc0
-NDgxXX0=
+eyJoaXN0b3J5IjpbMTU4OTMzMjI0MSwxODM3NTY4MTQ3LDY2Mj
+Y0NTAzNywxMzg4ODA5MzQ5LDEzNDAwMzU1MTYsMjAxNzYzMzkw
+NCwzOTc3MDYwMDMsLTE2MjM3MjgyMjAsMTE0NDA2NjAwOSwxOD
+g2ODA4OTY2LC0yODYxMjQ2NzYsODkwOTUwMDkyLDExMDM4NTUx
+OCwtODE2MDkwMTk2LDE2NjkxNjQ1OTUsLTEyNTE3OTMxMDcsLT
+EyNzA4MTQxMTQsNjM1NzkyMTgsLTE4NDYzODA0NzQsMjg4MzE4
+ODQ4XX0=
 -->
