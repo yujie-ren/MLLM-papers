@@ -91,7 +91,8 @@ Search Keywords: Vision, Visual, Multimodal
 (UIUC, Mathematical reasoning robustness benchmarking)  
 38. See It from My Perspective: How Language Affects Cultural Bias in Image Understanding [[pdf]](https://openreview.net/forum?id=Xbl6t6zxZs)  
 (Columbia U, Cutural bais in image understanding)  
-39. 
+39. DAMO: Decoding by Accumulating Activations Momentum for Mitigating Hallucinations in Vision-Language Models [[pdf]](https://openreview.net/forum?id=JUr0YOMvZA)  
+()
 
 
 
@@ -133,7 +134,7 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjQ0NDc1OTIsMTE0NDA2NjAwOSwxOD
+eyJoaXN0b3J5IjpbLTExMTA3NzU3MjksMTE0NDA2NjAwOSwxOD
 g2ODA4OTY2LC0yODYxMjQ2NzYsODkwOTUwMDkyLDExMDM4NTUx
 OCwtODE2MDkwMTk2LDE2NjkxNjQ1OTUsLTEyNTE3OTMxMDcsLT
 EyNzA4MTQxMTQsNjM1NzkyMTgsLTE4NDYzODA0NzQsMjg4MzE4
