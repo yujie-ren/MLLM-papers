@@ -74,7 +74,7 @@ Search Keywords: Vision, Visual, Multimodal
 29. IDA-VLM: Towards Movie Understanding via ID-Aware Large Vision-Language Model [[pdf]](https://openreview.net/forum?id=N5YTixK4F1)  
 (UHK, Movie understanding, Associate instances across different scenes)  
 30. HAMSTER: Hierarchical Action Models for Open-World Robot Manipulation [[pdf]](https://openreview.net/forum?id=h7aQxzKbq6)  
-(Nvidia, )  
+(Nvidia, Train VLM with off-domain data)  
 31. Locality Alignment Improves Vision-Language Models [[pdf]](https://openreview.net/forum?id=qssVptHTPN)  
 (Stanford, VLM spatial reasoning, Train with locality alignment)  
 32. CogCoM: A Visual Language Model with Chain-of-Manipulations Reasoning [[pdf]](https://openreview.net/forum?id=Fg0eo2AkST)  
@@ -122,7 +122,7 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMTM0NjE1Miw4OTA5NTAwOTIsMTEwMz
+eyJoaXN0b3J5IjpbMTk5Mjg4MDQ3MSw4OTA5NTAwOTIsMTEwMz
 g1NTE4LC04MTYwOTAxOTYsMTY2OTE2NDU5NSwtMTI1MTc5MzEw
 NywtMTI3MDgxNDExNCw2MzU3OTIxOCwtMTg0NjM4MDQ3NCwyOD
 gzMTg4NDgsMjA5OTk3NDQ4MSwtNTQyNzI2MzgsLTkyMjY3OTQw
