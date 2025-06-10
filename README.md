@@ -85,7 +85,8 @@ Search Keywords: Vision, Visual, Multimodal
 (NAVER AI from Korea, CLIP, Probabilistic pretraining)  
 35. RA-TTA: Retrieval-Augmented Test-Time Adaptation for Vision-Language Models [[pdf]](https://openreview.net/forum?id=V3zobHnS61)  
 (KAIST, Retrieval-augmented test-time adaptation)  
-36. 
+36. Mitigating Spurious Correlations in Zero-Shot Multimodal Models [[pdf]](https://openreview.net/forum?id=UsRKFYR4lM)  
+(
 
 
 
@@ -127,11 +128,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NDA2NjAwOSwxODg2ODA4OTY2LC0yOD
-YxMjQ2NzYsODkwOTUwMDkyLDExMDM4NTUxOCwtODE2MDkwMTk2
-LDE2NjkxNjQ1OTUsLTEyNTE3OTMxMDcsLTEyNzA4MTQxMTQsNj
-M1NzkyMTgsLTE4NDYzODA0NzQsMjg4MzE4ODQ4LDIwOTk5NzQ0
-ODEsLTU0MjcyNjM4LC05MjI2Nzk0MDcsLTQ1NDQ0OTk0LDE3Nj
-c0NzA0NTAsLTQwNTM3MDMwNiwxMTg0OTc1ODAxLDk5ODEwOTMx
-M119
+eyJoaXN0b3J5IjpbLTg3OTI1ODgwMCwxMTQ0MDY2MDA5LDE4OD
+Y4MDg5NjYsLTI4NjEyNDY3Niw4OTA5NTAwOTIsMTEwMzg1NTE4
+LC04MTYwOTAxOTYsMTY2OTE2NDU5NSwtMTI1MTc5MzEwNywtMT
+I3MDgxNDExNCw2MzU3OTIxOCwtMTg0NjM4MDQ3NCwyODgzMTg4
+NDgsMjA5OTk3NDQ4MSwtNTQyNzI2MzgsLTkyMjY3OTQwNywtND
+U0NDQ5OTQsMTc2NzQ3MDQ1MCwtNDA1MzcwMzA2LDExODQ5NzU4
+MDFdfQ==
 -->
