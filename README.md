@@ -51,7 +51,7 @@ Search Keywords: Vision, Visual, Multimodal
 (Valeo.ai from France, VLM, Referring Expression Comprehension)  
 18. Backdooring Vision-Language Models with Out-Of-Distribution Data [[pdf]](https://openreview.net/forum?id=tZozeR3VV7)  
 (Stony Brook U, VLM, Backdoor attack)  
-19. 
+19. #### [Do Vision & Language Decoders use Images and Text equally? How Self-consistent are their Explanations?](https://openreview.net/forum?id=lCasyP21Bf)
 
 
 
@@ -92,11 +92,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNDIzNjU0MSwyODgzMTg4NDgsMjA5OT
-k3NDQ4MSwtNTQyNzI2MzgsLTkyMjY3OTQwNywtNDU0NDQ5OTQs
-MTc2NzQ3MDQ1MCwtNDA1MzcwMzA2LDExODQ5NzU4MDEsOTk4MT
-A5MzEzLDE1MzY3MDAwOTMsMTY1MjE4NTQ2OSwxODM5OTEwMTAw
-LDIwNDE1ODg4NjcsLTExODA1OTkwNjgsMjE0Mjc2ODc0LC0xNj
-MyNTA0MDU0LDMxNzI0MDc4NiwtODExNDE4NTA1LC0xMzc4NzA3
-Mzg4XX0=
+eyJoaXN0b3J5IjpbLTE0NjA3MzkzNzcsMjg4MzE4ODQ4LDIwOT
+k5NzQ0ODEsLTU0MjcyNjM4LC05MjI2Nzk0MDcsLTQ1NDQ0OTk0
+LDE3Njc0NzA0NTAsLTQwNTM3MDMwNiwxMTg0OTc1ODAxLDk5OD
+EwOTMxMywxNTM2NzAwMDkzLDE2NTIxODU0NjksMTgzOTkxMDEw
+MCwyMDQxNTg4ODY3LC0xMTgwNTk5MDY4LDIxNDI3Njg3NCwtMT
+YzMjUwNDA1NCwzMTcyNDA3ODYsLTgxMTQxODUwNSwtMTM3ODcw
+NzM4OF19
 -->
