@@ -69,7 +69,8 @@ Search Keywords: Vision, Visual, Multimodal
 (Offenburg U, Vision biases,Shape/texture bias)  
 27. Towards Interpreting Visual Information Processing in Vision-Language Models [[pdf]](https://openreview.net/forum?id=chanJGoa7f)  
 (NTU, VLM interpretability)  
-28. 
+28. Painting with Words: Elevating Detailed Image Captioning with Benchmark and Alignment Learning [[pdf]](https://openreview.net/forum?id=636M0nNbPs)  
+()
 
 
 
@@ -110,7 +111,7 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNDEwNzMzOCwtODE2MDkwMTk2LDE2Nj
+eyJoaXN0b3J5IjpbLTIyNjE1OTE1OCwtODE2MDkwMTk2LDE2Nj
 kxNjQ1OTUsLTEyNTE3OTMxMDcsLTEyNzA4MTQxMTQsNjM1Nzky
 MTgsLTE4NDYzODA0NzQsMjg4MzE4ODQ4LDIwOTk5NzQ0ODEsLT
 U0MjcyNjM4LC05MjI2Nzk0MDcsLTQ1NDQ0OTk0LDE3Njc0NzA0
