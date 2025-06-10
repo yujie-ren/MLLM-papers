@@ -92,7 +92,8 @@ Search Keywords: Vision, Visual, Multimodal
 38. See It from My Perspective: How Language Affects Cultural Bias in Image Understanding [[pdf]](https://openreview.net/forum?id=Xbl6t6zxZs)  
 (Columbia U, Cutural bais in image understanding)  
 39. DAMO: Decoding by Accumulating Activations Momentum for Mitigating Hallucinations in Vision-Language Models [[pdf]](https://openreview.net/forum?id=JUr0YOMvZA)  
-(U of Maryland, College Park, )
+(U of Maryland, Hallucination, Layer-wise analysis)  
+40. 
 
 
 
@@ -134,11 +135,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjM3MjgyMjAsMTE0NDA2NjAwOSwxOD
-g2ODA4OTY2LC0yODYxMjQ2NzYsODkwOTUwMDkyLDExMDM4NTUx
-OCwtODE2MDkwMTk2LDE2NjkxNjQ1OTUsLTEyNTE3OTMxMDcsLT
-EyNzA4MTQxMTQsNjM1NzkyMTgsLTE4NDYzODA0NzQsMjg4MzE4
-ODQ4LDIwOTk5NzQ0ODEsLTU0MjcyNjM4LC05MjI2Nzk0MDcsLT
-Q1NDQ0OTk0LDE3Njc0NzA0NTAsLTQwNTM3MDMwNiwxMTg0OTc1
-ODAxXX0=
+eyJoaXN0b3J5IjpbLTE5MzgzNTgxMDAsLTE2MjM3MjgyMjAsMT
+E0NDA2NjAwOSwxODg2ODA4OTY2LC0yODYxMjQ2NzYsODkwOTUw
+MDkyLDExMDM4NTUxOCwtODE2MDkwMTk2LDE2NjkxNjQ1OTUsLT
+EyNTE3OTMxMDcsLTEyNzA4MTQxMTQsNjM1NzkyMTgsLTE4NDYz
+ODA0NzQsMjg4MzE4ODQ4LDIwOTk5NzQ0ODEsLTU0MjcyNjM4LC
+05MjI2Nzk0MDcsLTQ1NDQ0OTk0LDE3Njc0NzA0NTAsLTQwNTM3
+MDMwNl19
 -->
