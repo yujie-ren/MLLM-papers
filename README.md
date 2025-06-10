@@ -58,7 +58,7 @@ Search Keywords: Vision, Visual, Multimodal
 21. Benchmarking Vision Language Model Unlearning via Fictitious Facial Identity Dataset [[pdf]](https://openreview.net/forum?id=0y3hGn1wOk)  
 (UWM, VLM unlearning benchmark)  
 22. Re-Aligning Language to Visual Objects with an Agentic Workflow [[pdf]](https://openreview.net/forum?id=MPJ4SMnScw)  
-(
+()
 
 
 
@@ -99,11 +99,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NjAyMDgzMywtMTI3MDgxNDExNCw2Mz
-U3OTIxOCwtMTg0NjM4MDQ3NCwyODgzMTg4NDgsMjA5OTk3NDQ4
-MSwtNTQyNzI2MzgsLTkyMjY3OTQwNywtNDU0NDQ5OTQsMTc2Nz
-Q3MDQ1MCwtNDA1MzcwMzA2LDExODQ5NzU4MDEsOTk4MTA5MzEz
-LDE1MzY3MDAwOTMsMTY1MjE4NTQ2OSwxODM5OTEwMTAwLDIwND
-E1ODg4NjcsLTExODA1OTkwNjgsMjE0Mjc2ODc0LC0xNjMyNTA0
-MDU0XX0=
+eyJoaXN0b3J5IjpbLTE5NDgwODc0ODQsLTEyNzA4MTQxMTQsNj
+M1NzkyMTgsLTE4NDYzODA0NzQsMjg4MzE4ODQ4LDIwOTk5NzQ0
+ODEsLTU0MjcyNjM4LC05MjI2Nzk0MDcsLTQ1NDQ0OTk0LDE3Nj
+c0NzA0NTAsLTQwNTM3MDMwNiwxMTg0OTc1ODAxLDk5ODEwOTMx
+MywxNTM2NzAwMDkzLDE2NTIxODU0NjksMTgzOTkxMDEwMCwyMD
+QxNTg4ODY3LC0xMTgwNTk5MDY4LDIxNDI3Njg3NCwtMTYzMjUw
+NDA1NF19
 -->
