@@ -84,7 +84,7 @@ Search Keywords: Vision, Visual, Multimodal
 34. Probabilistic Language-Image Pre-Training [[pdf]](https://openreview.net/forum?id=D5X6nPGFUY)  
 (NAVER AI from Korea, CLIP, Probabilistic pretraining)  
 35. RA-TTA: Retrieval-Augmented Test-Time Adaptation for Vision-Language Models [[pdf]](https://openreview.net/forum?id=V3zobHnS61)  
-()
+(KAIST, )
 
 
 
@@ -126,7 +126,7 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2OTY2MDM4MCwtMjg2MTI0Njc2LDg5MD
+eyJoaXN0b3J5IjpbMTg4NjgwODk2NiwtMjg2MTI0Njc2LDg5MD
 k1MDA5MiwxMTAzODU1MTgsLTgxNjA5MDE5NiwxNjY5MTY0NTk1
 LC0xMjUxNzkzMTA3LC0xMjcwODE0MTE0LDYzNTc5MjE4LC0xOD
 Q2MzgwNDc0LDI4ODMxODg0OCwyMDk5OTc0NDgxLC01NDI3MjYz
