@@ -48,7 +48,7 @@ Search Keywords: Vision, Visual, Multimodal
 16. Is Your Video Language Model a Reliable Judge? [[pdf]](https://openreview.net/forum?id=m8yby1JfbU)  
 (Iowa State U, Video language models, VLM as a judge)  
 17. LLM-wrapper: Black-Box Semantic-Aware Adaptation of Vision-Language Models for Referring Expression Comprehension [[pdf]](https://openreview.net/forum?id=PgXpOOqtyd)  
-()
+(Valeo.ai)
 
 
 
@@ -89,7 +89,7 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MDIwMjcxMiwyODgzMTg4NDgsMjA5OT
+eyJoaXN0b3J5IjpbMTc1NDc3MjMzMywyODgzMTg4NDgsMjA5OT
 k3NDQ4MSwtNTQyNzI2MzgsLTkyMjY3OTQwNywtNDU0NDQ5OTQs
 MTc2NzQ3MDQ1MCwtNDA1MzcwMzA2LDExODQ5NzU4MDEsOTk4MT
 A5MzEzLDE1MzY3MDAwOTMsMTY1MjE4NTQ2OSwxODM5OTEwMTAw
