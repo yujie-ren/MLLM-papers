@@ -44,7 +44,8 @@ Search Keywords: Vision, Visual, Multimodal
 14. Failures to Find Transferable Image Jailbreaks Between Vision-Language Models [[pdf]](https://openreview.net/forum?id=wvFnqVVUhN)  
 (Stanford, VLM, Image jailbreak)
 15. Have the VLMs Lost Confidence? A Study of Sycophancy in VLMs [[pdf]](https://openreview.net/forum?id=E2PFv7ad3p)  
-(Fudan U, )
+(Fudan U, Sycophancy, Hallucination)  
+
 
 
 
@@ -85,11 +86,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMDA1MDM5MiwyMDk5OTc0NDgxLC01ND
-I3MjYzOCwtOTIyNjc5NDA3LC00NTQ0NDk5NCwxNzY3NDcwNDUw
-LC00MDUzNzAzMDYsMTE4NDk3NTgwMSw5OTgxMDkzMTMsMTUzNj
-cwMDA5MywxNjUyMTg1NDY5LDE4Mzk5MTAxMDAsMjA0MTU4ODg2
-NywtMTE4MDU5OTA2OCwyMTQyNzY4NzQsLTE2MzI1MDQwNTQsMz
-E3MjQwNzg2LC04MTE0MTg1MDUsLTEzNzg3MDczODgsNjMxODUy
-MzYzXX0=
+eyJoaXN0b3J5IjpbMjg4MzE4ODQ4LDIwOTk5NzQ0ODEsLTU0Mj
+cyNjM4LC05MjI2Nzk0MDcsLTQ1NDQ0OTk0LDE3Njc0NzA0NTAs
+LTQwNTM3MDMwNiwxMTg0OTc1ODAxLDk5ODEwOTMxMywxNTM2Nz
+AwMDkzLDE2NTIxODU0NjksMTgzOTkxMDEwMCwyMDQxNTg4ODY3
+LC0xMTgwNTk5MDY4LDIxNDI3Njg3NCwtMTYzMjUwNDA1NCwzMT
+cyNDA3ODYsLTgxMTQxODUwNSwtMTM3ODcwNzM4OCw2MzE4NTIz
+NjNdfQ==
 -->
