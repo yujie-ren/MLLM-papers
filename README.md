@@ -37,7 +37,8 @@ Search Keywords: Vision, Visual, Multimodal
 (Nvidia, VLM, Robot, Detect failures)  
 11. Teaching Human Behavior Improves Content Understanding Abilities Of VLMs  [[pdf]](https://openreview.net/forum?id=ff2V3UR9sC)  
 (Adobe, VLM, Training VLMs to predict receiver behaviors)  
-12. 
+12. NL-Eye: Abductive NLI For Images  [[pdf]](https://openreview.net/forum?id=2zmO1GVT0Y)  
+()
 
 
 #### Other
@@ -77,11 +78,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NDQ0OTk0LDE3Njc0NzA0NTAsLTQwNT
-M3MDMwNiwxMTg0OTc1ODAxLDk5ODEwOTMxMywxNTM2NzAwMDkz
-LDE2NTIxODU0NjksMTgzOTkxMDEwMCwyMDQxNTg4ODY3LC0xMT
-gwNTk5MDY4LDIxNDI3Njg3NCwtMTYzMjUwNDA1NCwzMTcyNDA3
-ODYsLTgxMTQxODUwNSwtMTM3ODcwNzM4OCw2MzE4NTIzNjMsLT
-E1OTc5MzA0NTgsLTE5NTE5NTg3MjEsLTEwNDEwODQzODEsLTcz
-OTQ1NzM4OV19
+eyJoaXN0b3J5IjpbMTkzNjE3OTMzLC00NTQ0NDk5NCwxNzY3ND
+cwNDUwLC00MDUzNzAzMDYsMTE4NDk3NTgwMSw5OTgxMDkzMTMs
+MTUzNjcwMDA5MywxNjUyMTg1NDY5LDE4Mzk5MTAxMDAsMjA0MT
+U4ODg2NywtMTE4MDU5OTA2OCwyMTQyNzY4NzQsLTE2MzI1MDQw
+NTQsMzE3MjQwNzg2LC04MTE0MTg1MDUsLTEzNzg3MDczODgsNj
+MxODUyMzYzLC0xNTk3OTMwNDU4LC0xOTUxOTU4NzIxLC0xMDQx
+MDg0MzgxXX0=
 -->
