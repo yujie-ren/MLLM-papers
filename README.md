@@ -88,7 +88,7 @@ Search Keywords: Vision, Visual, Multimodal
 36. Mitigating Spurious Correlations in Zero-Shot Multimodal Models [[pdf]](https://openreview.net/forum?id=UsRKFYR4lM)  
 (Purdue U, CLIP, Spurious correlation)  
 37. DynaMath: A Dynamic Visual Benchmark for Evaluating Mathematical Reasoning Robustness of Vision Language Models [[pdf]](https://openreview.net/forum?id=VOAMTA8jKu)  
-()
+(UIUC, )
 
 
 
@@ -130,11 +130,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1ODA2MzM0OSwxMTQ0MDY2MDA5LDE4OD
-Y4MDg5NjYsLTI4NjEyNDY3Niw4OTA5NTAwOTIsMTEwMzg1NTE4
-LC04MTYwOTAxOTYsMTY2OTE2NDU5NSwtMTI1MTc5MzEwNywtMT
-I3MDgxNDExNCw2MzU3OTIxOCwtMTg0NjM4MDQ3NCwyODgzMTg4
-NDgsMjA5OTk3NDQ4MSwtNTQyNzI2MzgsLTkyMjY3OTQwNywtND
-U0NDQ5OTQsMTc2NzQ3MDQ1MCwtNDA1MzcwMzA2LDExODQ5NzU4
-MDFdfQ==
+eyJoaXN0b3J5IjpbLTEzNjgzNzY0MTcsMTE0NDA2NjAwOSwxOD
+g2ODA4OTY2LC0yODYxMjQ2NzYsODkwOTUwMDkyLDExMDM4NTUx
+OCwtODE2MDkwMTk2LDE2NjkxNjQ1OTUsLTEyNTE3OTMxMDcsLT
+EyNzA4MTQxMTQsNjM1NzkyMTgsLTE4NDYzODA0NzQsMjg4MzE4
+ODQ4LDIwOTk5NzQ0ODEsLTU0MjcyNjM4LC05MjI2Nzk0MDcsLT
+Q1NDQ0OTk0LDE3Njc0NzA0NTAsLTQwNTM3MDMwNiwxMTg0OTc1
+ODAxXX0=
 -->
