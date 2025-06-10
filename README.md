@@ -90,7 +90,7 @@ Search Keywords: Vision, Visual, Multimodal
 37. DynaMath: A Dynamic Visual Benchmark for Evaluating Mathematical Reasoning Robustness of Vision Language Models [[pdf]](https://openreview.net/forum?id=VOAMTA8jKu)  
 (UIUC, Mathematical reasoning robustness benchmarking)  
 38. See It from My Perspective: How Language Affects Cultural Bias in Image Understanding [[pdf]](https://openreview.net/forum?id=Xbl6t6zxZs)  
-()
+(Columbia U, )
 
 
 
@@ -132,7 +132,7 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcwODkwMzE0LDExNDQwNjYwMDksMTg4Nj
+eyJoaXN0b3J5IjpbODg5NzMyMjg3LDExNDQwNjYwMDksMTg4Nj
 gwODk2NiwtMjg2MTI0Njc2LDg5MDk1MDA5MiwxMTAzODU1MTgs
 LTgxNjA5MDE5NiwxNjY5MTY0NTk1LC0xMjUxNzkzMTA3LC0xMj
 cwODE0MTE0LDYzNTc5MjE4LC0xODQ2MzgwNDc0LDI4ODMxODg0
