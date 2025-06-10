@@ -72,7 +72,8 @@ Search Keywords: Vision, Visual, Multimodal
 28. Painting with Words: Elevating Detailed Image Captioning with Benchmark and Alignment Learning [[pdf]](https://openreview.net/forum?id=636M0nNbPs)  
 (ByteDance, Image captioning evaluation)  
 29. IDA-VLM: Towards Movie Understanding via ID-Aware Large Vision-Language Model [[pdf]](https://openreview.net/forum?id=N5YTixK4F1)  
-(UHK, )
+(UHK, Movie understanding, Associate instances across different scenes)  
+30. 
 
 
 
@@ -113,11 +114,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMzg1NTE4LC04MTYwOTAxOTYsMTY2OT
-E2NDU5NSwtMTI1MTc5MzEwNywtMTI3MDgxNDExNCw2MzU3OTIx
-OCwtMTg0NjM4MDQ3NCwyODgzMTg4NDgsMjA5OTk3NDQ4MSwtNT
-QyNzI2MzgsLTkyMjY3OTQwNywtNDU0NDQ5OTQsMTc2NzQ3MDQ1
-MCwtNDA1MzcwMzA2LDExODQ5NzU4MDEsOTk4MTA5MzEzLDE1Mz
-Y3MDAwOTMsMTY1MjE4NTQ2OSwxODM5OTEwMTAwLDIwNDE1ODg4
-NjddfQ==
+eyJoaXN0b3J5IjpbLTE4NzQ1NDQ0MzYsMTEwMzg1NTE4LC04MT
+YwOTAxOTYsMTY2OTE2NDU5NSwtMTI1MTc5MzEwNywtMTI3MDgx
+NDExNCw2MzU3OTIxOCwtMTg0NjM4MDQ3NCwyODgzMTg4NDgsMj
+A5OTk3NDQ4MSwtNTQyNzI2MzgsLTkyMjY3OTQwNywtNDU0NDQ5
+OTQsMTc2NzQ3MDQ1MCwtNDA1MzcwMzA2LDExODQ5NzU4MDEsOT
+k4MTA5MzEzLDE1MzY3MDAwOTMsMTY1MjE4NTQ2OSwxODM5OTEw
+MTAwXX0=
 -->
