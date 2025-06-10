@@ -100,7 +100,8 @@ Search Keywords: Vision, Visual, Multimodal
 42. VisRAG: Vision-based Retrieval-augmented Generation on Multi-modality Documents [[pdf]](https://openreview.net/forum?id=zG459X3Xge)  
 (THU, VLM-based RAG)  
 43. Generating CAD Code with Vision-Language Models for 3D Designs [[pdf]](https://openreview.net/forum?id=BLWaTeucYX)  
-(Georgia Institute of Technology, )
+(Georgia IT, CAD code verification)  
+44. 
 
 
 
@@ -142,11 +143,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNzYzMzkwNCwzOTc3MDYwMDMsLTE2Mj
-M3MjgyMjAsMTE0NDA2NjAwOSwxODg2ODA4OTY2LC0yODYxMjQ2
-NzYsODkwOTUwMDkyLDExMDM4NTUxOCwtODE2MDkwMTk2LDE2Nj
-kxNjQ1OTUsLTEyNTE3OTMxMDcsLTEyNzA4MTQxMTQsNjM1Nzky
-MTgsLTE4NDYzODA0NzQsMjg4MzE4ODQ4LDIwOTk5NzQ0ODEsLT
-U0MjcyNjM4LC05MjI2Nzk0MDcsLTQ1NDQ0OTk0LDE3Njc0NzA0
-NTBdfQ==
+eyJoaXN0b3J5IjpbMTcxNTY0MTQwNSwyMDE3NjMzOTA0LDM5Nz
+cwNjAwMywtMTYyMzcyODIyMCwxMTQ0MDY2MDA5LDE4ODY4MDg5
+NjYsLTI4NjEyNDY3Niw4OTA5NTAwOTIsMTEwMzg1NTE4LC04MT
+YwOTAxOTYsMTY2OTE2NDU5NSwtMTI1MTc5MzEwNywtMTI3MDgx
+NDExNCw2MzU3OTIxOCwtMTg0NjM4MDQ3NCwyODgzMTg4NDgsMj
+A5OTk3NDQ4MSwtNTQyNzI2MzgsLTkyMjY3OTQwNywtNDU0NDQ5
+OTRdfQ==
 -->
