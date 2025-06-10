@@ -75,7 +75,8 @@ Search Keywords: Vision, Visual, Multimodal
 (UHK, Movie understanding, Associate instances across different scenes)  
 30. Locality Alignment Improves Vision-Language Models [[pdf]](https://openreview.net/forum?id=qssVptHTPN)  
 (Stanford, VLM spatial reasoning, Train with locality alignment)  
-31. 
+31. CogCoM: A Visual Language Model with Chain-of-Manipulations Reasoning [[pdf]](https://openreview.net/forum?id=Fg0eo2AkST)  
+()
 
 
 
@@ -116,11 +117,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkwOTUwMDkyLDExMDM4NTUxOCwtODE2MD
-kwMTk2LDE2NjkxNjQ1OTUsLTEyNTE3OTMxMDcsLTEyNzA4MTQx
-MTQsNjM1NzkyMTgsLTE4NDYzODA0NzQsMjg4MzE4ODQ4LDIwOT
-k5NzQ0ODEsLTU0MjcyNjM4LC05MjI2Nzk0MDcsLTQ1NDQ0OTk0
-LDE3Njc0NzA0NTAsLTQwNTM3MDMwNiwxMTg0OTc1ODAxLDk5OD
-EwOTMxMywxNTM2NzAwMDkzLDE2NTIxODU0NjksMTgzOTkxMDEw
-MF19
+eyJoaXN0b3J5IjpbLTE1MDU2ODY2MzMsODkwOTUwMDkyLDExMD
+M4NTUxOCwtODE2MDkwMTk2LDE2NjkxNjQ1OTUsLTEyNTE3OTMx
+MDcsLTEyNzA4MTQxMTQsNjM1NzkyMTgsLTE4NDYzODA0NzQsMj
+g4MzE4ODQ4LDIwOTk5NzQ0ODEsLTU0MjcyNjM4LC05MjI2Nzk0
+MDcsLTQ1NDQ0OTk0LDE3Njc0NzA0NTAsLTQwNTM3MDMwNiwxMT
+g0OTc1ODAxLDk5ODEwOTMxMywxNTM2NzAwMDkzLDE2NTIxODU0
+NjldfQ==
 -->
