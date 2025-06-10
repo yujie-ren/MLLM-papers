@@ -40,7 +40,7 @@ Search Keywords: Vision, Visual, Multimodal
 12. NL-Eye: Abductive NLI For Images  [[pdf]](https://openreview.net/forum?id=2zmO1GVT0Y)  
 (Technion, VLM Evaluation, Natural language inference in visual domain)  
 13. LLaRA: Supercharging Robot Learning Data for Vision-Language Policy [[pdf]](https://openreview.net/forum?id=iVxxgZlXh6)  
-()
+(Stony Brook U, )
 
 
 
@@ -81,11 +81,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MjcyNjM4LC05MjI2Nzk0MDcsLTQ1ND
-Q0OTk0LDE3Njc0NzA0NTAsLTQwNTM3MDMwNiwxMTg0OTc1ODAx
-LDk5ODEwOTMxMywxNTM2NzAwMDkzLDE2NTIxODU0NjksMTgzOT
-kxMDEwMCwyMDQxNTg4ODY3LC0xMTgwNTk5MDY4LDIxNDI3Njg3
-NCwtMTYzMjUwNDA1NCwzMTcyNDA3ODYsLTgxMTQxODUwNSwtMT
-M3ODcwNzM4OCw2MzE4NTIzNjMsLTE1OTc5MzA0NTgsLTE5NTE5
-NTg3MjFdfQ==
+eyJoaXN0b3J5IjpbMTM3NTk4ODkxMSwtNTQyNzI2MzgsLTkyMj
+Y3OTQwNywtNDU0NDQ5OTQsMTc2NzQ3MDQ1MCwtNDA1MzcwMzA2
+LDExODQ5NzU4MDEsOTk4MTA5MzEzLDE1MzY3MDAwOTMsMTY1Mj
+E4NTQ2OSwxODM5OTEwMTAwLDIwNDE1ODg4NjcsLTExODA1OTkw
+NjgsMjE0Mjc2ODc0LC0xNjMyNTA0MDU0LDMxNzI0MDc4NiwtOD
+ExNDE4NTA1LC0xMzc4NzA3Mzg4LDYzMTg1MjM2MywtMTU5Nzkz
+MDQ1OF19
 -->
