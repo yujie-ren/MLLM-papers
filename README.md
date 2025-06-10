@@ -102,7 +102,7 @@ Search Keywords: Vision, Visual, Multimodal
 43. Generating CAD Code with Vision-Language Models for 3D Designs [[pdf]](https://openreview.net/forum?id=BLWaTeucYX)  
 (Georgia IT, CAD code verification)  
 44. Interpreting and Editing Vision-Language Representations to Mitigate Hallucinations [[pdf]](https://openreview.net/forum?id=94kQgWXojH)  
-()
+(UC Berkely, )
 
 
 
@@ -144,11 +144,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwODY0NzE1MiwyMDE3NjMzOTA0LDM5Nz
-cwNjAwMywtMTYyMzcyODIyMCwxMTQ0MDY2MDA5LDE4ODY4MDg5
-NjYsLTI4NjEyNDY3Niw4OTA5NTAwOTIsMTEwMzg1NTE4LC04MT
-YwOTAxOTYsMTY2OTE2NDU5NSwtMTI1MTc5MzEwNywtMTI3MDgx
-NDExNCw2MzU3OTIxOCwtMTg0NjM4MDQ3NCwyODgzMTg4NDgsMj
-A5OTk3NDQ4MSwtNTQyNzI2MzgsLTkyMjY3OTQwNywtNDU0NDQ5
-OTRdfQ==
+eyJoaXN0b3J5IjpbLTIxMDM0NTU2ODgsMjAxNzYzMzkwNCwzOT
+c3MDYwMDMsLTE2MjM3MjgyMjAsMTE0NDA2NjAwOSwxODg2ODA4
+OTY2LC0yODYxMjQ2NzYsODkwOTUwMDkyLDExMDM4NTUxOCwtOD
+E2MDkwMTk2LDE2NjkxNjQ1OTUsLTEyNTE3OTMxMDcsLTEyNzA4
+MTQxMTQsNjM1NzkyMTgsLTE4NDYzODA0NzQsMjg4MzE4ODQ4LD
+IwOTk5NzQ0ODEsLTU0MjcyNjM4LC05MjI2Nzk0MDcsLTQ1NDQ0
+OTk0XX0=
 -->
