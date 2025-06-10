@@ -61,7 +61,7 @@ Search Keywords: Vision, Visual, Multimodal
 (Nankai U, Language-based object detection, Agentic workflow, VLM hallucination)  
 23. BlueSuffix: Reinforced Blue Teaming for Vision-Language Models Against Jailbreak Attacks [[pdf]](https://openreview.net/forum?id=wwVGZRnAYG)  
 (Fudan U, Black-box defense for VLMs against jailbreak attacks)  
-24. 
+24. ImagineNav: Prompting Vision-Language Models as Embodied Navigator through Scene Imagination](https://openreview.net/forum?id=vQFw9ryKyK)
 
 
 
@@ -102,11 +102,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTE3OTMxMDcsLTEyNzA4MTQxMTQsNj
-M1NzkyMTgsLTE4NDYzODA0NzQsMjg4MzE4ODQ4LDIwOTk5NzQ0
-ODEsLTU0MjcyNjM4LC05MjI2Nzk0MDcsLTQ1NDQ0OTk0LDE3Nj
-c0NzA0NTAsLTQwNTM3MDMwNiwxMTg0OTc1ODAxLDk5ODEwOTMx
-MywxNTM2NzAwMDkzLDE2NTIxODU0NjksMTgzOTkxMDEwMCwyMD
-QxNTg4ODY3LC0xMTgwNTk5MDY4LDIxNDI3Njg3NCwtMTYzMjUw
-NDA1NF19
+eyJoaXN0b3J5IjpbLTg0ODczNzgzMiwtMTI1MTc5MzEwNywtMT
+I3MDgxNDExNCw2MzU3OTIxOCwtMTg0NjM4MDQ3NCwyODgzMTg4
+NDgsMjA5OTk3NDQ4MSwtNTQyNzI2MzgsLTkyMjY3OTQwNywtND
+U0NDQ5OTQsMTc2NzQ3MDQ1MCwtNDA1MzcwMzA2LDExODQ5NzU4
+MDEsOTk4MTA5MzEzLDE1MzY3MDAwOTMsMTY1MjE4NTQ2OSwxOD
+M5OTEwMTAwLDIwNDE1ODg4NjcsLTExODA1OTkwNjgsMjE0Mjc2
+ODc0XX0=
 -->
