@@ -52,7 +52,7 @@ Search Keywords: Vision, Visual, Multimodal
 18. Backdooring Vision-Language Models with Out-Of-Distribution Data [[pdf]](https://openreview.net/forum?id=tZozeR3VV7)  
 (Stony Brook U, VLM, Backdoor attack)  
 19. Do Vision & Language Decoders use Images and Text equally? How Self-consistent are their Explanations? [[pdf]](https://openreview.net/forum?id=lCasyP21Bf)  
-(Heidelberg U, )
+(⭐️Heidelberg U, )
 
 
 
@@ -93,11 +93,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDYzODA0NzQsMjg4MzE4ODQ4LDIwOT
-k5NzQ0ODEsLTU0MjcyNjM4LC05MjI2Nzk0MDcsLTQ1NDQ0OTk0
-LDE3Njc0NzA0NTAsLTQwNTM3MDMwNiwxMTg0OTc1ODAxLDk5OD
-EwOTMxMywxNTM2NzAwMDkzLDE2NTIxODU0NjksMTgzOTkxMDEw
-MCwyMDQxNTg4ODY3LC0xMTgwNTk5MDY4LDIxNDI3Njg3NCwtMT
-YzMjUwNDA1NCwzMTcyNDA3ODYsLTgxMTQxODUwNSwtMTM3ODcw
-NzM4OF19
+eyJoaXN0b3J5IjpbLTY5NTAyNDM0NSwtMTg0NjM4MDQ3NCwyOD
+gzMTg4NDgsMjA5OTk3NDQ4MSwtNTQyNzI2MzgsLTkyMjY3OTQw
+NywtNDU0NDQ5OTQsMTc2NzQ3MDQ1MCwtNDA1MzcwMzA2LDExOD
+Q5NzU4MDEsOTk4MTA5MzEzLDE1MzY3MDAwOTMsMTY1MjE4NTQ2
+OSwxODM5OTEwMTAwLDIwNDE1ODg4NjcsLTExODA1OTkwNjgsMj
+E0Mjc2ODc0LC0xNjMyNTA0MDU0LDMxNzI0MDc4NiwtODExNDE4
+NTA1XX0=
 -->
