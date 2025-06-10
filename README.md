@@ -77,7 +77,8 @@ Search Keywords: Vision, Visual, Multimodal
 (Stanford, VLM spatial reasoning, Train with locality alignment)  
 31. CogCoM: A Visual Language Model with Chain-of-Manipulations Reasoning [[pdf]](https://openreview.net/forum?id=Fg0eo2AkST)  
 (THU, Chain of Manipulations)  
-32. Causal Graphical Models for Vision-Language Compositional Understanding](https://openreview.net/forum?id=haJHr4UsQX)
+32. Causal Graphical Models for Vision-Language Compositional Understanding [[pdf]](https://openreview.net/forum?id=haJHr4UsQX)  
+()
 
 
 
@@ -118,7 +119,7 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxOTczODUxNyw4OTA5NTAwOTIsMTEwMz
+eyJoaXN0b3J5IjpbMTcyODI1MTY4NSw4OTA5NTAwOTIsMTEwMz
 g1NTE4LC04MTYwOTAxOTYsMTY2OTE2NDU5NSwtMTI1MTc5MzEw
 NywtMTI3MDgxNDExNCw2MzU3OTIxOCwtMTg0NjM4MDQ3NCwyOD
 gzMTg4NDgsMjA5OTk3NDQ4MSwtNTQyNzI2MzgsLTkyMjY3OTQw
