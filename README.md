@@ -46,7 +46,7 @@ Search Keywords: Vision, Visual, Multimodal
 15. Have the VLMs Lost Confidence? A Study of Sycophancy in VLMs [[pdf]](https://openreview.net/forum?id=E2PFv7ad3p)  
 (Fudan U, Sycophancy, Hallucination)  
 16. Is Your Video Language Model a Reliable Judge? [[pdf]](https://openreview.net/forum?id=m8yby1JfbU)  
-()
+(Iowa State U, )
 
 
 
@@ -87,11 +87,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MTk5MjA0MSwyODgzMTg4NDgsMjA5OT
-k3NDQ4MSwtNTQyNzI2MzgsLTkyMjY3OTQwNywtNDU0NDQ5OTQs
-MTc2NzQ3MDQ1MCwtNDA1MzcwMzA2LDExODQ5NzU4MDEsOTk4MT
-A5MzEzLDE1MzY3MDAwOTMsMTY1MjE4NTQ2OSwxODM5OTEwMTAw
-LDIwNDE1ODg4NjcsLTExODA1OTkwNjgsMjE0Mjc2ODc0LC0xNj
-MyNTA0MDU0LDMxNzI0MDc4NiwtODExNDE4NTA1LC0xMzc4NzA3
-Mzg4XX0=
+eyJoaXN0b3J5IjpbNTE4NjAxODIzLDI4ODMxODg0OCwyMDk5OT
+c0NDgxLC01NDI3MjYzOCwtOTIyNjc5NDA3LC00NTQ0NDk5NCwx
+NzY3NDcwNDUwLC00MDUzNzAzMDYsMTE4NDk3NTgwMSw5OTgxMD
+kzMTMsMTUzNjcwMDA5MywxNjUyMTg1NDY5LDE4Mzk5MTAxMDAs
+MjA0MTU4ODg2NywtMTE4MDU5OTA2OCwyMTQyNzY4NzQsLTE2Mz
+I1MDQwNTQsMzE3MjQwNzg2LC04MTE0MTg1MDUsLTEzNzg3MDcz
+ODhdfQ==
 -->
