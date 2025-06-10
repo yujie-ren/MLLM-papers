@@ -103,7 +103,7 @@ Search Keywords: Vision, Visual, Multimodal
 (Georgia IT, CAD code verification)  
 44. Interpreting and Editing Vision-Language Representations to Mitigate Hallucinations [[pdf]](https://openreview.net/forum?id=94kQgWXojH)  
 (⭐️UC Berkely, VLM, Interpretation, Hallucination)  
-45. 
+45. #### [VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation](https://openreview.net/forum?id=02haSpO453)
 
 
 
@@ -145,11 +145,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MDAzNTUxNiwyMDE3NjMzOTA0LDM5Nz
-cwNjAwMywtMTYyMzcyODIyMCwxMTQ0MDY2MDA5LDE4ODY4MDg5
-NjYsLTI4NjEyNDY3Niw4OTA5NTAwOTIsMTEwMzg1NTE4LC04MT
-YwOTAxOTYsMTY2OTE2NDU5NSwtMTI1MTc5MzEwNywtMTI3MDgx
-NDExNCw2MzU3OTIxOCwtMTg0NjM4MDQ3NCwyODgzMTg4NDgsMj
-A5OTk3NDQ4MSwtNTQyNzI2MzgsLTkyMjY3OTQwNywtNDU0NDQ5
-OTRdfQ==
+eyJoaXN0b3J5IjpbLTc4MTk3MTg1OSwxMzQwMDM1NTE2LDIwMT
+c2MzM5MDQsMzk3NzA2MDAzLC0xNjIzNzI4MjIwLDExNDQwNjYw
+MDksMTg4NjgwODk2NiwtMjg2MTI0Njc2LDg5MDk1MDA5MiwxMT
+AzODU1MTgsLTgxNjA5MDE5NiwxNjY5MTY0NTk1LC0xMjUxNzkz
+MTA3LC0xMjcwODE0MTE0LDYzNTc5MjE4LC0xODQ2MzgwNDc0LD
+I4ODMxODg0OCwyMDk5OTc0NDgxLC01NDI3MjYzOCwtOTIyNjc5
+NDA3XX0=
 -->
