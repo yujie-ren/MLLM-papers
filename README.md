@@ -74,7 +74,7 @@ Search Keywords: Vision, Visual, Multimodal
 29. IDA-VLM: Towards Movie Understanding via ID-Aware Large Vision-Language Model [[pdf]](https://openreview.net/forum?id=N5YTixK4F1)  
 (UHK, Movie understanding, Associate instances across different scenes)  
 30. Locality Alignment Improves Vision-Language Models [[pdf]](https://openreview.net/forum?id=qssVptHTPN)  
-(Stanford, VLM spatial reasoning)
+(Stanford, VLM spatial reasoning, )
 
 
 
@@ -115,11 +115,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyOTkzNTIxNiwxMTAzODU1MTgsLTgxNj
-A5MDE5NiwxNjY5MTY0NTk1LC0xMjUxNzkzMTA3LC0xMjcwODE0
-MTE0LDYzNTc5MjE4LC0xODQ2MzgwNDc0LDI4ODMxODg0OCwyMD
-k5OTc0NDgxLC01NDI3MjYzOCwtOTIyNjc5NDA3LC00NTQ0NDk5
-NCwxNzY3NDcwNDUwLC00MDUzNzAzMDYsMTE4NDk3NTgwMSw5OT
-gxMDkzMTMsMTUzNjcwMDA5MywxNjUyMTg1NDY5LDE4Mzk5MTAx
-MDBdfQ==
+eyJoaXN0b3J5IjpbODg1NDE0NDkyLDExMDM4NTUxOCwtODE2MD
+kwMTk2LDE2NjkxNjQ1OTUsLTEyNTE3OTMxMDcsLTEyNzA4MTQx
+MTQsNjM1NzkyMTgsLTE4NDYzODA0NzQsMjg4MzE4ODQ4LDIwOT
+k5NzQ0ODEsLTU0MjcyNjM4LC05MjI2Nzk0MDcsLTQ1NDQ0OTk0
+LDE3Njc0NzA0NTAsLTQwNTM3MDMwNiwxMTg0OTc1ODAxLDk5OD
+EwOTMxMywxNTM2NzAwMDkzLDE2NTIxODU0NjksMTgzOTkxMDEw
+MF19
 -->
