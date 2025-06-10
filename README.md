@@ -96,7 +96,7 @@ Search Keywords: Vision, Visual, Multimodal
 40. Chain-of-region: Visual Language Models Need Details for Diagram Analysis [[pdf]](https://openreview.net/forum?id=M6fYrICcQs)  
 (UWM, Visual details, Region decomposion, Scientific diagram analysis)  
 41. Mixture of Experts Made Personalized: Federated Prompt Learning for Vision-Language Models [[pdf]](https://openreview.net/forum?id=xiDJaTim3P)  
-()
+(U of Pittsburgh, ) 
 
 
 
@@ -138,7 +138,7 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg0MzUyNDc3LDM5NzcwNjAwMywtMTYyMz
+eyJoaXN0b3J5IjpbOTcwMDg4MjU5LDM5NzcwNjAwMywtMTYyMz
 cyODIyMCwxMTQ0MDY2MDA5LDE4ODY4MDg5NjYsLTI4NjEyNDY3
 Niw4OTA5NTAwOTIsMTEwMzg1NTE4LC04MTYwOTAxOTYsMTY2OT
 E2NDU5NSwtMTI1MTc5MzEwNywtMTI3MDgxNDExNCw2MzU3OTIx
