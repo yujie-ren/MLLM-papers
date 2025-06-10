@@ -59,7 +59,7 @@ Search Keywords: Vision, Visual, Multimodal
 (UWM, VLM unlearning benchmark)  
 22. Re-Aligning Language to Visual Objects with an Agentic Workflow [[pdf]](https://openreview.net/forum?id=MPJ4SMnScw)  
 (Nankai U, Language-based object detection, Agentic workflow, VLM hallucination)  
-
+23. 
 
 
 
@@ -100,7 +100,7 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTk2MzMxMTcsLTEyNzA4MTQxMTQsNj
+eyJoaXN0b3J5IjpbLTIwOTE0OTM4NjYsLTEyNzA4MTQxMTQsNj
 M1NzkyMTgsLTE4NDYzODA0NzQsMjg4MzE4ODQ4LDIwOTk5NzQ0
 ODEsLTU0MjcyNjM4LC05MjI2Nzk0MDcsLTQ1NDQ0OTk0LDE3Nj
 c0NzA0NTAsLTQwNTM3MDMwNiwxMTg0OTc1ODAxLDk5ODEwOTMx
