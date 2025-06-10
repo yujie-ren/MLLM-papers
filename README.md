@@ -94,7 +94,7 @@ Search Keywords: Vision, Visual, Multimodal
 39. DAMO: Decoding by Accumulating Activations Momentum for Mitigating Hallucinations in Vision-Language Models [[pdf]](https://openreview.net/forum?id=JUr0YOMvZA)  
 (U of Maryland, Hallucination, Layer-wise analysis)  
 40. Chain-of-region: Visual Language Models Need Details for Diagram Analysis [[pdf]](https://openreview.net/forum?id=M6fYrICcQs)  
-()
+(UWM, Visual details, )
 
 
 
@@ -136,11 +136,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY4NTYzNjk0LC0xNjIzNzI4MjIwLDExND
-QwNjYwMDksMTg4NjgwODk2NiwtMjg2MTI0Njc2LDg5MDk1MDA5
-MiwxMTAzODU1MTgsLTgxNjA5MDE5NiwxNjY5MTY0NTk1LC0xMj
-UxNzkzMTA3LC0xMjcwODE0MTE0LDYzNTc5MjE4LC0xODQ2Mzgw
-NDc0LDI4ODMxODg0OCwyMDk5OTc0NDgxLC01NDI3MjYzOCwtOT
-IyNjc5NDA3LC00NTQ0NDk5NCwxNzY3NDcwNDUwLC00MDUzNzAz
-MDZdfQ==
+eyJoaXN0b3J5IjpbLTkyNTI0MDk0NSwtMTYyMzcyODIyMCwxMT
+Q0MDY2MDA5LDE4ODY4MDg5NjYsLTI4NjEyNDY3Niw4OTA5NTAw
+OTIsMTEwMzg1NTE4LC04MTYwOTAxOTYsMTY2OTE2NDU5NSwtMT
+I1MTc5MzEwNywtMTI3MDgxNDExNCw2MzU3OTIxOCwtMTg0NjM4
+MDQ3NCwyODgzMTg4NDgsMjA5OTk3NDQ4MSwtNTQyNzI2MzgsLT
+kyMjY3OTQwNywtNDU0NDQ5OTQsMTc2NzQ3MDQ1MCwtNDA1Mzcw
+MzA2XX0=
 -->
