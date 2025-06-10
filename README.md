@@ -41,7 +41,8 @@ Search Keywords: Vision, Visual, Multimodal
 (Technion, VLM Evaluation, Natural language inference in visual domain)  
 13. LLaRA: Supercharging Robot Learning Data for Vision-Language Policy [[pdf]](https://openreview.net/forum?id=iVxxgZlXh6)  
 (Stony Brook U, VLA model, Motivated by visual instruction tuning)  
-14. 
+14. Failures to Find Transferable Image Jailbreaks Between Vision-Language Models [[pdf]](https://openreview.net/forum?id=wvFnqVVUhN)  
+(Stanford, VLM, )
 
 
 
@@ -82,11 +83,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5OTk3NDQ4MSwtNTQyNzI2MzgsLTkyMj
-Y3OTQwNywtNDU0NDQ5OTQsMTc2NzQ3MDQ1MCwtNDA1MzcwMzA2
-LDExODQ5NzU4MDEsOTk4MTA5MzEzLDE1MzY3MDAwOTMsMTY1Mj
-E4NTQ2OSwxODM5OTEwMTAwLDIwNDE1ODg4NjcsLTExODA1OTkw
-NjgsMjE0Mjc2ODc0LC0xNjMyNTA0MDU0LDMxNzI0MDc4NiwtOD
-ExNDE4NTA1LC0xMzc4NzA3Mzg4LDYzMTg1MjM2MywtMTU5Nzkz
-MDQ1OF19
+eyJoaXN0b3J5IjpbLTgwNDI0OTE0NywyMDk5OTc0NDgxLC01ND
+I3MjYzOCwtOTIyNjc5NDA3LC00NTQ0NDk5NCwxNzY3NDcwNDUw
+LC00MDUzNzAzMDYsMTE4NDk3NTgwMSw5OTgxMDkzMTMsMTUzNj
+cwMDA5MywxNjUyMTg1NDY5LDE4Mzk5MTAxMDAsMjA0MTU4ODg2
+NywtMTE4MDU5OTA2OCwyMTQyNzY4NzQsLTE2MzI1MDQwNTQsMz
+E3MjQwNzg2LC04MTE0MTg1MDUsLTEzNzg3MDczODgsNjMxODUy
+MzYzXX0=
 -->
