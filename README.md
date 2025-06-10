@@ -66,7 +66,8 @@ Search Keywords: Vision, Visual, Multimodal
 25. Should VLMs be Pre-trained with Image Data? [[pdf]](https://openreview.net/forum?id=Pj4Aid3XqL)  
 (⭐️Toyota Research Institute, Pre-train with image or not)  
 26. Can We Talk Models Into Seeing the World Differently? [[pdf]](https://openreview.net/forum?id=iVMcYxTiVM)  
-(Offenburg U, )
+(Offenburg U, Vision biases,Shape/texture bias)  
+27. 
 
 
 
@@ -107,11 +108,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNjA5MDE5NiwxNjY5MTY0NTk1LC0xMj
-UxNzkzMTA3LC0xMjcwODE0MTE0LDYzNTc5MjE4LC0xODQ2Mzgw
-NDc0LDI4ODMxODg0OCwyMDk5OTc0NDgxLC01NDI3MjYzOCwtOT
-IyNjc5NDA3LC00NTQ0NDk5NCwxNzY3NDcwNDUwLC00MDUzNzAz
-MDYsMTE4NDk3NTgwMSw5OTgxMDkzMTMsMTUzNjcwMDA5MywxNj
-UyMTg1NDY5LDE4Mzk5MTAxMDAsMjA0MTU4ODg2NywtMTE4MDU5
-OTA2OF19
+eyJoaXN0b3J5IjpbMTgyNTE4MzI2MCwtODE2MDkwMTk2LDE2Nj
+kxNjQ1OTUsLTEyNTE3OTMxMDcsLTEyNzA4MTQxMTQsNjM1Nzky
+MTgsLTE4NDYzODA0NzQsMjg4MzE4ODQ4LDIwOTk5NzQ0ODEsLT
+U0MjcyNjM4LC05MjI2Nzk0MDcsLTQ1NDQ0OTk0LDE3Njc0NzA0
+NTAsLTQwNTM3MDMwNiwxMTg0OTc1ODAxLDk5ODEwOTMxMywxNT
+M2NzAwMDkzLDE2NTIxODU0NjksMTgzOTkxMDEwMCwyMDQxNTg4
+ODY3XX0=
 -->
