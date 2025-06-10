@@ -78,7 +78,8 @@ Search Keywords: Vision, Visual, Multimodal
 31. CogCoM: A Visual Language Model with Chain-of-Manipulations Reasoning [[pdf]](https://openreview.net/forum?id=Fg0eo2AkST)  
 (THU, Chain of Manipulations)  
 32. Causal Graphical Models for Vision-Language Compositional Understanding [[pdf]](https://openreview.net/forum?id=haJHr4UsQX)  
-()
+(University of Modena and Reggio Emilia from Italy, Compositional tasks)  
+
 
 
 
@@ -119,7 +120,7 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyODI1MTY4NSw4OTA5NTAwOTIsMTEwMz
+eyJoaXN0b3J5IjpbMTIwMTc1OTAxNSw4OTA5NTAwOTIsMTEwMz
 g1NTE4LC04MTYwOTAxOTYsMTY2OTE2NDU5NSwtMTI1MTc5MzEw
 NywtMTI3MDgxNDExNCw2MzU3OTIxOCwtMTg0NjM4MDQ3NCwyOD
 gzMTg4NDgsMjA5OTk3NDQ4MSwtNTQyNzI2MzgsLTkyMjY3OTQw
