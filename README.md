@@ -50,7 +50,7 @@ Search Keywords: Vision, Visual, Multimodal
 17. LLM-wrapper: Black-Box Semantic-Aware Adaptation of Vision-Language Models for Referring Expression Comprehension [[pdf]](https://openreview.net/forum?id=PgXpOOqtyd)  
 (Valeo.ai from France, VLM, Referring Expression Comprehension)  
 18. Backdooring Vision-Language Models with Out-Of-Distribution Data [[pdf]](https://openreview.net/forum?id=tZozeR3VV7)  
-(Stony Brook U, )
+(Stony Brook U, VLM, Backdoor atta)
 
 
 
@@ -91,11 +91,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NjM2NzQyMywyODgzMTg4NDgsMjA5OT
-k3NDQ4MSwtNTQyNzI2MzgsLTkyMjY3OTQwNywtNDU0NDQ5OTQs
-MTc2NzQ3MDQ1MCwtNDA1MzcwMzA2LDExODQ5NzU4MDEsOTk4MT
-A5MzEzLDE1MzY3MDAwOTMsMTY1MjE4NTQ2OSwxODM5OTEwMTAw
-LDIwNDE1ODg4NjcsLTExODA1OTkwNjgsMjE0Mjc2ODc0LC0xNj
-MyNTA0MDU0LDMxNzI0MDc4NiwtODExNDE4NTA1LC0xMzc4NzA3
-Mzg4XX0=
+eyJoaXN0b3J5IjpbNzYwMzAxMzExLDI4ODMxODg0OCwyMDk5OT
+c0NDgxLC01NDI3MjYzOCwtOTIyNjc5NDA3LC00NTQ0NDk5NCwx
+NzY3NDcwNDUwLC00MDUzNzAzMDYsMTE4NDk3NTgwMSw5OTgxMD
+kzMTMsMTUzNjcwMDA5MywxNjUyMTg1NDY5LDE4Mzk5MTAxMDAs
+MjA0MTU4ODg2NywtMTE4MDU5OTA2OCwyMTQyNzY4NzQsLTE2Mz
+I1MDQwNTQsMzE3MjQwNzg2LC04MTE0MTg1MDUsLTEzNzg3MDcz
+ODhdfQ==
 -->
