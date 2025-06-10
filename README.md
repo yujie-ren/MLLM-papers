@@ -82,7 +82,7 @@ Search Keywords: Vision, Visual, Multimodal
 33. Causal Graphical Models for Vision-Language Compositional Understanding [[pdf]](https://openreview.net/forum?id=haJHr4UsQX)  
 (University of Modena and Reggio Emilia from Italy, Compositional tasks)  
 34. Probabilistic Language-Image Pre-Training [[pdf]](https://openreview.net/forum?id=D5X6nPGFUY)  
-(NAVER AI from Korea, )
+(NAVER AI from Korea, CLIP, )
 
 
 
@@ -124,7 +124,7 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNTc5NzA0OCwtMjg2MTI0Njc2LDg5MD
+eyJoaXN0b3J5IjpbMTI4Mjc2OTg0NCwtMjg2MTI0Njc2LDg5MD
 k1MDA5MiwxMTAzODU1MTgsLTgxNjA5MDE5NiwxNjY5MTY0NTk1
 LC0xMjUxNzkzMTA3LC0xMjcwODE0MTE0LDYzNTc5MjE4LC0xOD
 Q2MzgwNDc0LDI4ODMxODg0OCwyMDk5OTc0NDgxLC01NDI3MjYz
