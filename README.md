@@ -38,7 +38,7 @@ Search Keywords: Vision, Visual, Multimodal
 11. Teaching Human Behavior Improves Content Understanding Abilities Of VLMs  [[pdf]](https://openreview.net/forum?id=ff2V3UR9sC)  
 (Adobe, VLM, Training VLMs to predict receiver behaviors)  
 12. NL-Eye: Abductive NLI For Images  [[pdf]](https://openreview.net/forum?id=2zmO1GVT0Y)  
-(Technion, )
+(Technion, VLM Evaluation, )
 
 
 
@@ -79,11 +79,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI4NzE3Nzg3LC00NTQ0NDk5NCwxNzY3ND
-cwNDUwLC00MDUzNzAzMDYsMTE4NDk3NTgwMSw5OTgxMDkzMTMs
-MTUzNjcwMDA5MywxNjUyMTg1NDY5LDE4Mzk5MTAxMDAsMjA0MT
-U4ODg2NywtMTE4MDU5OTA2OCwyMTQyNzY4NzQsLTE2MzI1MDQw
-NTQsMzE3MjQwNzg2LC04MTE0MTg1MDUsLTEzNzg3MDczODgsNj
-MxODUyMzYzLC0xNTk3OTMwNDU4LC0xOTUxOTU4NzIxLC0xMDQx
-MDg0MzgxXX0=
+eyJoaXN0b3J5IjpbLTkwNTU5MzY2MiwtNDU0NDQ5OTQsMTc2Nz
+Q3MDQ1MCwtNDA1MzcwMzA2LDExODQ5NzU4MDEsOTk4MTA5MzEz
+LDE1MzY3MDAwOTMsMTY1MjE4NTQ2OSwxODM5OTEwMTAwLDIwND
+E1ODg4NjcsLTExODA1OTkwNjgsMjE0Mjc2ODc0LC0xNjMyNTA0
+MDU0LDMxNzI0MDc4NiwtODExNDE4NTA1LC0xMzc4NzA3Mzg4LD
+YzMTg1MjM2MywtMTU5NzkzMDQ1OCwtMTk1MTk1ODcyMSwtMTA0
+MTA4NDM4MV19
 -->
