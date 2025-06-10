@@ -86,7 +86,7 @@ Search Keywords: Vision, Visual, Multimodal
 35. RA-TTA: Retrieval-Augmented Test-Time Adaptation for Vision-Language Models [[pdf]](https://openreview.net/forum?id=V3zobHnS61)  
 (KAIST, Retrieval-augmented test-time adaptation)  
 36. Mitigating Spurious Correlations in Zero-Shot Multimodal Models [[pdf]](https://openreview.net/forum?id=UsRKFYR4lM)  
-(
+(Purdue U, )
 
 
 
@@ -128,7 +128,7 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3OTI1ODgwMCwxMTQ0MDY2MDA5LDE4OD
+eyJoaXN0b3J5IjpbLTk3Nzc5NDkzNSwxMTQ0MDY2MDA5LDE4OD
 Y4MDg5NjYsLTI4NjEyNDY3Niw4OTA5NTAwOTIsMTEwMzg1NTE4
 LC04MTYwOTAxOTYsMTY2OTE2NDU5NSwtMTI1MTc5MzEwNywtMT
 I3MDgxNDExNCw2MzU3OTIxOCwtMTg0NjM4MDQ3NCwyODgzMTg4
