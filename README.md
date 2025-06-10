@@ -107,7 +107,8 @@ Search Keywords: Vision, Visual, Multimodal
 (THU, Unified model, Video, Image, Language understanding and generation)  
 46. Enhancing Cognition and Explainability of Multimodal Foundation Models with Self-Synthesized Data [[pdf]](https://openreview.net/forum?id=lHbLpwbEyt)  
 (U of Georgia, Fine-grained visual reasoning)  
-47. #### [Modality-Specialized Synergizers for Interleaved Vision-Language Generalists](https://openreview.net/forum?id=7UgQjFEadn)
+47. Modality-Specialized Synergizers for Interleaved Vision-Language Generalists [[pdf]](https://openreview.net/forum?id=7UgQjFEadn)  
+()
 
 
 
@@ -149,11 +150,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NzgzNTEzNywxMzg4ODA5MzQ5LDEzND
-AwMzU1MTYsMjAxNzYzMzkwNCwzOTc3MDYwMDMsLTE2MjM3Mjgy
-MjAsMTE0NDA2NjAwOSwxODg2ODA4OTY2LC0yODYxMjQ2NzYsOD
-kwOTUwMDkyLDExMDM4NTUxOCwtODE2MDkwMTk2LDE2NjkxNjQ1
-OTUsLTEyNTE3OTMxMDcsLTEyNzA4MTQxMTQsNjM1NzkyMTgsLT
-E4NDYzODA0NzQsMjg4MzE4ODQ4LDIwOTk5NzQ0ODEsLTU0Mjcy
-NjM4XX0=
+eyJoaXN0b3J5IjpbNDgwODE5NjYwLDEzODg4MDkzNDksMTM0MD
+AzNTUxNiwyMDE3NjMzOTA0LDM5NzcwNjAwMywtMTYyMzcyODIy
+MCwxMTQ0MDY2MDA5LDE4ODY4MDg5NjYsLTI4NjEyNDY3Niw4OT
+A5NTAwOTIsMTEwMzg1NTE4LC04MTYwOTAxOTYsMTY2OTE2NDU5
+NSwtMTI1MTc5MzEwNywtMTI3MDgxNDExNCw2MzU3OTIxOCwtMT
+g0NjM4MDQ3NCwyODgzMTg4NDgsMjA5OTk3NDQ4MSwtNTQyNzI2
+MzhdfQ==
 -->
