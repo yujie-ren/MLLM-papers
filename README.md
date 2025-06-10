@@ -64,7 +64,8 @@ Search Keywords: Vision, Visual, Multimodal
 24. ImagineNav: Prompting Vision-Language Models as Embodied Navigator through Scene Imagination [[pdf]](https://openreview.net/forum?id=vQFw9ryKyK)  
 (Southeast U, Visual navigation, Robots)  
 25. Should VLMs be Pre-trained with Image Data? [[pdf]](https://openreview.net/forum?id=Pj4Aid3XqL)  
-(Toyota Research Institute, )
+(⭐️Toyota Research Institute, Pre-train with image or not)  
+26. 
 
 
 
@@ -105,11 +106,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2OTE2NDU5NSwtMTI1MTc5MzEwNywtMT
-I3MDgxNDExNCw2MzU3OTIxOCwtMTg0NjM4MDQ3NCwyODgzMTg4
-NDgsMjA5OTk3NDQ4MSwtNTQyNzI2MzgsLTkyMjY3OTQwNywtND
-U0NDQ5OTQsMTc2NzQ3MDQ1MCwtNDA1MzcwMzA2LDExODQ5NzU4
-MDEsOTk4MTA5MzEzLDE1MzY3MDAwOTMsMTY1MjE4NTQ2OSwxOD
-M5OTEwMTAwLDIwNDE1ODg4NjcsLTExODA1OTkwNjgsMjE0Mjc2
-ODc0XX0=
+eyJoaXN0b3J5IjpbLTk1MTEzMDcxLDE2NjkxNjQ1OTUsLTEyNT
+E3OTMxMDcsLTEyNzA4MTQxMTQsNjM1NzkyMTgsLTE4NDYzODA0
+NzQsMjg4MzE4ODQ4LDIwOTk5NzQ0ODEsLTU0MjcyNjM4LC05Mj
+I2Nzk0MDcsLTQ1NDQ0OTk0LDE3Njc0NzA0NTAsLTQwNTM3MDMw
+NiwxMTg0OTc1ODAxLDk5ODEwOTMxMywxNTM2NzAwMDkzLDE2NT
+IxODU0NjksMTgzOTkxMDEwMCwyMDQxNTg4ODY3LC0xMTgwNTk5
+MDY4XX0=
 -->
