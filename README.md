@@ -112,7 +112,7 @@ Search Keywords: Vision, Visual, Multimodal
 48. How Does Vision-Language Adaptation Impact the Safety of Vision Language Models? [[pdf]](https://openreview.net/forum?id=eXB5TCrAu9)  
 (⭐️⭐️KAIST, Vision language adaptation, Safety, Model merging)  
 49. Cross-Modal Safety Mechanism Transfer in Large Vision-Language Models [[pdf]](https://openreview.net/forum?id=45rvZkJbuX)  
-()
+(⭐️⭐️Vision-language alignment, Safety transfer)
 
 
 
@@ -154,7 +154,7 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4OTMzMjI0MSwxODM3NTY4MTQ3LDY2Mj
+eyJoaXN0b3J5IjpbMTk2OTgwMzcyNiwxODM3NTY4MTQ3LDY2Mj
 Y0NTAzNywxMzg4ODA5MzQ5LDEzNDAwMzU1MTYsMjAxNzYzMzkw
 NCwzOTc3MDYwMDMsLTE2MjM3MjgyMjAsMTE0NDA2NjAwOSwxOD
 g2ODA4OTY2LC0yODYxMjQ2NzYsODkwOTUwMDkyLDExMDM4NTUx
