@@ -56,7 +56,8 @@ Search Keywords: Vision, Visual, Multimodal
 20. VL-Cache: Sparsity and Modality-Aware KV Cache Compression for Vision-Language Model Inference Acceleration [[pdf]](https://openreview.net/forum?id=HMrcv7Q4Ub)  
 (⭐️UCLA, KV cache in VLM)
 21. Benchmarking Vision Language Model Unlearning via Fictitious Facial Identity Dataset [[pdf]](https://openreview.net/forum?id=0y3hGn1wOk)  
-()
+(UWM, VLM unlearning benchmark)  
+22. 
 
 
 
@@ -97,7 +98,7 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTM1NTE1NzAsLTEyNzA4MTQxMTQsNj
+eyJoaXN0b3J5IjpbLTEyODQ5Mjk1OTIsLTEyNzA4MTQxMTQsNj
 M1NzkyMTgsLTE4NDYzODA0NzQsMjg4MzE4ODQ4LDIwOTk5NzQ0
 ODEsLTU0MjcyNjM4LC05MjI2Nzk0MDcsLTQ1NDQ0OTk0LDE3Nj
 c0NzA0NTAsLTQwNTM3MDMwNiwxMTg0OTc1ODAxLDk5ODEwOTMx
