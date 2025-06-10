@@ -114,7 +114,7 @@ Search Keywords: Vision, Visual, Multimodal
 49. Cross-Modal Safety Mechanism Transfer in Large Vision-Language Models [[pdf]](https://openreview.net/forum?id=45rvZkJbuX)  
 (⭐️⭐️CAS, Vision-language alignment, Safety transfer)
 
-
+继续检索vision language model
 
 
 #### Other
@@ -154,11 +154,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMDIyNjM4MywxODM3NTY4MTQ3LDY2Mj
-Y0NTAzNywxMzg4ODA5MzQ5LDEzNDAwMzU1MTYsMjAxNzYzMzkw
-NCwzOTc3MDYwMDMsLTE2MjM3MjgyMjAsMTE0NDA2NjAwOSwxOD
-g2ODA4OTY2LC0yODYxMjQ2NzYsODkwOTUwMDkyLDExMDM4NTUx
-OCwtODE2MDkwMTk2LDE2NjkxNjQ1OTUsLTEyNTE3OTMxMDcsLT
-EyNzA4MTQxMTQsNjM1NzkyMTgsLTE4NDYzODA0NzQsMjg4MzE4
-ODQ4XX0=
+eyJoaXN0b3J5IjpbOTY0NDQyNjE2LDE4Mzc1NjgxNDcsNjYyNj
+Q1MDM3LDEzODg4MDkzNDksMTM0MDAzNTUxNiwyMDE3NjMzOTA0
+LDM5NzcwNjAwMywtMTYyMzcyODIyMCwxMTQ0MDY2MDA5LDE4OD
+Y4MDg5NjYsLTI4NjEyNDY3Niw4OTA5NTAwOTIsMTEwMzg1NTE4
+LC04MTYwOTAxOTYsMTY2OTE2NDU5NSwtMTI1MTc5MzEwNywtMT
+I3MDgxNDExNCw2MzU3OTIxOCwtMTg0NjM4MDQ3NCwyODgzMTg4
+NDhdfQ==
 -->
