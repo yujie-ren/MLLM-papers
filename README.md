@@ -53,7 +53,8 @@ Search Keywords: Vision, Visual, Multimodal
 (Stony Brook U, VLM, Backdoor attack)  
 19. Do Vision & Language Decoders use Images and Text equally? How Self-consistent are their Explanations? [[pdf]](https://openreview.net/forum?id=lCasyP21Bf)  
 (⭐️Heidelberg U, Multimodal degree of a VLM)  
-20. 
+20. VL-Cache: Sparsity and Modality-Aware KV Cache Compression for Vision-Language Model Inference Acceleration [[pdf]](https://openreview.net/forum?id=HMrcv7Q4Ub)  
+()
 
 
 
@@ -94,11 +95,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM1NzkyMTgsLTE4NDYzODA0NzQsMjg4Mz
-E4ODQ4LDIwOTk5NzQ0ODEsLTU0MjcyNjM4LC05MjI2Nzk0MDcs
-LTQ1NDQ0OTk0LDE3Njc0NzA0NTAsLTQwNTM3MDMwNiwxMTg0OT
-c1ODAxLDk5ODEwOTMxMywxNTM2NzAwMDkzLDE2NTIxODU0Njks
-MTgzOTkxMDEwMCwyMDQxNTg4ODY3LC0xMTgwNTk5MDY4LDIxND
-I3Njg3NCwtMTYzMjUwNDA1NCwzMTcyNDA3ODYsLTgxMTQxODUw
-NV19
+eyJoaXN0b3J5IjpbOTI1MTgwNzQsNjM1NzkyMTgsLTE4NDYzOD
+A0NzQsMjg4MzE4ODQ4LDIwOTk5NzQ0ODEsLTU0MjcyNjM4LC05
+MjI2Nzk0MDcsLTQ1NDQ0OTk0LDE3Njc0NzA0NTAsLTQwNTM3MD
+MwNiwxMTg0OTc1ODAxLDk5ODEwOTMxMywxNTM2NzAwMDkzLDE2
+NTIxODU0NjksMTgzOTkxMDEwMCwyMDQxNTg4ODY3LC0xMTgwNT
+k5MDY4LDIxNDI3Njg3NCwtMTYzMjUwNDA1NCwzMTcyNDA3ODZd
+fQ==
 -->
