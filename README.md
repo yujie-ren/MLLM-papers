@@ -104,7 +104,8 @@ Search Keywords: Vision, Visual, Multimodal
 44. Interpreting and Editing Vision-Language Representations to Mitigate Hallucinations [[pdf]](https://openreview.net/forum?id=94kQgWXojH)  
 (⭐️UC Berkely, VLM, Interpretation, Hallucination)  
 45. VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation [[pdf]](https://openreview.net/forum?id=02haSpO453)  
-(THU, Unified model that integrates Video, Image, Language understanding and generation)
+(THU, Unified model, Video, Image, Language understanding and generation)  
+46. 
 
 
 
@@ -146,7 +147,7 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUxMDYxMjM4LDEzNDAwMzU1MTYsMjAxNz
+eyJoaXN0b3J5IjpbNDkyMzc3Mjk3LDEzNDAwMzU1MTYsMjAxNz
 YzMzkwNCwzOTc3MDYwMDMsLTE2MjM3MjgyMjAsMTE0NDA2NjAw
 OSwxODg2ODA4OTY2LC0yODYxMjQ2NzYsODkwOTUwMDkyLDExMD
 M4NTUxOCwtODE2MDkwMTk2LDE2NjkxNjQ1OTUsLTEyNTE3OTMx
