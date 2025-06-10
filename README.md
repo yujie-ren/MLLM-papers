@@ -98,7 +98,8 @@ Search Keywords: Vision, Visual, Multimodal
 41. Mixture of Experts Made Personalized: Federated Prompt Learning for Vision-Language Models [[pdf]](https://openreview.net/forum?id=xiDJaTim3P)  
 (U of Pittsburgh, CLIP, Federated learning)  
 42. VisRAG: Vision-based Retrieval-augmented Generation on Multi-modality Documents [[pdf]](https://openreview.net/forum?id=zG459X3Xge)  
-(THU, )
+(THU, VLM-based RAG)  
+43. 
 
 
 
@@ -140,11 +141,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NDU3NTQxOCwzOTc3MDYwMDMsLTE2Mj
-M3MjgyMjAsMTE0NDA2NjAwOSwxODg2ODA4OTY2LC0yODYxMjQ2
-NzYsODkwOTUwMDkyLDExMDM4NTUxOCwtODE2MDkwMTk2LDE2Nj
-kxNjQ1OTUsLTEyNTE3OTMxMDcsLTEyNzA4MTQxMTQsNjM1Nzky
-MTgsLTE4NDYzODA0NzQsMjg4MzE4ODQ4LDIwOTk5NzQ0ODEsLT
-U0MjcyNjM4LC05MjI2Nzk0MDcsLTQ1NDQ0OTk0LDE3Njc0NzA0
-NTBdfQ==
+eyJoaXN0b3J5IjpbLTEwMTk4NzAzOTQsMzk3NzA2MDAzLC0xNj
+IzNzI4MjIwLDExNDQwNjYwMDksMTg4NjgwODk2NiwtMjg2MTI0
+Njc2LDg5MDk1MDA5MiwxMTAzODU1MTgsLTgxNjA5MDE5NiwxNj
+Y5MTY0NTk1LC0xMjUxNzkzMTA3LC0xMjcwODE0MTE0LDYzNTc5
+MjE4LC0xODQ2MzgwNDc0LDI4ODMxODg0OCwyMDk5OTc0NDgxLC
+01NDI3MjYzOCwtOTIyNjc5NDA3LC00NTQ0NDk5NCwxNzY3NDcw
+NDUwXX0=
 -->
