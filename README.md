@@ -99,7 +99,8 @@ Search Keywords: Vision, Visual, Multimodal
 (U of Pittsburgh, CLIP, Federated learning)  
 42. VisRAG: Vision-based Retrieval-augmented Generation on Multi-modality Documents [[pdf]](https://openreview.net/forum?id=zG459X3Xge)  
 (THU, VLM-based RAG)  
-43. 
+43. Generating CAD Code with Vision-Language Models for 3D Designs [[pdf]](https://openreview.net/forum?id=BLWaTeucYX)  
+()
 
 
 
@@ -141,11 +142,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTk4NzAzOTQsMzk3NzA2MDAzLC0xNj
-IzNzI4MjIwLDExNDQwNjYwMDksMTg4NjgwODk2NiwtMjg2MTI0
-Njc2LDg5MDk1MDA5MiwxMTAzODU1MTgsLTgxNjA5MDE5NiwxNj
-Y5MTY0NTk1LC0xMjUxNzkzMTA3LC0xMjcwODE0MTE0LDYzNTc5
-MjE4LC0xODQ2MzgwNDc0LDI4ODMxODg0OCwyMDk5OTc0NDgxLC
-01NDI3MjYzOCwtOTIyNjc5NDA3LC00NTQ0NDk5NCwxNzY3NDcw
-NDUwXX0=
+eyJoaXN0b3J5IjpbNzYxMTU5MjM4LDM5NzcwNjAwMywtMTYyMz
+cyODIyMCwxMTQ0MDY2MDA5LDE4ODY4MDg5NjYsLTI4NjEyNDY3
+Niw4OTA5NTAwOTIsMTEwMzg1NTE4LC04MTYwOTAxOTYsMTY2OT
+E2NDU5NSwtMTI1MTc5MzEwNywtMTI3MDgxNDExNCw2MzU3OTIx
+OCwtMTg0NjM4MDQ3NCwyODgzMTg4NDgsMjA5OTk3NDQ4MSwtNT
+QyNzI2MzgsLTkyMjY3OTQwNywtNDU0NDQ5OTQsMTc2NzQ3MDQ1
+MF19
 -->
