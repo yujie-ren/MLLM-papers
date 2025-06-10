@@ -62,7 +62,8 @@ Search Keywords: Vision, Visual, Multimodal
 23. BlueSuffix: Reinforced Blue Teaming for Vision-Language Models Against Jailbreak Attacks [[pdf]](https://openreview.net/forum?id=wwVGZRnAYG)  
 (Fudan U, Black-box defense for VLMs against jailbreak attacks)  
 24. ImagineNav: Prompting Vision-Language Models as Embodied Navigator through Scene Imagination [[pdf]](https://openreview.net/forum?id=vQFw9ryKyK)  
-(Southeast U, )
+(Southeast U, Visual navigation, Robots)  
+25. 
 
 
 
@@ -103,11 +104,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwOTIwNTI2MywtMTI1MTc5MzEwNywtMT
-I3MDgxNDExNCw2MzU3OTIxOCwtMTg0NjM4MDQ3NCwyODgzMTg4
-NDgsMjA5OTk3NDQ4MSwtNTQyNzI2MzgsLTkyMjY3OTQwNywtND
-U0NDQ5OTQsMTc2NzQ3MDQ1MCwtNDA1MzcwMzA2LDExODQ5NzU4
-MDEsOTk4MTA5MzEzLDE1MzY3MDAwOTMsMTY1MjE4NTQ2OSwxOD
-M5OTEwMTAwLDIwNDE1ODg4NjcsLTExODA1OTkwNjgsMjE0Mjc2
-ODc0XX0=
+eyJoaXN0b3J5IjpbNzg4MzQ1MDQ1LC0xMjUxNzkzMTA3LC0xMj
+cwODE0MTE0LDYzNTc5MjE4LC0xODQ2MzgwNDc0LDI4ODMxODg0
+OCwyMDk5OTc0NDgxLC01NDI3MjYzOCwtOTIyNjc5NDA3LC00NT
+Q0NDk5NCwxNzY3NDcwNDUwLC00MDUzNzAzMDYsMTE4NDk3NTgw
+MSw5OTgxMDkzMTMsMTUzNjcwMDA5MywxNjUyMTg1NDY5LDE4Mz
+k5MTAxMDAsMjA0MTU4ODg2NywtMTE4MDU5OTA2OCwyMTQyNzY4
+NzRdfQ==
 -->
