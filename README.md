@@ -67,7 +67,8 @@ Search Keywords: Vision, Visual, Multimodal
 (⭐️Toyota Research Institute, Pre-train with image or not)  
 26. Can We Talk Models Into Seeing the World Differently? [[pdf]](https://openreview.net/forum?id=iVMcYxTiVM)  
 (Offenburg U, Vision biases,Shape/texture bias)  
-27. 
+27. Towards Interpreting Visual Information Processing in Vision-Language Models [[pdf]](https://openreview.net/forum?id=chanJGoa7f)  
+()
 
 
 
@@ -108,11 +109,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNTE4MzI2MCwtODE2MDkwMTk2LDE2Nj
-kxNjQ1OTUsLTEyNTE3OTMxMDcsLTEyNzA4MTQxMTQsNjM1Nzky
-MTgsLTE4NDYzODA0NzQsMjg4MzE4ODQ4LDIwOTk5NzQ0ODEsLT
-U0MjcyNjM4LC05MjI2Nzk0MDcsLTQ1NDQ0OTk0LDE3Njc0NzA0
-NTAsLTQwNTM3MDMwNiwxMTg0OTc1ODAxLDk5ODEwOTMxMywxNT
-M2NzAwMDkzLDE2NTIxODU0NjksMTgzOTkxMDEwMCwyMDQxNTg4
-ODY3XX0=
+eyJoaXN0b3J5IjpbLTY4MTc3ODE5LC04MTYwOTAxOTYsMTY2OT
+E2NDU5NSwtMTI1MTc5MzEwNywtMTI3MDgxNDExNCw2MzU3OTIx
+OCwtMTg0NjM4MDQ3NCwyODgzMTg4NDgsMjA5OTk3NDQ4MSwtNT
+QyNzI2MzgsLTkyMjY3OTQwNywtNDU0NDQ5OTQsMTc2NzQ3MDQ1
+MCwtNDA1MzcwMzA2LDExODQ5NzU4MDEsOTk4MTA5MzEzLDE1Mz
+Y3MDAwOTMsMTY1MjE4NTQ2OSwxODM5OTEwMTAwLDIwNDE1ODg4
+NjddfQ==
 -->
