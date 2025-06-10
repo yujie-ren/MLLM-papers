@@ -109,7 +109,8 @@ Search Keywords: Vision, Visual, Multimodal
 (U of Georgia, Fine-grained visual reasoning)  
 47. Modality-Specialized Synergizers for Interleaved Vision-Language Generalists [[pdf]](https://openreview.net/forum?id=7UgQjFEadn)  
 (Virginia Tech, Vision-Language Generalists, Understanding and generating both text and images)  
-48. #### [How Does Vision-Language Adaptation Impact the Safety of Vision Language Models?](https://openreview.net/forum?id=eXB5TCrAu9)
+48. How Does Vision-Language Adaptation Impact the Safety of Vision Language Models? [[pdf]](https://openreview.net/forum?id=eXB5TCrAu9)  
+(⭐️KAIST, )
 
 
 
@@ -151,11 +152,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzk0MjEzOSw2NjI2NDUwMzcsMTM4OD
-gwOTM0OSwxMzQwMDM1NTE2LDIwMTc2MzM5MDQsMzk3NzA2MDAz
-LC0xNjIzNzI4MjIwLDExNDQwNjYwMDksMTg4NjgwODk2NiwtMj
-g2MTI0Njc2LDg5MDk1MDA5MiwxMTAzODU1MTgsLTgxNjA5MDE5
-NiwxNjY5MTY0NTk1LC0xMjUxNzkzMTA3LC0xMjcwODE0MTE0LD
-YzNTc5MjE4LC0xODQ2MzgwNDc0LDI4ODMxODg0OCwyMDk5OTc0
-NDgxXX0=
+eyJoaXN0b3J5IjpbLTExMzc3OTg2MjUsNjYyNjQ1MDM3LDEzOD
+g4MDkzNDksMTM0MDAzNTUxNiwyMDE3NjMzOTA0LDM5NzcwNjAw
+MywtMTYyMzcyODIyMCwxMTQ0MDY2MDA5LDE4ODY4MDg5NjYsLT
+I4NjEyNDY3Niw4OTA5NTAwOTIsMTEwMzg1NTE4LC04MTYwOTAx
+OTYsMTY2OTE2NDU5NSwtMTI1MTc5MzEwNywtMTI3MDgxNDExNC
+w2MzU3OTIxOCwtMTg0NjM4MDQ3NCwyODgzMTg4NDgsMjA5OTk3
+NDQ4MV19
 -->
