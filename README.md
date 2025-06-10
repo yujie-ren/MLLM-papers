@@ -43,7 +43,8 @@ Search Keywords: Vision, Visual, Multimodal
 (Stony Brook U, VLA model, Motivated by visual instruction tuning)  
 14. Failures to Find Transferable Image Jailbreaks Between Vision-Language Models [[pdf]](https://openreview.net/forum?id=wvFnqVVUhN)  
 (Stanford, VLM, Image jailbreak)
-15. 
+15. Have the VLMs Lost Confidence? A Study of Sycophancy in VLMs [[pdf]](https://openreview.net/forum?id=E2PFv7ad3p)  
+()
 
 
 
@@ -84,7 +85,7 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDY2OTU5ODMsMjA5OTk3NDQ4MSwtNT
+eyJoaXN0b3J5IjpbLTEyMDcyNTgwMzcsMjA5OTk3NDQ4MSwtNT
 QyNzI2MzgsLTkyMjY3OTQwNywtNDU0NDQ5OTQsMTc2NzQ3MDQ1
 MCwtNDA1MzcwMzA2LDExODQ5NzU4MDEsOTk4MTA5MzEzLDE1Mz
 Y3MDAwOTMsMTY1MjE4NTQ2OSwxODM5OTEwMTAwLDIwNDE1ODg4
