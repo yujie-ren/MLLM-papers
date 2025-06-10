@@ -74,7 +74,7 @@ Search Keywords: Vision, Visual, Multimodal
 29. IDA-VLM: Towards Movie Understanding via ID-Aware Large Vision-Language Model [[pdf]](https://openreview.net/forum?id=N5YTixK4F1)  
 (UHK, Movie understanding, Associate instances across different scenes)  
 30. Locality Alignment Improves Vision-Language Models [[pdf]](https://openreview.net/forum?id=qssVptHTPN)  
-()
+(Stanford, )
 
 
 
@@ -115,7 +115,7 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MzM1ODk3OCwxMTAzODU1MTgsLTgxNj
+eyJoaXN0b3J5IjpbMTU4MzI0NDk5NywxMTAzODU1MTgsLTgxNj
 A5MDE5NiwxNjY5MTY0NTk1LC0xMjUxNzkzMTA3LC0xMjcwODE0
 MTE0LDYzNTc5MjE4LC0xODQ2MzgwNDc0LDI4ODMxODg0OCwyMD
 k5OTc0NDgxLC01NDI3MjYzOCwtOTIyNjc5NDA3LC00NTQ0NDk5
