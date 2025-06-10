@@ -70,7 +70,8 @@ Search Keywords: Vision, Visual, Multimodal
 27. Towards Interpreting Visual Information Processing in Vision-Language Models [[pdf]](https://openreview.net/forum?id=chanJGoa7f)  
 (NTU, VLM interpretability)  
 28. Painting with Words: Elevating Detailed Image Captioning with Benchmark and Alignment Learning [[pdf]](https://openreview.net/forum?id=636M0nNbPs)  
-()
+(ByteDance, Image captioning evaluation)  
+29. 
 
 
 
@@ -111,11 +112,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNjE1OTE1OCwtODE2MDkwMTk2LDE2Nj
-kxNjQ1OTUsLTEyNTE3OTMxMDcsLTEyNzA4MTQxMTQsNjM1Nzky
-MTgsLTE4NDYzODA0NzQsMjg4MzE4ODQ4LDIwOTk5NzQ0ODEsLT
-U0MjcyNjM4LC05MjI2Nzk0MDcsLTQ1NDQ0OTk0LDE3Njc0NzA0
-NTAsLTQwNTM3MDMwNiwxMTg0OTc1ODAxLDk5ODEwOTMxMywxNT
-M2NzAwMDkzLDE2NTIxODU0NjksMTgzOTkxMDEwMCwyMDQxNTg4
-ODY3XX0=
+eyJoaXN0b3J5IjpbLTE5OTM1NTU1NTksLTgxNjA5MDE5NiwxNj
+Y5MTY0NTk1LC0xMjUxNzkzMTA3LC0xMjcwODE0MTE0LDYzNTc5
+MjE4LC0xODQ2MzgwNDc0LDI4ODMxODg0OCwyMDk5OTc0NDgxLC
+01NDI3MjYzOCwtOTIyNjc5NDA3LC00NTQ0NDk5NCwxNzY3NDcw
+NDUwLC00MDUzNzAzMDYsMTE4NDk3NTgwMSw5OTgxMDkzMTMsMT
+UzNjcwMDA5MywxNjUyMTg1NDY5LDE4Mzk5MTAxMDAsMjA0MTU4
+ODg2N119
 -->
