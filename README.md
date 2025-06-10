@@ -105,7 +105,8 @@ Search Keywords: Vision, Visual, Multimodal
 (⭐️UC Berkely, VLM, Interpretation, Hallucination)  
 45. VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation [[pdf]](https://openreview.net/forum?id=02haSpO453)  
 (THU, Unified model, Video, Image, Language understanding and generation)  
-46. 
+46. Enhancing Cognition and Explainability of Multimodal Foundation Models with Self-Synthesized Data [[pdf]](https://openreview.net/forum?id=lHbLpwbEyt)  
+()
 
 
 
@@ -147,11 +148,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkyMzc3Mjk3LDEzNDAwMzU1MTYsMjAxNz
-YzMzkwNCwzOTc3MDYwMDMsLTE2MjM3MjgyMjAsMTE0NDA2NjAw
-OSwxODg2ODA4OTY2LC0yODYxMjQ2NzYsODkwOTUwMDkyLDExMD
-M4NTUxOCwtODE2MDkwMTk2LDE2NjkxNjQ1OTUsLTEyNTE3OTMx
-MDcsLTEyNzA4MTQxMTQsNjM1NzkyMTgsLTE4NDYzODA0NzQsMj
-g4MzE4ODQ4LDIwOTk5NzQ0ODEsLTU0MjcyNjM4LC05MjI2Nzk0
-MDddfQ==
+eyJoaXN0b3J5IjpbMTU1NzY2OTg3MywxMzQwMDM1NTE2LDIwMT
+c2MzM5MDQsMzk3NzA2MDAzLC0xNjIzNzI4MjIwLDExNDQwNjYw
+MDksMTg4NjgwODk2NiwtMjg2MTI0Njc2LDg5MDk1MDA5MiwxMT
+AzODU1MTgsLTgxNjA5MDE5NiwxNjY5MTY0NTk1LC0xMjUxNzkz
+MTA3LC0xMjcwODE0MTE0LDYzNTc5MjE4LC0xODQ2MzgwNDc0LD
+I4ODMxODg0OCwyMDk5OTc0NDgxLC01NDI3MjYzOCwtOTIyNjc5
+NDA3XX0=
 -->
