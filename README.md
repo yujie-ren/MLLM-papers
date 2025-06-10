@@ -65,7 +65,7 @@ Search Keywords: Vision, Visual, Multimodal
 (Southeast U, Visual navigation, Robots)  
 25. Should VLMs be Pre-trained with Image Data? [[pdf]](https://openreview.net/forum?id=Pj4Aid3XqL)  
 (⭐️Toyota Research Institute, Pre-train with image or not)  
-26. 
+26. #### [Can We Talk Models Into Seeing the World Differently?](https://openreview.net/forum?id=iVMcYxTiVM)
 
 
 
@@ -106,11 +106,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MTEzMDcxLDE2NjkxNjQ1OTUsLTEyNT
-E3OTMxMDcsLTEyNzA4MTQxMTQsNjM1NzkyMTgsLTE4NDYzODA0
-NzQsMjg4MzE4ODQ4LDIwOTk5NzQ0ODEsLTU0MjcyNjM4LC05Mj
-I2Nzk0MDcsLTQ1NDQ0OTk0LDE3Njc0NzA0NTAsLTQwNTM3MDMw
-NiwxMTg0OTc1ODAxLDk5ODEwOTMxMywxNTM2NzAwMDkzLDE2NT
-IxODU0NjksMTgzOTkxMDEwMCwyMDQxNTg4ODY3LC0xMTgwNTk5
-MDY4XX0=
+eyJoaXN0b3J5IjpbMjAwODk4ODM4MCwxNjY5MTY0NTk1LC0xMj
+UxNzkzMTA3LC0xMjcwODE0MTE0LDYzNTc5MjE4LC0xODQ2Mzgw
+NDc0LDI4ODMxODg0OCwyMDk5OTc0NDgxLC01NDI3MjYzOCwtOT
+IyNjc5NDA3LC00NTQ0NDk5NCwxNzY3NDcwNDUwLC00MDUzNzAz
+MDYsMTE4NDk3NTgwMSw5OTgxMDkzMTMsMTUzNjcwMDA5MywxNj
+UyMTg1NDY5LDE4Mzk5MTAxMDAsMjA0MTU4ODg2NywtMTE4MDU5
+OTA2OF19
 -->
