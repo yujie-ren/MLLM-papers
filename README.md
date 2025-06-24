@@ -25,9 +25,9 @@ Search Keywords: Vision, Visual, Multimodal
 
 #### Other
 1. Learning dynamics in linear recurrent neural networks  [[pdf]](https://openreview.net/forum?id=KGOcrIWYnx)  
-(ICL, Learning dynamics of RNN)
+(ICL, Learning dynamics of RNN, idea for next project)
 2. Learning Dynamics in Continual Pre-Training for Large Language Models  [[pdf]](https://openreview.net/forum?id=Vk1rNMl0J1)  
-(UCAS, Learning dynamics of continual pre-training)
+(UCAS, Learning dynamics of continual pre-training, idea for next project)
 
 ## ICLR-202504
 [All Papers](https://openreview.net/group?id=ICLR.cc/2025/Conference#tab-accept-oral) &nbsp;&nbsp;
@@ -172,11 +172,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MTc5NjYxLC00NDg3Nzg3MjUsNjE4Mz
-A1NDE3LDE1NDI5NDI0ODQsLTEzNTM4NDQxMjksLTI5NDc2ODE3
-Niw5NjQ0NDI2MTYsMTgzNzU2ODE0Nyw2NjI2NDUwMzcsMTM4OD
-gwOTM0OSwxMzQwMDM1NTE2LDIwMTc2MzM5MDQsMzk3NzA2MDAz
-LC0xNjIzNzI4MjIwLDExNDQwNjYwMDksMTg4NjgwODk2NiwtMj
-g2MTI0Njc2LDg5MDk1MDA5MiwxMTAzODU1MTgsLTgxNjA5MDE5
-Nl19
+eyJoaXN0b3J5IjpbLTEyNjMwNjIyMzEsLTQ0ODc3ODcyNSw2MT
+gzMDU0MTcsMTU0Mjk0MjQ4NCwtMTM1Mzg0NDEyOSwtMjk0NzY4
+MTc2LDk2NDQ0MjYxNiwxODM3NTY4MTQ3LDY2MjY0NTAzNywxMz
+g4ODA5MzQ5LDEzNDAwMzU1MTYsMjAxNzYzMzkwNCwzOTc3MDYw
+MDMsLTE2MjM3MjgyMjAsMTE0NDA2NjAwOSwxODg2ODA4OTY2LC
+0yODYxMjQ2NzYsODkwOTUwMDkyLDExMDM4NTUxOCwtODE2MDkw
+MTk2XX0=
 -->
