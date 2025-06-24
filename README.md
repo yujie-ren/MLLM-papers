@@ -18,7 +18,7 @@ Search Keywords: Vision, Visual, Multimodal
 (UIUC, Benchmark, MLLM, Agent)
 2. AffectGPT: A New Dataset, Model, and Benchmark for Emotion Understanding with Multimodal Large Language Models  [[pdf]](https://openreview.net/forum?id=xmbdACI0xu)  
 (CAS, Benchmark, MLLM, Emotion understanding)  
-
+3. SK-VQA: Synthetic Knowledge Generation at Scale for Training Context-Augmented Multimodal LLMs](https://openreview.net/forum?id=EVwMw2lVlw)
 
 
 #### Other
@@ -169,11 +169,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0ODc3ODcyNSw2MTgzMDU0MTcsMTU0Mj
-k0MjQ4NCwtMTM1Mzg0NDEyOSwtMjk0NzY4MTc2LDk2NDQ0MjYx
-NiwxODM3NTY4MTQ3LDY2MjY0NTAzNywxMzg4ODA5MzQ5LDEzND
-AwMzU1MTYsMjAxNzYzMzkwNCwzOTc3MDYwMDMsLTE2MjM3Mjgy
-MjAsMTE0NDA2NjAwOSwxODg2ODA4OTY2LC0yODYxMjQ2NzYsOD
-kwOTUwMDkyLDExMDM4NTUxOCwtODE2MDkwMTk2LDE2NjkxNjQ1
-OTVdfQ==
+eyJoaXN0b3J5IjpbLTE2NDQ1NjA3OTYsLTQ0ODc3ODcyNSw2MT
+gzMDU0MTcsMTU0Mjk0MjQ4NCwtMTM1Mzg0NDEyOSwtMjk0NzY4
+MTc2LDk2NDQ0MjYxNiwxODM3NTY4MTQ3LDY2MjY0NTAzNywxMz
+g4ODA5MzQ5LDEzNDAwMzU1MTYsMjAxNzYzMzkwNCwzOTc3MDYw
+MDMsLTE2MjM3MjgyMjAsMTE0NDA2NjAwOSwxODg2ODA4OTY2LC
+0yODYxMjQ2NzYsODkwOTUwMDkyLDExMDM4NTUxOCwtODE2MDkw
+MTk2XX0=
 -->
