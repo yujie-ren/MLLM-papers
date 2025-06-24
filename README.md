@@ -21,7 +21,8 @@ Search Keywords: Vision, Visual, Multimodal
 3. SK-VQA: Synthetic Knowledge Generation at Scale for Training Context-Augmented Multimodal LLMs  [[pdf]](https://openreview.net/forum?id=EVwMw2lVlw)  
 (Intel, Benchmark, MLLM, Multimodal RAG)  
 4. On Path to Multimodal Generalist: General-Level and General-Bench [[pdf]](https://openreview.net/forum?id=VsJ1K2HV3k)  
-(NUS, Multimodal generation, )
+(NUS, Multimodal generation, Evaluation framework)  
+
 
 
 #### Other
@@ -173,11 +174,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNDAwNjAwMSwxODA4MjY1Mjg5LC00ND
-g3Nzg3MjUsNjE4MzA1NDE3LDE1NDI5NDI0ODQsLTEzNTM4NDQx
-MjksLTI5NDc2ODE3Niw5NjQ0NDI2MTYsMTgzNzU2ODE0Nyw2Nj
-I2NDUwMzcsMTM4ODgwOTM0OSwxMzQwMDM1NTE2LDIwMTc2MzM5
-MDQsMzk3NzA2MDAzLC0xNjIzNzI4MjIwLDExNDQwNjYwMDksMT
-g4NjgwODk2NiwtMjg2MTI0Njc2LDg5MDk1MDA5MiwxMTAzODU1
-MThdfQ==
+eyJoaXN0b3J5IjpbLTE4OTg2ODUzMjEsMTgwODI2NTI4OSwtND
+Q4Nzc4NzI1LDYxODMwNTQxNywxNTQyOTQyNDg0LC0xMzUzODQ0
+MTI5LC0yOTQ3NjgxNzYsOTY0NDQyNjE2LDE4Mzc1NjgxNDcsNj
+YyNjQ1MDM3LDEzODg4MDkzNDksMTM0MDAzNTUxNiwyMDE3NjMz
+OTA0LDM5NzcwNjAwMywtMTYyMzcyODIyMCwxMTQ0MDY2MDA5LD
+E4ODY4MDg5NjYsLTI4NjEyNDY3Niw4OTA5NTAwOTIsMTEwMzg1
+NTE4XX0=
 -->
