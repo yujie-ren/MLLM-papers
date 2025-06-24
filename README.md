@@ -13,7 +13,7 @@ Search Keywords: Vision, Visual, Multimodal
 ## ICML-202507
 [All Papers](https://openreview.net/group?id=ICML.cc/2025/Conference#tab-accept-oral)
 
-#### VLM
+#### MLLM
 1. EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents  [[pdf]](https://openreview.net/forum?id=DgGF2LEBPS)  
 (UIUC, Benchmark, MLLM, Agent)
 #### [AffectGPT: A New Dataset, Model, and Benchmark for Emotion Understanding with Multimodal Large Language Models](https://openreview.net/forum?id=xmbdACI0xu)
@@ -28,7 +28,7 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://openreview.net/group?id=ICLR.cc/2025/Conference#tab-accept-oral) &nbsp;&nbsp;
 [Multimodal Model Papers](https://iclr2025.vizhub.ai/?brushed=%255B%255B179.62503051757812%252C18.363710403442383%255D%252C%255B330.3000183105469%252C234.6387176513672%255D%255D)
 
-####  VLM
+####  MLLM
 1. Mechanistic Interpretability Meets Vision Language Models: Insights and Limitations  [[pdf]](https://d2jud02ci9yv69.cloudfront.net/2025-04-28-vlm-understanding-29/blog/vlm-understanding/)  
 (Blog, THU, 全面介绍了Interpretability & VLM)
 2. Fine-Tuning Token-Based Large Multimodal Models: What Works, What Doesn’t and What's Next  [[pdf]](https://d2jud02ci9yv69.cloudfront.net/2025-04-28-fine-tuning-token-based-large-multimodal-models-86/blog/fine-tuning-token-based-large-multimodal-models/)  
@@ -167,7 +167,7 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMjA3MjMzNyw2MTgzMDU0MTcsMTU0Mj
+eyJoaXN0b3J5IjpbMTYwMjkxMzE4OSw2MTgzMDU0MTcsMTU0Mj
 k0MjQ4NCwtMTM1Mzg0NDEyOSwtMjk0NzY4MTc2LDk2NDQ0MjYx
 NiwxODM3NTY4MTQ3LDY2MjY0NTAzNywxMzg4ODA5MzQ5LDEzND
 AwMzU1MTYsMjAxNzYzMzkwNCwzOTc3MDYwMDMsLTE2MjM3Mjgy
