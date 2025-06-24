@@ -24,7 +24,8 @@ Search Keywords: Vision, Visual, Multimodal
 (NUS, Multimodal generation, Evaluation framework)  
 5. Can MLLMs Reason in Multimodality? EMMA: An Enhanced MultiModal ReAsoning Benchmark  [[pdf]](https://openreview.net/forum?id=v26vwjxOEz)  
 (USTC, Benchmark, MLLM Reasoning)  
-
+6. Mitigating Object Hallucination in Large Vision-Language Models via Image-Grounded Guidance  [[pdf]](https://openreview.net/forum?id=w0xYx9CJhY)  
+()
 
 
 #### Other
@@ -176,11 +177,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMTk0MzM2OSwxODA4MjY1Mjg5LC00ND
-g3Nzg3MjUsNjE4MzA1NDE3LDE1NDI5NDI0ODQsLTEzNTM4NDQx
-MjksLTI5NDc2ODE3Niw5NjQ0NDI2MTYsMTgzNzU2ODE0Nyw2Nj
-I2NDUwMzcsMTM4ODgwOTM0OSwxMzQwMDM1NTE2LDIwMTc2MzM5
-MDQsMzk3NzA2MDAzLC0xNjIzNzI4MjIwLDExNDQwNjYwMDksMT
-g4NjgwODk2NiwtMjg2MTI0Njc2LDg5MDk1MDA5MiwxMTAzODU1
-MThdfQ==
+eyJoaXN0b3J5IjpbNDE0OTg3MSwtNjAxOTQzMzY5LDE4MDgyNj
+UyODksLTQ0ODc3ODcyNSw2MTgzMDU0MTcsMTU0Mjk0MjQ4NCwt
+MTM1Mzg0NDEyOSwtMjk0NzY4MTc2LDk2NDQ0MjYxNiwxODM3NT
+Y4MTQ3LDY2MjY0NTAzNywxMzg4ODA5MzQ5LDEzNDAwMzU1MTYs
+MjAxNzYzMzkwNCwzOTc3MDYwMDMsLTE2MjM3MjgyMjAsMTE0ND
+A2NjAwOSwxODg2ODA4OTY2LC0yODYxMjQ2NzYsODkwOTUwMDky
+XX0=
 -->
