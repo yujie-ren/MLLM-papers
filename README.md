@@ -16,7 +16,9 @@ Search Keywords: Vision, Visual, Multimodal
 #### MLLM
 1. EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents  [[pdf]](https://openreview.net/forum?id=DgGF2LEBPS)  
 (UIUC, Benchmark, MLLM, Agent)
-#### [AffectGPT: A New Dataset, Model, and Benchmark for Emotion Understanding with Multimodal Large Language Models](https://openreview.net/forum?id=xmbdACI0xu)
+2. AffectGPT: A New Dataset, Model, and Benchmark for Emotion Understanding with Multimodal Large Language Models  [[pdf]](https://openreview.net/forum?id=xmbdACI0xu)  
+(CAS, Benchmark, MLLM, Emotion understanding)  
+
 
 
 #### Other
@@ -167,7 +169,7 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMjkxMzE4OSw2MTgzMDU0MTcsMTU0Mj
+eyJoaXN0b3J5IjpbLTQ0ODc3ODcyNSw2MTgzMDU0MTcsMTU0Mj
 k0MjQ4NCwtMTM1Mzg0NDEyOSwtMjk0NzY4MTc2LDk2NDQ0MjYx
 NiwxODM3NTY4MTQ3LDY2MjY0NTAzNywxMzg4ODA5MzQ5LDEzND
 AwMzU1MTYsMjAxNzYzMzkwNCwzOTc3MDYwMDMsLTE2MjM3Mjgy
