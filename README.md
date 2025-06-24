@@ -26,7 +26,8 @@ Search Keywords: Vision, Visual, Multimodal
 (USTC, Benchmark, MLLM Reasoning)  
 6. Mitigating Object Hallucination in Large Vision-Language Models via Image-Grounded Guidance  [[pdf]](https://openreview.net/forum?id=w0xYx9CJhY)  
 (Cornell U, VLM, Mitigate hallucination)
-#### [GMAIL: Generative Modality Alignment for generated Image Learning](https://openreview.net/forum?id=u6xeKVHS6K)
+7. GMAIL: Generative Modality Alignment for generated Image Learning  [[pdf]](https://openreview.net/forum?id=u6xeKVHS6K)  
+(CMU, Training with generated images)
 
 
 
@@ -179,11 +180,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2OTcyMTQzNywtMTM3NjAwODc0MywtNj
-AxOTQzMzY5LDE4MDgyNjUyODksLTQ0ODc3ODcyNSw2MTgzMDU0
-MTcsMTU0Mjk0MjQ4NCwtMTM1Mzg0NDEyOSwtMjk0NzY4MTc2LD
-k2NDQ0MjYxNiwxODM3NTY4MTQ3LDY2MjY0NTAzNywxMzg4ODA5
-MzQ5LDEzNDAwMzU1MTYsMjAxNzYzMzkwNCwzOTc3MDYwMDMsLT
-E2MjM3MjgyMjAsMTE0NDA2NjAwOSwxODg2ODA4OTY2LC0yODYx
-MjQ2NzZdfQ==
+eyJoaXN0b3J5IjpbLTIwNzA5ODY2NDMsLTEzNzYwMDg3NDMsLT
+YwMTk0MzM2OSwxODA4MjY1Mjg5LC00NDg3Nzg3MjUsNjE4MzA1
+NDE3LDE1NDI5NDI0ODQsLTEzNTM4NDQxMjksLTI5NDc2ODE3Ni
+w5NjQ0NDI2MTYsMTgzNzU2ODE0Nyw2NjI2NDUwMzcsMTM4ODgw
+OTM0OSwxMzQwMDM1NTE2LDIwMTc2MzM5MDQsMzk3NzA2MDAzLC
+0xNjIzNzI4MjIwLDExNDQwNjYwMDksMTg4NjgwODk2NiwtMjg2
+MTI0Njc2XX0=
 -->
