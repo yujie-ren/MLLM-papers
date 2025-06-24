@@ -22,7 +22,8 @@ Search Keywords: Vision, Visual, Multimodal
 (Intel, Benchmark, MLLM, Multimodal RAG)  
 4. On Path to Multimodal Generalist: General-Level and General-Bench [[pdf]](https://openreview.net/forum?id=VsJ1K2HV3k)  
 (NUS, Multimodal generation, Evaluation framework)  
-
+5. Can MLLMs Reason in Multimodality? EMMA: An Enhanced MultiModal ReAsoning Benchmark  [[pdf]](https://openreview.net/forum?id=v26vwjxOEz)  
+()
 
 
 #### Other
@@ -174,7 +175,7 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTg2ODUzMjEsMTgwODI2NTI4OSwtND
+eyJoaXN0b3J5IjpbLTEzNDAwNDc5MTUsMTgwODI2NTI4OSwtND
 Q4Nzc4NzI1LDYxODMwNTQxNywxNTQyOTQyNDg0LC0xMzUzODQ0
 MTI5LC0yOTQ3NjgxNzYsOTY0NDQyNjE2LDE4Mzc1NjgxNDcsNj
 YyNjQ1MDM3LDEzODg4MDkzNDksMTM0MDAzNTUxNiwyMDE3NjMz
