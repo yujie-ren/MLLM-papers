@@ -28,7 +28,8 @@ Search Keywords: Vision, Visual, Multimodal
 (Cornell U, VLM, Mitigate hallucination)
 7. GMAIL: Generative Modality Alignment for generated Image Learning  [[pdf]](https://openreview.net/forum?id=u6xeKVHS6K)  
 (CMU, Training VLM with generated images)
-
+8. MODA: MOdular Duplex Attention for Multimodal Perception, Cognition, and Emotion Understanding  [[pdf]](https://openreview.net/forum?id=9hd5WA6QCn)  
+()
 
 
 #### Other
@@ -180,11 +181,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTQwMTk2MTIsLTEzNzYwMDg3NDMsLT
-YwMTk0MzM2OSwxODA4MjY1Mjg5LC00NDg3Nzg3MjUsNjE4MzA1
-NDE3LDE1NDI5NDI0ODQsLTEzNTM4NDQxMjksLTI5NDc2ODE3Ni
-w5NjQ0NDI2MTYsMTgzNzU2ODE0Nyw2NjI2NDUwMzcsMTM4ODgw
-OTM0OSwxMzQwMDM1NTE2LDIwMTc2MzM5MDQsMzk3NzA2MDAzLC
-0xNjIzNzI4MjIwLDExNDQwNjYwMDksMTg4NjgwODk2NiwtMjg2
-MTI0Njc2XX0=
+eyJoaXN0b3J5IjpbLTEwNzA2NTQ5OTYsLTE2OTQwMTk2MTIsLT
+EzNzYwMDg3NDMsLTYwMTk0MzM2OSwxODA4MjY1Mjg5LC00NDg3
+Nzg3MjUsNjE4MzA1NDE3LDE1NDI5NDI0ODQsLTEzNTM4NDQxMj
+ksLTI5NDc2ODE3Niw5NjQ0NDI2MTYsMTgzNzU2ODE0Nyw2NjI2
+NDUwMzcsMTM4ODgwOTM0OSwxMzQwMDM1NTE2LDIwMTc2MzM5MD
+QsMzk3NzA2MDAzLC0xNjIzNzI4MjIwLDExNDQwNjYwMDksMTg4
+NjgwODk2Nl19
 -->
