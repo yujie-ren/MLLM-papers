@@ -17,8 +17,11 @@ Search Keywords: Vision, Visual, Multimodal
 1. EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents  [[pdf]](https://openreview.net/forum?id=DgGF2LEBPS)  
 (UIUC, Benchmark, MLLM, Agent)
 
-#### Other
 
+
+#### Other
+1. Learning dynamics in linear recurrent neural networks  [[pdf]](https://openreview.net/forum?id=KGOcrIWYnx)  
+()
 
 
 ## ICLR-202504
@@ -164,11 +167,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0Mjk0MjQ4NCwtMTM1Mzg0NDEyOSwtMj
-k0NzY4MTc2LDk2NDQ0MjYxNiwxODM3NTY4MTQ3LDY2MjY0NTAz
-NywxMzg4ODA5MzQ5LDEzNDAwMzU1MTYsMjAxNzYzMzkwNCwzOT
-c3MDYwMDMsLTE2MjM3MjgyMjAsMTE0NDA2NjAwOSwxODg2ODA4
-OTY2LC0yODYxMjQ2NzYsODkwOTUwMDkyLDExMDM4NTUxOCwtOD
-E2MDkwMTk2LDE2NjkxNjQ1OTUsLTEyNTE3OTMxMDcsLTEyNzA4
-MTQxMTRdfQ==
+eyJoaXN0b3J5IjpbLTE4NjQxMTQ5ODMsMTU0Mjk0MjQ4NCwtMT
+M1Mzg0NDEyOSwtMjk0NzY4MTc2LDk2NDQ0MjYxNiwxODM3NTY4
+MTQ3LDY2MjY0NTAzNywxMzg4ODA5MzQ5LDEzNDAwMzU1MTYsMj
+AxNzYzMzkwNCwzOTc3MDYwMDMsLTE2MjM3MjgyMjAsMTE0NDA2
+NjAwOSwxODg2ODA4OTY2LC0yODYxMjQ2NzYsODkwOTUwMDkyLD
+ExMDM4NTUxOCwtODE2MDkwMTk2LDE2NjkxNjQ1OTUsLTEyNTE3
+OTMxMDddfQ==
 -->
