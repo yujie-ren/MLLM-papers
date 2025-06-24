@@ -31,6 +31,7 @@ Search Keywords: Vision, Visual, Multimodal
 8. MODA: MOdular Duplex Attention for Multimodal Perception, Cognition, and Emotion Understanding  [[pdf]](https://openreview.net/forum?id=9hd5WA6QCn)  
 (Kuaishou, MLLM, Attention mechanism)  
 
+spotlight poster page 4
 
 
 #### Other
@@ -182,11 +183,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ5NjM5Mjg0LC0xNjk0MDE5NjEyLC0xMz
-c2MDA4NzQzLC02MDE5NDMzNjksMTgwODI2NTI4OSwtNDQ4Nzc4
-NzI1LDYxODMwNTQxNywxNTQyOTQyNDg0LC0xMzUzODQ0MTI5LC
-0yOTQ3NjgxNzYsOTY0NDQyNjE2LDE4Mzc1NjgxNDcsNjYyNjQ1
-MDM3LDEzODg4MDkzNDksMTM0MDAzNTUxNiwyMDE3NjMzOTA0LD
-M5NzcwNjAwMywtMTYyMzcyODIyMCwxMTQ0MDY2MDA5LDE4ODY4
-MDg5NjZdfQ==
+eyJoaXN0b3J5IjpbLTE0ODg2NTQ2OTgsLTE2OTQwMTk2MTIsLT
+EzNzYwMDg3NDMsLTYwMTk0MzM2OSwxODA4MjY1Mjg5LC00NDg3
+Nzg3MjUsNjE4MzA1NDE3LDE1NDI5NDI0ODQsLTEzNTM4NDQxMj
+ksLTI5NDc2ODE3Niw5NjQ0NDI2MTYsMTgzNzU2ODE0Nyw2NjI2
+NDUwMzcsMTM4ODgwOTM0OSwxMzQwMDM1NTE2LDIwMTc2MzM5MD
+QsMzk3NzA2MDAzLC0xNjIzNzI4MjIwLDExNDQwNjYwMDksMTg4
+NjgwODk2Nl19
 -->
