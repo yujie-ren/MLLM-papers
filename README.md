@@ -27,7 +27,7 @@ Search Keywords: Vision, Visual, Multimodal
 6. Mitigating Object Hallucination in Large Vision-Language Models via Image-Grounded Guidance  [[pdf]](https://openreview.net/forum?id=w0xYx9CJhY)  
 (Cornell U, VLM, Mitigate hallucination)
 7. GMAIL: Generative Modality Alignment for generated Image Learning  [[pdf]](https://openreview.net/forum?id=u6xeKVHS6K)  
-(CMU, Training with generated images)
+(CMU, Training VLM with generated images)
 
 
 
@@ -180,7 +180,7 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzA5ODY2NDMsLTEzNzYwMDg3NDMsLT
+eyJoaXN0b3J5IjpbLTE2OTQwMTk2MTIsLTEzNzYwMDg3NDMsLT
 YwMTk0MzM2OSwxODA4MjY1Mjg5LC00NDg3Nzg3MjUsNjE4MzA1
 NDE3LDE1NDI5NDI0ODQsLTEzNTM4NDQxMjksLTI5NDc2ODE3Ni
 w5NjQ0NDI2MTYsMTgzNzU2ODE0Nyw2NjI2NDUwMzcsMTM4ODgw
