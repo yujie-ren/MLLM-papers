@@ -21,7 +21,7 @@ Search Keywords: Vision, Visual, Multimodal
 
 #### Other
 1. Learning dynamics in linear recurrent neural networks  [[pdf]](https://openreview.net/forum?id=KGOcrIWYnx)  
-(ICL, Learning dynamics)
+(ICL, Learning dynamics, 我可以做learning dynamic of VLM?)
 
 
 ## ICLR-202504
@@ -167,11 +167,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE4MzA1NDE3LDE1NDI5NDI0ODQsLTEzNT
-M4NDQxMjksLTI5NDc2ODE3Niw5NjQ0NDI2MTYsMTgzNzU2ODE0
-Nyw2NjI2NDUwMzcsMTM4ODgwOTM0OSwxMzQwMDM1NTE2LDIwMT
-c2MzM5MDQsMzk3NzA2MDAzLC0xNjIzNzI4MjIwLDExNDQwNjYw
-MDksMTg4NjgwODk2NiwtMjg2MTI0Njc2LDg5MDk1MDA5MiwxMT
-AzODU1MTgsLTgxNjA5MDE5NiwxNjY5MTY0NTk1LC0xMjUxNzkz
-MTA3XX0=
+eyJoaXN0b3J5IjpbMTgxMjYwNjU0OCwxNTQyOTQyNDg0LC0xMz
+UzODQ0MTI5LC0yOTQ3NjgxNzYsOTY0NDQyNjE2LDE4Mzc1Njgx
+NDcsNjYyNjQ1MDM3LDEzODg4MDkzNDksMTM0MDAzNTUxNiwyMD
+E3NjMzOTA0LDM5NzcwNjAwMywtMTYyMzcyODIyMCwxMTQ0MDY2
+MDA5LDE4ODY4MDg5NjYsLTI4NjEyNDY3Niw4OTA5NTAwOTIsMT
+EwMzg1NTE4LC04MTYwOTAxOTYsMTY2OTE2NDU5NSwtMTI1MTc5
+MzEwN119
 -->
