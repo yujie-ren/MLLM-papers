@@ -31,7 +31,7 @@ Search Keywords: Vision, Visual, Multimodal
 8. MODA: MOdular Duplex Attention for Multimodal Perception, Cognition, and Emotion Understanding  [[pdf]](https://openreview.net/forum?id=9hd5WA6QCn)  
 (Kuaishou, MLLM, Attention mechanism)  
 9. Data-Juicer Sandbox: A Feedback-Driven Suite for Multimodal Data-Model Co-development  [[pdf]](https://openreview.net/forum?id=zIGIvysR1H)  
-(Alibaba, ) 
+(Alibaba, Suite, MLLM, Data-model co-development) 
 
 
 
@@ -184,7 +184,7 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MjcxMjc0NCwtMTQ4ODY1NDY5OCwtMT
+eyJoaXN0b3J5IjpbMTMzNzg2NDU2NCwtMTQ4ODY1NDY5OCwtMT
 Y5NDAxOTYxMiwtMTM3NjAwODc0MywtNjAxOTQzMzY5LDE4MDgy
 NjUyODksLTQ0ODc3ODcyNSw2MTgzMDU0MTcsMTU0Mjk0MjQ4NC
 wtMTM1Mzg0NDEyOSwtMjk0NzY4MTc2LDk2NDQ0MjYxNiwxODM3
