@@ -42,14 +42,17 @@ Search Keywords: Vision, Visual, Multimodal
 (Wuhan U, Emotional understanding, Improving during inference)  
 14. Layer-wise Alignment: Examining Safety Alignment Across Image Encoder Layers in Vision Language Models  [[pdf]](https://openreview.net/forum?id=F1ff8zcjPp)  
 (UC Riverside, VLM safety, Image encoder, Layer-wise, LLaVA)
-15. Training Dynamics of In-Context Learning in Linear Attention  [[pdf]](https://openreview.net/forum?id=aFNq67ilos)  
-()
+15. 
 
 #### Other
 1. Learning dynamics in linear recurrent neural networks  [[pdf]](https://openreview.net/forum?id=KGOcrIWYnx)  
 (⭐️ICL, Learning dynamics of RNN, idea for next project)
 2. Learning Dynamics in Continual Pre-Training for Large Language Models  [[pdf]](https://openreview.net/forum?id=Vk1rNMl0J1)  
-(⭐️UCAS, Learning dynamics of continual pre-training, idea for next project)
+(⭐️UCAS, Learning dynamics of continual pre-training, idea for next project)  
+3. Training Dynamics of In-Context Learning in Linear Attention  [[pdf]](https://openreview.net/forum?id=aFNq67ilos)  
+()
+
+
 
 ## ICLR-202504
 [All Papers](https://openreview.net/group?id=ICLR.cc/2025/Conference#tab-accept-oral) &nbsp;&nbsp;
@@ -194,7 +197,7 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ5MDUwMDc3LDY1MTI5MzM5LDkxODQ4Nz
+eyJoaXN0b3J5IjpbLTMwOTc3MzgyLDY1MTI5MzM5LDkxODQ4Nz
 YzNSwxMzM3ODY0NTY0LC0xNDg4NjU0Njk4LC0xNjk0MDE5NjEy
 LC0xMzc2MDA4NzQzLC02MDE5NDMzNjksMTgwODI2NTI4OSwtND
 Q4Nzc4NzI1LDYxODMwNTQxNywxNTQyOTQyNDg0LC0xMzUzODQ0
