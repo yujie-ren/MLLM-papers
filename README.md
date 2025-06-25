@@ -50,7 +50,8 @@ Search Keywords: Vision, Visual, Multimodal
 2. Learning Dynamics in Continual Pre-Training for Large Language Models  [[pdf]](https://openreview.net/forum?id=Vk1rNMl0J1)  
 (⭐️UCAS, Learning dynamics of continual pre-training, idea for next project)  
 3. Training Dynamics of In-Context Learning in Linear Attention  [[pdf]](https://openreview.net/forum?id=aFNq67ilos)  
-(⭐️UCL, Training dynamics, In-context learning, Attention)
+(⭐️UCL, Training dynamics, In-context learning, Attention)  
+4. 
 
 
 
@@ -197,11 +198,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDI1OTUxOTIsNjUxMjkzMzksOTE4ND
-g3NjM1LDEzMzc4NjQ1NjQsLTE0ODg2NTQ2OTgsLTE2OTQwMTk2
-MTIsLTEzNzYwMDg3NDMsLTYwMTk0MzM2OSwxODA4MjY1Mjg5LC
-00NDg3Nzg3MjUsNjE4MzA1NDE3LDE1NDI5NDI0ODQsLTEzNTM4
-NDQxMjksLTI5NDc2ODE3Niw5NjQ0NDI2MTYsMTgzNzU2ODE0Ny
-w2NjI2NDUwMzcsMTM4ODgwOTM0OSwxMzQwMDM1NTE2LDIwMTc2
-MzM5MDRdfQ==
+eyJoaXN0b3J5IjpbLTg1NjY2MTIzNiw2NTEyOTMzOSw5MTg0OD
+c2MzUsMTMzNzg2NDU2NCwtMTQ4ODY1NDY5OCwtMTY5NDAxOTYx
+MiwtMTM3NjAwODc0MywtNjAxOTQzMzY5LDE4MDgyNjUyODksLT
+Q0ODc3ODcyNSw2MTgzMDU0MTcsMTU0Mjk0MjQ4NCwtMTM1Mzg0
+NDEyOSwtMjk0NzY4MTc2LDk2NDQ0MjYxNiwxODM3NTY4MTQ3LD
+Y2MjY0NTAzNywxMzg4ODA5MzQ5LDEzNDAwMzU1MTYsMjAxNzYz
+MzkwNF19
 -->
