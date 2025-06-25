@@ -45,7 +45,7 @@ Search Keywords: Vision, Visual, Multimodal
 15. When and How Does CLIP Enable Domain and Compositional Generalization?  [[pdf]](https://openreview.net/forum?id=Lktwi30g63)  
 (U of Freiburg, CLIP, Training, Generalization)  
 16. A Closer Look at Multimodal Representation Collapse  [[pdf]](https://openreview.net/forum?id=Vf9f7eNX6T)  
-(Fujitsu Research, Modality collapse, )
+(Fujitsu Research, Modality collapse)
 
 #### Other
 1. Learning dynamics in linear recurrent neural networks  [[pdf]](https://openreview.net/forum?id=KGOcrIWYnx)  
@@ -201,11 +201,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MzY0NzM5MCwtODM5NDEzNzQ1LDY1MT
-I5MzM5LDkxODQ4NzYzNSwxMzM3ODY0NTY0LC0xNDg4NjU0Njk4
-LC0xNjk0MDE5NjEyLC0xMzc2MDA4NzQzLC02MDE5NDMzNjksMT
-gwODI2NTI4OSwtNDQ4Nzc4NzI1LDYxODMwNTQxNywxNTQyOTQy
-NDg0LC0xMzUzODQ0MTI5LC0yOTQ3NjgxNzYsOTY0NDQyNjE2LD
-E4Mzc1NjgxNDcsNjYyNjQ1MDM3LDEzODg4MDkzNDksMTM0MDAz
-NTUxNl19
+eyJoaXN0b3J5IjpbODM3MzQyOTM0LC04Mzk0MTM3NDUsNjUxMj
+kzMzksOTE4NDg3NjM1LDEzMzc4NjQ1NjQsLTE0ODg2NTQ2OTgs
+LTE2OTQwMTk2MTIsLTEzNzYwMDg3NDMsLTYwMTk0MzM2OSwxOD
+A4MjY1Mjg5LC00NDg3Nzg3MjUsNjE4MzA1NDE3LDE1NDI5NDI0
+ODQsLTEzNTM4NDQxMjksLTI5NDc2ODE3Niw5NjQ0NDI2MTYsMT
+gzNzU2ODE0Nyw2NjI2NDUwMzcsMTM4ODgwOTM0OSwxMzQwMDM1
+NTE2XX0=
 -->
