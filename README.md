@@ -34,7 +34,8 @@ Search Keywords: Vision, Visual, Multimodal
 (Alibaba, Suite, MLLM, Data-model co-development) 
 10. Re-ranking Reasoning Context with Tree Search Makes Large Vision-Language Models Stronger  [[pdf]](https://openreview.net/forum?id=DJcEoC9JpQ)  
 (Alibaba, VLM, Multimodal RAG)  
-
+11. Improving Zero-Shot Adversarial Robustness in Vision-Language Models by Closed-form Alignment of Adversarial Path Simplices  [[pdf]](https://openreview.net/forum?id=WR0ahlhOoy)  
+(NTU, CLIP, )
 
 
 #### Other
@@ -186,11 +187,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE4NDg3NjM1LDEzMzc4NjQ1NjQsLTE0OD
-g2NTQ2OTgsLTE2OTQwMTk2MTIsLTEzNzYwMDg3NDMsLTYwMTk0
-MzM2OSwxODA4MjY1Mjg5LC00NDg3Nzg3MjUsNjE4MzA1NDE3LD
-E1NDI5NDI0ODQsLTEzNTM4NDQxMjksLTI5NDc2ODE3Niw5NjQ0
-NDI2MTYsMTgzNzU2ODE0Nyw2NjI2NDUwMzcsMTM4ODgwOTM0OS
-wxMzQwMDM1NTE2LDIwMTc2MzM5MDQsMzk3NzA2MDAzLC0xNjIz
-NzI4MjIwXX0=
+eyJoaXN0b3J5IjpbMTIyODMzOTY0Miw5MTg0ODc2MzUsMTMzNz
+g2NDU2NCwtMTQ4ODY1NDY5OCwtMTY5NDAxOTYxMiwtMTM3NjAw
+ODc0MywtNjAxOTQzMzY5LDE4MDgyNjUyODksLTQ0ODc3ODcyNS
+w2MTgzMDU0MTcsMTU0Mjk0MjQ4NCwtMTM1Mzg0NDEyOSwtMjk0
+NzY4MTc2LDk2NDQ0MjYxNiwxODM3NTY4MTQ3LDY2MjY0NTAzNy
+wxMzg4ODA5MzQ5LDEzNDAwMzU1MTYsMjAxNzYzMzkwNCwzOTc3
+MDYwMDNdfQ==
 -->
