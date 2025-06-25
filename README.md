@@ -47,6 +47,9 @@ Search Keywords: Vision, Visual, Multimodal
 16. A Closer Look at Multimodal Representation Collapse  [[pdf]](https://openreview.net/forum?id=Vf9f7eNX6T)  
 (Fujitsu Research, Modality collapse)
 
+从poster开始，可以检索vision language model，有很多文章。
+
+
 #### Other
 1. Learning dynamics in linear recurrent neural networks  [[pdf]](https://openreview.net/forum?id=KGOcrIWYnx)  
 (⭐️ICL, Learning dynamics of RNN, idea for next project)
@@ -54,7 +57,7 @@ Search Keywords: Vision, Visual, Multimodal
 (⭐️UCAS, Learning dynamics of continual pre-training, idea for next project)  
 3. Training Dynamics of In-Context Learning in Linear Attention  [[pdf]](https://openreview.net/forum?id=aFNq67ilos)  
 (⭐️UCL, Training dynamics, In-context learning, Attention)  
-4. 
+
 
 
 
@@ -201,11 +204,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM3MzQyOTM0LC04Mzk0MTM3NDUsNjUxMj
-kzMzksOTE4NDg3NjM1LDEzMzc4NjQ1NjQsLTE0ODg2NTQ2OTgs
-LTE2OTQwMTk2MTIsLTEzNzYwMDg3NDMsLTYwMTk0MzM2OSwxOD
-A4MjY1Mjg5LC00NDg3Nzg3MjUsNjE4MzA1NDE3LDE1NDI5NDI0
-ODQsLTEzNTM4NDQxMjksLTI5NDc2ODE3Niw5NjQ0NDI2MTYsMT
-gzNzU2ODE0Nyw2NjI2NDUwMzcsMTM4ODgwOTM0OSwxMzQwMDM1
-NTE2XX0=
+eyJoaXN0b3J5IjpbLTg2MTg5OTAxNyw4MzczNDI5MzQsLTgzOT
+QxMzc0NSw2NTEyOTMzOSw5MTg0ODc2MzUsMTMzNzg2NDU2NCwt
+MTQ4ODY1NDY5OCwtMTY5NDAxOTYxMiwtMTM3NjAwODc0MywtNj
+AxOTQzMzY5LDE4MDgyNjUyODksLTQ0ODc3ODcyNSw2MTgzMDU0
+MTcsMTU0Mjk0MjQ4NCwtMTM1Mzg0NDEyOSwtMjk0NzY4MTc2LD
+k2NDQ0MjYxNiwxODM3NTY4MTQ3LDY2MjY0NTAzNywxMzg4ODA5
+MzQ5XX0=
 -->
