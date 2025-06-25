@@ -41,7 +41,7 @@ Search Keywords: Vision, Visual, Multimodal
 13. Catch Your Emotion: Sharpening Emotion Perception in Multimodal Large Language Models  [[pdf]](https://openreview.net/forum?id=IYOksPHJKT)  
 (Wuhan U, Emotional understanding, Improving during inference)  
 14. Layer-wise Alignment: Examining Safety Alignment Across Image Encoder Layers in Vision Language Models  [[pdf]](https://openreview.net/forum?id=F1ff8zcjPp)  
-()
+(UC Riverside, )
 
 
 #### Other
@@ -193,11 +193,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwODE5NTM3Nyw2NTEyOTMzOSw5MTg0OD
-c2MzUsMTMzNzg2NDU2NCwtMTQ4ODY1NDY5OCwtMTY5NDAxOTYx
-MiwtMTM3NjAwODc0MywtNjAxOTQzMzY5LDE4MDgyNjUyODksLT
-Q0ODc3ODcyNSw2MTgzMDU0MTcsMTU0Mjk0MjQ4NCwtMTM1Mzg0
-NDEyOSwtMjk0NzY4MTc2LDk2NDQ0MjYxNiwxODM3NTY4MTQ3LD
-Y2MjY0NTAzNywxMzg4ODA5MzQ5LDEzNDAwMzU1MTYsMjAxNzYz
-MzkwNF19
+eyJoaXN0b3J5IjpbLTE5ODUzODA5NDAsNjUxMjkzMzksOTE4ND
+g3NjM1LDEzMzc4NjQ1NjQsLTE0ODg2NTQ2OTgsLTE2OTQwMTk2
+MTIsLTEzNzYwMDg3NDMsLTYwMTk0MzM2OSwxODA4MjY1Mjg5LC
+00NDg3Nzg3MjUsNjE4MzA1NDE3LDE1NDI5NDI0ODQsLTEzNTM4
+NDQxMjksLTI5NDc2ODE3Niw5NjQ0NDI2MTYsMTgzNzU2ODE0Ny
+w2NjI2NDUwMzcsMTM4ODgwOTM0OSwxMzQwMDM1NTE2LDIwMTc2
+MzM5MDRdfQ==
 -->
