@@ -43,7 +43,7 @@ Search Keywords: Vision, Visual, Multimodal
 14. Layer-wise Alignment: Examining Safety Alignment Across Image Encoder Layers in Vision Language Models  [[pdf]](https://openreview.net/forum?id=F1ff8zcjPp)  
 (UC Riverside, VLM safety, Image encoder, Layer-wise, LLaVA)
 15. When and How Does CLIP Enable Domain and Compositional Generalization?  [[pdf]](https://openreview.net/forum?id=Lktwi30g63)  
-(U of Freiburg, )
+(U of Freiburg, CLIP, )
 
 #### Other
 1. Learning dynamics in linear recurrent neural networks  [[pdf]](https://openreview.net/forum?id=KGOcrIWYnx)  
@@ -199,11 +199,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODIwMTA5MzMsNjUxMjkzMzksOTE4ND
-g3NjM1LDEzMzc4NjQ1NjQsLTE0ODg2NTQ2OTgsLTE2OTQwMTk2
-MTIsLTEzNzYwMDg3NDMsLTYwMTk0MzM2OSwxODA4MjY1Mjg5LC
-00NDg3Nzg3MjUsNjE4MzA1NDE3LDE1NDI5NDI0ODQsLTEzNTM4
-NDQxMjksLTI5NDc2ODE3Niw5NjQ0NDI2MTYsMTgzNzU2ODE0Ny
-w2NjI2NDUwMzcsMTM4ODgwOTM0OSwxMzQwMDM1NTE2LDIwMTc2
-MzM5MDRdfQ==
+eyJoaXN0b3J5IjpbMzU0NDQ4MTk5LDY1MTI5MzM5LDkxODQ4Nz
+YzNSwxMzM3ODY0NTY0LC0xNDg4NjU0Njk4LC0xNjk0MDE5NjEy
+LC0xMzc2MDA4NzQzLC02MDE5NDMzNjksMTgwODI2NTI4OSwtND
+Q4Nzc4NzI1LDYxODMwNTQxNywxNTQyOTQyNDg0LC0xMzUzODQ0
+MTI5LC0yOTQ3NjgxNzYsOTY0NDQyNjE2LDE4Mzc1NjgxNDcsNj
+YyNjQ1MDM3LDEzODg4MDkzNDksMTM0MDAzNTUxNiwyMDE3NjMz
+OTA0XX0=
 -->
