@@ -39,7 +39,8 @@ Search Keywords: Vision, Visual, Multimodal
 12. HealthGPT: A Medical Large Vision-Language Model for Unifying Comprehension and Generation via Heterogeneous Knowledge Adaptation  [[pdf]](https://openreview.net/forum?id=WbP2OwMULq)  
 (ZJU, Medical LVLM)  
 13. Catch Your Emotion: Sharpening Emotion Perception in Multimodal Large Language Models  [[pdf]](https://openreview.net/forum?id=IYOksPHJKT)  
-(Wuhan U, Emotional understanding, Test time scaling)
+(Wuhan U, Emotional understanding, Improving during inference)  
+14. 
 
 
 #### Other
@@ -191,7 +192,7 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk4ODEwNjE3LDY1MTI5MzM5LDkxODQ4Nz
+eyJoaXN0b3J5IjpbNzA2NDg5ODQ3LDY1MTI5MzM5LDkxODQ4Nz
 YzNSwxMzM3ODY0NTY0LC0xNDg4NjU0Njk4LC0xNjk0MDE5NjEy
 LC0xMzc2MDA4NzQzLC02MDE5NDMzNjksMTgwODI2NTI4OSwtND
 Q4Nzc4NzI1LDYxODMwNTQxNywxNTQyOTQyNDg0LC0xMzUzODQ0
