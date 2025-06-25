@@ -44,7 +44,7 @@ Search Keywords: Vision, Visual, Multimodal
 (UC Riverside, VLM safety, Image encoder, Layer-wise, LLaVA)
 15. When and How Does CLIP Enable Domain and Compositional Generalization?  [[pdf]](https://openreview.net/forum?id=Lktwi30g63)  
 (U of Freiburg, CLIP, Training, Generalization)  
-
+16. A Closer Look at Multimodal Representation Collapse](https://openreview.net/forum?id=Vf9f7eNX6T)
 
 #### Other
 1. Learning dynamics in linear recurrent neural networks  [[pdf]](https://openreview.net/forum?id=KGOcrIWYnx)  
@@ -200,11 +200,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzOTQxMzc0NSw2NTEyOTMzOSw5MTg0OD
-c2MzUsMTMzNzg2NDU2NCwtMTQ4ODY1NDY5OCwtMTY5NDAxOTYx
-MiwtMTM3NjAwODc0MywtNjAxOTQzMzY5LDE4MDgyNjUyODksLT
-Q0ODc3ODcyNSw2MTgzMDU0MTcsMTU0Mjk0MjQ4NCwtMTM1Mzg0
-NDEyOSwtMjk0NzY4MTc2LDk2NDQ0MjYxNiwxODM3NTY4MTQ3LD
-Y2MjY0NTAzNywxMzg4ODA5MzQ5LDEzNDAwMzU1MTYsMjAxNzYz
-MzkwNF19
+eyJoaXN0b3J5IjpbLTE3MDcxMjU4MzUsLTgzOTQxMzc0NSw2NT
+EyOTMzOSw5MTg0ODc2MzUsMTMzNzg2NDU2NCwtMTQ4ODY1NDY5
+OCwtMTY5NDAxOTYxMiwtMTM3NjAwODc0MywtNjAxOTQzMzY5LD
+E4MDgyNjUyODksLTQ0ODc3ODcyNSw2MTgzMDU0MTcsMTU0Mjk0
+MjQ4NCwtMTM1Mzg0NDEyOSwtMjk0NzY4MTc2LDk2NDQ0MjYxNi
+wxODM3NTY4MTQ3LDY2MjY0NTAzNywxMzg4ODA5MzQ5LDEzNDAw
+MzU1MTZdfQ==
 -->
