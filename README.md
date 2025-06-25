@@ -32,6 +32,8 @@ Search Keywords: Vision, Visual, Multimodal
 (Kuaishou, MLLM, Attention mechanism)  
 9. Data-Juicer Sandbox: A Feedback-Driven Suite for Multimodal Data-Model Co-development  [[pdf]](https://openreview.net/forum?id=zIGIvysR1H)  
 (Alibaba, Suite, MLLM, Data-model co-development) 
+10. Re-ranking Reasoning Context with Tree Search Makes Large Vision-Language Models Stronger  [[pdf]](https://openreview.net/forum?id=DJcEoC9JpQ)  
+(Alibaba, VLM, Multimodal RAG)  
 
 
 
@@ -184,11 +186,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNzg2NDU2NCwtMTQ4ODY1NDY5OCwtMT
-Y5NDAxOTYxMiwtMTM3NjAwODc0MywtNjAxOTQzMzY5LDE4MDgy
-NjUyODksLTQ0ODc3ODcyNSw2MTgzMDU0MTcsMTU0Mjk0MjQ4NC
-wtMTM1Mzg0NDEyOSwtMjk0NzY4MTc2LDk2NDQ0MjYxNiwxODM3
-NTY4MTQ3LDY2MjY0NTAzNywxMzg4ODA5MzQ5LDEzNDAwMzU1MT
-YsMjAxNzYzMzkwNCwzOTc3MDYwMDMsLTE2MjM3MjgyMjAsMTE0
-NDA2NjAwOV19
+eyJoaXN0b3J5IjpbOTE4NDg3NjM1LDEzMzc4NjQ1NjQsLTE0OD
+g2NTQ2OTgsLTE2OTQwMTk2MTIsLTEzNzYwMDg3NDMsLTYwMTk0
+MzM2OSwxODA4MjY1Mjg5LC00NDg3Nzg3MjUsNjE4MzA1NDE3LD
+E1NDI5NDI0ODQsLTEzNTM4NDQxMjksLTI5NDc2ODE3Niw5NjQ0
+NDI2MTYsMTgzNzU2ODE0Nyw2NjI2NDUwMzcsMTM4ODgwOTM0OS
+wxMzQwMDM1NTE2LDIwMTc2MzM5MDQsMzk3NzA2MDAzLC0xNjIz
+NzI4MjIwXX0=
 -->
