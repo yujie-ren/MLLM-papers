@@ -36,7 +36,9 @@ Search Keywords: Vision, Visual, Multimodal
 (Alibaba, VLM, Multimodal RAG)  
 11. Improving Zero-Shot Adversarial Robustness in Vision-Language Models by Closed-form Alignment of Adversarial Path Simplices  [[pdf]](https://openreview.net/forum?id=WR0ahlhOoy)  
 (NTU, CLIP, Robustness)  
-12. HealthGPT: A Medical Large Vision-Language Model for Unifying Comprehension and Generation via Heterogeneous Knowledge Adaptation  [[pdf]](https://openreview.net/forum?id=WbP2OwMULq)
+12. HealthGPT: A Medical Large Vision-Language Model for Unifying Comprehension and Generation via Heterogeneous Knowledge Adaptation  [[pdf]](https://openreview.net/forum?id=WbP2OwMULq)  
+(ZJU, Medical LVLM)  
+
 
 
 #### Other
@@ -188,11 +190,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMzQ3MzYxMCw5MTg0ODc2MzUsMTMzNz
-g2NDU2NCwtMTQ4ODY1NDY5OCwtMTY5NDAxOTYxMiwtMTM3NjAw
-ODc0MywtNjAxOTQzMzY5LDE4MDgyNjUyODksLTQ0ODc3ODcyNS
-w2MTgzMDU0MTcsMTU0Mjk0MjQ4NCwtMTM1Mzg0NDEyOSwtMjk0
-NzY4MTc2LDk2NDQ0MjYxNiwxODM3NTY4MTQ3LDY2MjY0NTAzNy
-wxMzg4ODA5MzQ5LDEzNDAwMzU1MTYsMjAxNzYzMzkwNCwzOTc3
-MDYwMDNdfQ==
+eyJoaXN0b3J5IjpbMzc3NDQyMjU0LDkxODQ4NzYzNSwxMzM3OD
+Y0NTY0LC0xNDg4NjU0Njk4LC0xNjk0MDE5NjEyLC0xMzc2MDA4
+NzQzLC02MDE5NDMzNjksMTgwODI2NTI4OSwtNDQ4Nzc4NzI1LD
+YxODMwNTQxNywxNTQyOTQyNDg0LC0xMzUzODQ0MTI5LC0yOTQ3
+NjgxNzYsOTY0NDQyNjE2LDE4Mzc1NjgxNDcsNjYyNjQ1MDM3LD
+EzODg4MDkzNDksMTM0MDAzNTUxNiwyMDE3NjMzOTA0LDM5Nzcw
+NjAwM119
 -->
