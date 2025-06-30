@@ -52,7 +52,8 @@ Search Keywords: Vision, Visual, Multimodal
 (CMU, New VLM architecture for 3D understanding)  
 19. OTTER: A Vision-Language-Action Model with Text-Aware Visual Feature Extraction  [[pdf]](https://openreview.net/forum?id=UHF0km7R5M)  
 (UCB, New VLA architecture)  
-20. Vision-Language Model Selection and Reuse for Downstream Adaptation](https://openreview.net/forum?id=bvrsrvo0Mt)
+20. Vision-Language Model Selection and Reuse for Downstream Adaptation  [[pdf]](https://openreview.net/forum?id=bvrsrvo0Mt)  
+()
 
 
 
@@ -213,11 +214,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg4NzE2ODQ0LDUxNzQ1Njg2MSwtNjU1Nz
-AzMzYwLC04NjE4OTkwMTcsODM3MzQyOTM0LC04Mzk0MTM3NDUs
-NjUxMjkzMzksOTE4NDg3NjM1LDEzMzc4NjQ1NjQsLTE0ODg2NT
-Q2OTgsLTE2OTQwMTk2MTIsLTEzNzYwMDg3NDMsLTYwMTk0MzM2
-OSwxODA4MjY1Mjg5LC00NDg3Nzg3MjUsNjE4MzA1NDE3LDE1ND
-I5NDI0ODQsLTEzNTM4NDQxMjksLTI5NDc2ODE3Niw5NjQ0NDI2
-MTZdfQ==
+eyJoaXN0b3J5IjpbMTU0NjI1ODMwOCw1MTc0NTY4NjEsLTY1NT
+cwMzM2MCwtODYxODk5MDE3LDgzNzM0MjkzNCwtODM5NDEzNzQ1
+LDY1MTI5MzM5LDkxODQ4NzYzNSwxMzM3ODY0NTY0LC0xNDg4Nj
+U0Njk4LC0xNjk0MDE5NjEyLC0xMzc2MDA4NzQzLC02MDE5NDMz
+NjksMTgwODI2NTI4OSwtNDQ4Nzc4NzI1LDYxODMwNTQxNywxNT
+QyOTQyNDg0LC0xMzUzODQ0MTI5LC0yOTQ3NjgxNzYsOTY0NDQy
+NjE2XX0=
 -->
