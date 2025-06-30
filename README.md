@@ -74,7 +74,9 @@ Search Keywords: Vision, Visual, Multimodal
 (Xidian U, Attack for VL-RAG in VLM)  
 30. Testing the Limits of Fine-Tuning for Improving Visual Cognition in Vision Language Models  [[pdf]](https://openreview.net/forum?id=jSxU7ZGe3B)  
 (Helmholtz Munich, Evaluation, Visual Cognition)  
-31. Unlocking the Capabilities of Large Vision-Language Models for Generalizable and Explainable Deepfake Detection](https://openreview.net/forum?id=vDB2oX3Wl3)
+31. Unlocking the Capabilities of Large Vision-Language Models for Generalizable and Explainable Deepfake Detection  [[pdf]](https://openreview.net/forum?id=vDB2oX3Wl3)  
+(Jinan U, VLM for deepfake detection)  
+32. 
 
 
 
@@ -235,11 +237,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM2NjQ0Mzk3LC0zOTMwMTY0MTIsLTExND
-YzNjMxNDYsNDc0NzQyOTEyLC0xOTQxMzE3MzUyLDEzOTM4NDQx
-MzcsMTc4MTIzNjk0MSwxNDA2ODAxNjg5LC0yMjI2NjU3OTIsMT
-M1MzAyNjUzMCw1MTc0NTY4NjEsLTY1NTcwMzM2MCwtODYxODk5
-MDE3LDgzNzM0MjkzNCwtODM5NDEzNzQ1LDY1MTI5MzM5LDkxOD
-Q4NzYzNSwxMzM3ODY0NTY0LC0xNDg4NjU0Njk4LC0xNjk0MDE5
-NjEyXX0=
+eyJoaXN0b3J5IjpbLTkxMDY3ODIxMSwtMzkzMDE2NDEyLC0xMT
+Q2MzYzMTQ2LDQ3NDc0MjkxMiwtMTk0MTMxNzM1MiwxMzkzODQ0
+MTM3LDE3ODEyMzY5NDEsMTQwNjgwMTY4OSwtMjIyNjY1NzkyLD
+EzNTMwMjY1MzAsNTE3NDU2ODYxLC02NTU3MDMzNjAsLTg2MTg5
+OTAxNyw4MzczNDI5MzQsLTgzOTQxMzc0NSw2NTEyOTMzOSw5MT
+g0ODc2MzUsMTMzNzg2NDU2NCwtMTQ4ODY1NDY5OCwtMTY5NDAx
+OTYxMl19
 -->
