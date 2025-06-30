@@ -47,6 +47,9 @@ Search Keywords: Vision, Visual, Multimodal
 16. A Closer Look at Multimodal Representation Collapse  [[pdf]](https://openreview.net/forum?id=Vf9f7eNX6T)  
 (Fujitsu Research, Modality collapse)
 
+
+
+
 从poster开始，可以检索vision language model，有很多文章。
 
 
@@ -204,11 +207,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MTg5OTAxNyw4MzczNDI5MzQsLTgzOT
-QxMzc0NSw2NTEyOTMzOSw5MTg0ODc2MzUsMTMzNzg2NDU2NCwt
-MTQ4ODY1NDY5OCwtMTY5NDAxOTYxMiwtMTM3NjAwODc0MywtNj
-AxOTQzMzY5LDE4MDgyNjUyODksLTQ0ODc3ODcyNSw2MTgzMDU0
-MTcsMTU0Mjk0MjQ4NCwtMTM1Mzg0NDEyOSwtMjk0NzY4MTc2LD
-k2NDQ0MjYxNiwxODM3NTY4MTQ3LDY2MjY0NTAzNywxMzg4ODA5
-MzQ5XX0=
+eyJoaXN0b3J5IjpbMTY5ODE4NjE3NywtODYxODk5MDE3LDgzNz
+M0MjkzNCwtODM5NDEzNzQ1LDY1MTI5MzM5LDkxODQ4NzYzNSwx
+MzM3ODY0NTY0LC0xNDg4NjU0Njk4LC0xNjk0MDE5NjEyLC0xMz
+c2MDA4NzQzLC02MDE5NDMzNjksMTgwODI2NTI4OSwtNDQ4Nzc4
+NzI1LDYxODMwNTQxNywxNTQyOTQyNDg0LC0xMzUzODQ0MTI5LC
+0yOTQ3NjgxNzYsOTY0NDQyNjE2LDE4Mzc1NjgxNDcsNjYyNjQ1
+MDM3XX0=
 -->
