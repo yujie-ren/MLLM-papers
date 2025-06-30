@@ -54,7 +54,8 @@ Search Keywords: Vision, Visual, Multimodal
 (UCB, New VLA architecture)  
 20. Vision-Language Model Selection and Reuse for Downstream Adaptation  [[pdf]](https://openreview.net/forum?id=bvrsrvo0Mt)  
 (NJU, Selecting a VLM for a specific task)  
-
+21. Vision-Language Models Create Cross-Modal Task Representations  [[pdf]](https://openreview.net/forum?id=77ziPGdQct)  
+(UCB, )
 
 
 
@@ -215,11 +216,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMjY2NTc5MiwxMzUzMDI2NTMwLDUxNz
-Q1Njg2MSwtNjU1NzAzMzYwLC04NjE4OTkwMTcsODM3MzQyOTM0
-LC04Mzk0MTM3NDUsNjUxMjkzMzksOTE4NDg3NjM1LDEzMzc4Nj
-Q1NjQsLTE0ODg2NTQ2OTgsLTE2OTQwMTk2MTIsLTEzNzYwMDg3
-NDMsLTYwMTk0MzM2OSwxODA4MjY1Mjg5LC00NDg3Nzg3MjUsNj
-E4MzA1NDE3LDE1NDI5NDI0ODQsLTEzNTM4NDQxMjksLTI5NDc2
-ODE3Nl19
+eyJoaXN0b3J5IjpbMTUwOTAyNTM2NiwtMjIyNjY1NzkyLDEzNT
+MwMjY1MzAsNTE3NDU2ODYxLC02NTU3MDMzNjAsLTg2MTg5OTAx
+Nyw4MzczNDI5MzQsLTgzOTQxMzc0NSw2NTEyOTMzOSw5MTg0OD
+c2MzUsMTMzNzg2NDU2NCwtMTQ4ODY1NDY5OCwtMTY5NDAxOTYx
+MiwtMTM3NjAwODc0MywtNjAxOTQzMzY5LDE4MDgyNjUyODksLT
+Q0ODc3ODcyNSw2MTgzMDU0MTcsMTU0Mjk0MjQ4NCwtMTM1Mzg0
+NDEyOV19
 -->
