@@ -56,7 +56,8 @@ Search Keywords: Vision, Visual, Multimodal
 (NJU, Selecting a VLM for a specific task)  
 21. Vision-Language Models Create Cross-Modal Task Representations  [[pdf]](https://openreview.net/forum?id=77ziPGdQct)  
 (⭐️UCB, VLM interpretability)  
-22. 
+22. Vision-Language Models Create Cross-Modal Task Representations  [[pdf]](https://openreview.net/forum?id=77ziPGdQct)  
+()
 
 
 
@@ -217,11 +218,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNjgwMTY4OSwtMjIyNjY1NzkyLDEzNT
-MwMjY1MzAsNTE3NDU2ODYxLC02NTU3MDMzNjAsLTg2MTg5OTAx
-Nyw4MzczNDI5MzQsLTgzOTQxMzc0NSw2NTEyOTMzOSw5MTg0OD
-c2MzUsMTMzNzg2NDU2NCwtMTQ4ODY1NDY5OCwtMTY5NDAxOTYx
-MiwtMTM3NjAwODc0MywtNjAxOTQzMzY5LDE4MDgyNjUyODksLT
-Q0ODc3ODcyNSw2MTgzMDU0MTcsMTU0Mjk0MjQ4NCwtMTM1Mzg0
-NDEyOV19
+eyJoaXN0b3J5IjpbLTE0NjI2MzU5MDIsMTQwNjgwMTY4OSwtMj
+IyNjY1NzkyLDEzNTMwMjY1MzAsNTE3NDU2ODYxLC02NTU3MDMz
+NjAsLTg2MTg5OTAxNyw4MzczNDI5MzQsLTgzOTQxMzc0NSw2NT
+EyOTMzOSw5MTg0ODc2MzUsMTMzNzg2NDU2NCwtMTQ4ODY1NDY5
+OCwtMTY5NDAxOTYxMiwtMTM3NjAwODc0MywtNjAxOTQzMzY5LD
+E4MDgyNjUyODksLTQ0ODc3ODcyNSw2MTgzMDU0MTcsMTU0Mjk0
+MjQ4NF19
 -->
