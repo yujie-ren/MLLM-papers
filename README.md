@@ -69,7 +69,8 @@ Search Keywords: Vision, Visual, Multimodal
 27. Time-VLM: Exploring Multimodal Vision-Language Models for Augmented Time Series Forecasting  [[pdf]](https://openreview.net/forum?id=b5h60xQnzM)  
 (HKUST-GZ, VLM for time series forecasting)  
 28. 3D Question Answering via only 2D Vision-Language Models  [[pdf]](https://openreview.net/forum?id=IkhJApkJQ3)  
-()
+(NTU, VLM for 3D question answering)  
+
 
 
 
@@ -230,11 +231,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDYzNjMxNDYsNDc0NzQyOTEyLC0xOT
-QxMzE3MzUyLDEzOTM4NDQxMzcsMTc4MTIzNjk0MSwxNDA2ODAx
-Njg5LC0yMjI2NjU3OTIsMTM1MzAyNjUzMCw1MTc0NTY4NjEsLT
-Y1NTcwMzM2MCwtODYxODk5MDE3LDgzNzM0MjkzNCwtODM5NDEz
-NzQ1LDY1MTI5MzM5LDkxODQ4NzYzNSwxMzM3ODY0NTY0LC0xND
-g4NjU0Njk4LC0xNjk0MDE5NjEyLC0xMzc2MDA4NzQzLC02MDE5
-NDMzNjldfQ==
+eyJoaXN0b3J5IjpbMTA5ODk1OTgzNCwtMTE0NjM2MzE0Niw0Nz
+Q3NDI5MTIsLTE5NDEzMTczNTIsMTM5Mzg0NDEzNywxNzgxMjM2
+OTQxLDE0MDY4MDE2ODksLTIyMjY2NTc5MiwxMzUzMDI2NTMwLD
+UxNzQ1Njg2MSwtNjU1NzAzMzYwLC04NjE4OTkwMTcsODM3MzQy
+OTM0LC04Mzk0MTM3NDUsNjUxMjkzMzksOTE4NDg3NjM1LDEzMz
+c4NjQ1NjQsLTE0ODg2NTQ2OTgsLTE2OTQwMTk2MTIsLTEzNzYw
+MDg3NDNdfQ==
 -->
