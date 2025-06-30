@@ -48,7 +48,8 @@ Search Keywords: Vision, Visual, Multimodal
 (Fujitsu Research, Modality collapse)
 17. DS-VLM: Diffusion Supervision Vision Language Model  [[pdf]](https://openreview.net/forum?id=NEBa0bs5LR)  
 (Xiamen U, VLM architecture, Combine diffusion & VLM)  
-
+18. Unifying 2D and 3D Vision-Language Understanding  [[pdf]](https://openreview.net/forum?id=FcTeo26AfZ)  
+()
 
 
 
@@ -209,11 +210,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NTcwMzM2MCwtODYxODk5MDE3LDgzNz
-M0MjkzNCwtODM5NDEzNzQ1LDY1MTI5MzM5LDkxODQ4NzYzNSwx
-MzM3ODY0NTY0LC0xNDg4NjU0Njk4LC0xNjk0MDE5NjEyLC0xMz
-c2MDA4NzQzLC02MDE5NDMzNjksMTgwODI2NTI4OSwtNDQ4Nzc4
-NzI1LDYxODMwNTQxNywxNTQyOTQyNDg0LC0xMzUzODQ0MTI5LC
-0yOTQ3NjgxNzYsOTY0NDQyNjE2LDE4Mzc1NjgxNDcsNjYyNjQ1
-MDM3XX0=
+eyJoaXN0b3J5IjpbLTE2MzQzMzEzMTYsLTY1NTcwMzM2MCwtOD
+YxODk5MDE3LDgzNzM0MjkzNCwtODM5NDEzNzQ1LDY1MTI5MzM5
+LDkxODQ4NzYzNSwxMzM3ODY0NTY0LC0xNDg4NjU0Njk4LC0xNj
+k0MDE5NjEyLC0xMzc2MDA4NzQzLC02MDE5NDMzNjksMTgwODI2
+NTI4OSwtNDQ4Nzc4NzI1LDYxODMwNTQxNywxNTQyOTQyNDg0LC
+0xMzUzODQ0MTI5LC0yOTQ3NjgxNzYsOTY0NDQyNjE2LDE4Mzc1
+NjgxNDddfQ==
 -->
