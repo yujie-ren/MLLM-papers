@@ -61,7 +61,8 @@ Search Keywords: Vision, Visual, Multimodal
 23. ERICT: Enhancing Robustness by Identifying Concept Tokens in Zero-Shot Vision Language Models  [[pdf]](https://openreview.net/forum?id=ZDsbK7Xx4n)  
 (ZJU, spurious correlation in VLM)
 24. Do Vision-Language Models Really Understand Visual Language?  [[pdf]](https://openreview.net/forum?id=ZPQU4uGMBA)  
-(ETH, )
+(ETH, Evaluate VLMs' ability of diagrams understanding and reasoning)  
+25. 
 
 
 从poster开始，可以检索vision language model，有很多文章。
@@ -221,11 +222,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNzMwNjMyMSwxMzkzODQ0MTM3LDE3OD
-EyMzY5NDEsMTQwNjgwMTY4OSwtMjIyNjY1NzkyLDEzNTMwMjY1
-MzAsNTE3NDU2ODYxLC02NTU3MDMzNjAsLTg2MTg5OTAxNyw4Mz
-czNDI5MzQsLTgzOTQxMzc0NSw2NTEyOTMzOSw5MTg0ODc2MzUs
-MTMzNzg2NDU2NCwtMTQ4ODY1NDY5OCwtMTY5NDAxOTYxMiwtMT
-M3NjAwODc0MywtNjAxOTQzMzY5LDE4MDgyNjUyODksLTQ0ODc3
-ODcyNV19
+eyJoaXN0b3J5IjpbLTE5NDEzMTczNTIsMTM5Mzg0NDEzNywxNz
+gxMjM2OTQxLDE0MDY4MDE2ODksLTIyMjY2NTc5MiwxMzUzMDI2
+NTMwLDUxNzQ1Njg2MSwtNjU1NzAzMzYwLC04NjE4OTkwMTcsOD
+M3MzQyOTM0LC04Mzk0MTM3NDUsNjUxMjkzMzksOTE4NDg3NjM1
+LDEzMzc4NjQ1NjQsLTE0ODg2NTQ2OTgsLTE2OTQwMTk2MTIsLT
+EzNzYwMDg3NDMsLTYwMTk0MzM2OSwxODA4MjY1Mjg5LC00NDg3
+Nzg3MjVdfQ==
 -->
