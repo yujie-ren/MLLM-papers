@@ -80,7 +80,9 @@ Search Keywords: Vision, Visual, Multimodal
 (Australian National U, Predicting performance of VLM)  
 33. TRUST-VLM: Thorough Red-Teaming for Uncovering Safety Threats in Vision-Language Models  [[pdf]](https://openreview.net/forum?id=dc9vh0NlBR)  
 (NTU, Attack method for VLM)  
-34. 
+34. Defending LVLMs Against Vision Attacks Through Partial-Perception Supervision  [[pdf]](https://openreview.net/forum?id=C4F42Ho7IM)  
+(ZJU, Defence for VLM)  
+
 
 
 
@@ -241,11 +243,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODc0NTI1NDQsLTE3NjEwNTExMTEsLT
-kxMDY3ODIxMSwtMzkzMDE2NDEyLC0xMTQ2MzYzMTQ2LDQ3NDc0
-MjkxMiwtMTk0MTMxNzM1MiwxMzkzODQ0MTM3LDE3ODEyMzY5ND
-EsMTQwNjgwMTY4OSwtMjIyNjY1NzkyLDEzNTMwMjY1MzAsNTE3
-NDU2ODYxLC02NTU3MDMzNjAsLTg2MTg5OTAxNyw4MzczNDI5Mz
-QsLTgzOTQxMzc0NSw2NTEyOTMzOSw5MTg0ODc2MzUsMTMzNzg2
-NDU2NF19
+eyJoaXN0b3J5IjpbMTgyOTY5MDg4NiwtMTY4NzQ1MjU0NCwtMT
+c2MTA1MTExMSwtOTEwNjc4MjExLC0zOTMwMTY0MTIsLTExNDYz
+NjMxNDYsNDc0NzQyOTEyLC0xOTQxMzE3MzUyLDEzOTM4NDQxMz
+csMTc4MTIzNjk0MSwxNDA2ODAxNjg5LC0yMjI2NjU3OTIsMTM1
+MzAyNjUzMCw1MTc0NTY4NjEsLTY1NTcwMzM2MCwtODYxODk5MD
+E3LDgzNzM0MjkzNCwtODM5NDEzNzQ1LDY1MTI5MzM5LDkxODQ4
+NzYzNV19
 -->
