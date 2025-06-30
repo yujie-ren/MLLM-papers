@@ -47,7 +47,8 @@ Search Keywords: Vision, Visual, Multimodal
 16. A Closer Look at Multimodal Representation Collapse  [[pdf]](https://openreview.net/forum?id=Vf9f7eNX6T)  
 (Fujitsu Research, Modality collapse)
 17. DS-VLM: Diffusion Supervision Vision Language Model  [[pdf]](https://openreview.net/forum?id=NEBa0bs5LR)  
-(Xiamen U, )
+(Xiamen U, VLM structure, Combine diffusion & VLM)  
+
 
 
 
@@ -208,7 +209,7 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY1NTIzNzY5LC04NjE4OTkwMTcsODM3Mz
+eyJoaXN0b3J5IjpbMjI5OTIzMjc0LC04NjE4OTkwMTcsODM3Mz
 QyOTM0LC04Mzk0MTM3NDUsNjUxMjkzMzksOTE4NDg3NjM1LDEz
 Mzc4NjQ1NjQsLTE0ODg2NTQ2OTgsLTE2OTQwMTk2MTIsLTEzNz
 YwMDg3NDMsLTYwMTk0MzM2OSwxODA4MjY1Mjg5LC00NDg3Nzg3
