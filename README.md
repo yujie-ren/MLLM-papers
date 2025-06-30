@@ -58,7 +58,8 @@ Search Keywords: Vision, Visual, Multimodal
 (⭐️UCB, VLM interpretability)  
 22. Vision-Language Models Create Cross-Modal Task Representations  [[pdf]](https://openreview.net/forum?id=77ziPGdQct)  
 (PKU, Visual token reduction for VLM)  
-23. 
+23. ERICT: Enhancing Robustness by Identifying Concept Tokens in Zero-Shot Vision Language Models  [[pdf]](https://openreview.net/forum?id=ZDsbK7Xx4n)  
+(ZJU, spurious correlation in VLM)
 
 
 
@@ -219,11 +220,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MTIzNjk0MSwxNDA2ODAxNjg5LC0yMj
-I2NjU3OTIsMTM1MzAyNjUzMCw1MTc0NTY4NjEsLTY1NTcwMzM2
-MCwtODYxODk5MDE3LDgzNzM0MjkzNCwtODM5NDEzNzQ1LDY1MT
-I5MzM5LDkxODQ4NzYzNSwxMzM3ODY0NTY0LC0xNDg4NjU0Njk4
-LC0xNjk0MDE5NjEyLC0xMzc2MDA4NzQzLC02MDE5NDMzNjksMT
-gwODI2NTI4OSwtNDQ4Nzc4NzI1LDYxODMwNTQxNywxNTQyOTQy
-NDg0XX0=
+eyJoaXN0b3J5IjpbMTM5Mzg0NDEzNywxNzgxMjM2OTQxLDE0MD
+Y4MDE2ODksLTIyMjY2NTc5MiwxMzUzMDI2NTMwLDUxNzQ1Njg2
+MSwtNjU1NzAzMzYwLC04NjE4OTkwMTcsODM3MzQyOTM0LC04Mz
+k0MTM3NDUsNjUxMjkzMzksOTE4NDg3NjM1LDEzMzc4NjQ1NjQs
+LTE0ODg2NTQ2OTgsLTE2OTQwMTk2MTIsLTEzNzYwMDg3NDMsLT
+YwMTk0MzM2OSwxODA4MjY1Mjg5LC00NDg3Nzg3MjUsNjE4MzA1
+NDE3XX0=
 -->
