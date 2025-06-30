@@ -70,7 +70,9 @@ Search Keywords: Vision, Visual, Multimodal
 (HKUST-GZ, VLM for time series forecasting)  
 28. 3D Question Answering via only 2D Vision-Language Models  [[pdf]](https://openreview.net/forum?id=IkhJApkJQ3)  
 (NTU, VLM for 3D question answering)  
-29PoisonedEye: Knowledge Poisoning Attack on Retrieval-Augmented Generation based Large Vision-Language Models](https://openreview.net/forum?id=6SIymOqJlc)
+29. PoisonedEye: Knowledge Poisoning Attack on Retrieval-Augmented Generation based Large Vision-Language Models  [[pdf]](https://openreview.net/forum?id=6SIymOqJlc)  
+(Xidian U, Attack for VL-RAG in VLM)  
+30. 
 
 
 
@@ -231,7 +233,7 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDU5MTQxMDAsLTExNDYzNjMxNDYsND
+eyJoaXN0b3J5IjpbLTIwMDA1NDMzNzksLTExNDYzNjMxNDYsND
 c0NzQyOTEyLC0xOTQxMzE3MzUyLDEzOTM4NDQxMzcsMTc4MTIz
 Njk0MSwxNDA2ODAxNjg5LC0yMjI2NjU3OTIsMTM1MzAyNjUzMC
 w1MTc0NTY4NjEsLTY1NTcwMzM2MCwtODYxODk5MDE3LDgzNzM0
