@@ -67,7 +67,8 @@ Search Keywords: Vision, Visual, Multimodal
 26. Bring Reason to Vision: Understanding Perception and Reasoning through Model Merging  [[pdf]](https://openreview.net/forum?id=ntCAP6tMoX)  
 (⭐️⭐️CityU, Model merging for VLM, 可以参考这篇文章的结构)  
 27. Time-VLM: Exploring Multimodal Vision-Language Models for Augmented Time Series Forecasting  [[pdf]](https://openreview.net/forum?id=b5h60xQnzM)  
-(HKUST-GZ, )
+(HKUST-GZ, VLM for time series forecasting)  
+28. 
 
 
 
@@ -228,11 +229,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDI5MDk3ODQsNDc0NzQyOTEyLC0xOT
-QxMzE3MzUyLDEzOTM4NDQxMzcsMTc4MTIzNjk0MSwxNDA2ODAx
-Njg5LC0yMjI2NjU3OTIsMTM1MzAyNjUzMCw1MTc0NTY4NjEsLT
-Y1NTcwMzM2MCwtODYxODk5MDE3LDgzNzM0MjkzNCwtODM5NDEz
-NzQ1LDY1MTI5MzM5LDkxODQ4NzYzNSwxMzM3ODY0NTY0LC0xND
-g4NjU0Njk4LC0xNjk0MDE5NjEyLC0xMzc2MDA4NzQzLC02MDE5
-NDMzNjldfQ==
+eyJoaXN0b3J5IjpbMTYxNzQ1OTk5Myw0NzQ3NDI5MTIsLTE5ND
+EzMTczNTIsMTM5Mzg0NDEzNywxNzgxMjM2OTQxLDE0MDY4MDE2
+ODksLTIyMjY2NTc5MiwxMzUzMDI2NTMwLDUxNzQ1Njg2MSwtNj
+U1NzAzMzYwLC04NjE4OTkwMTcsODM3MzQyOTM0LC04Mzk0MTM3
+NDUsNjUxMjkzMzksOTE4NDg3NjM1LDEzMzc4NjQ1NjQsLTE0OD
+g2NTQ2OTgsLTE2OTQwMTk2MTIsLTEzNzYwMDg3NDMsLTYwMTk0
+MzM2OV19
 -->
