@@ -85,10 +85,6 @@ Search Keywords: Vision, Visual, Multimodal
 
 
 
-
-从poster开始，可以检索vision language model，有很多文章。
-
-
 #### Other
 1. Learning dynamics in linear recurrent neural networks  [[pdf]](https://openreview.net/forum?id=KGOcrIWYnx)  
 (⭐️ICL, Learning dynamics of RNN, idea for next project)
@@ -243,11 +239,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyOTY5MDg4NiwtMTY4NzQ1MjU0NCwtMT
-c2MTA1MTExMSwtOTEwNjc4MjExLC0zOTMwMTY0MTIsLTExNDYz
-NjMxNDYsNDc0NzQyOTEyLC0xOTQxMzE3MzUyLDEzOTM4NDQxMz
-csMTc4MTIzNjk0MSwxNDA2ODAxNjg5LC0yMjI2NjU3OTIsMTM1
-MzAyNjUzMCw1MTc0NTY4NjEsLTY1NTcwMzM2MCwtODYxODk5MD
-E3LDgzNzM0MjkzNCwtODM5NDEzNzQ1LDY1MTI5MzM5LDkxODQ4
-NzYzNV19
+eyJoaXN0b3J5IjpbMTI2NzE5MDI4NSwxODI5NjkwODg2LC0xNj
+g3NDUyNTQ0LC0xNzYxMDUxMTExLC05MTA2NzgyMTEsLTM5MzAx
+NjQxMiwtMTE0NjM2MzE0Niw0NzQ3NDI5MTIsLTE5NDEzMTczNT
+IsMTM5Mzg0NDEzNywxNzgxMjM2OTQxLDE0MDY4MDE2ODksLTIy
+MjY2NTc5MiwxMzUzMDI2NTMwLDUxNzQ1Njg2MSwtNjU1NzAzMz
+YwLC04NjE4OTkwMTcsODM3MzQyOTM0LC04Mzk0MTM3NDUsNjUx
+MjkzMzldfQ==
 -->
