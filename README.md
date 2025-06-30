@@ -64,7 +64,9 @@ Search Keywords: Vision, Visual, Multimodal
 (ETH, Evaluate VLMs' ability of diagrams understanding and reasoning)  
 25. OmniBal: Towards Fast Instruction-Tuning for Vision-Language Models via Omniverse Computation Balance  [[pdf]](https://openreview.net/forum?id=q6f9Fg9LHe)  
 (SJTU, New training method for VLM)  
-26. 
+26. Bring Reason to Vision: Understanding Perception and Reasoning through Model Merging  [[pdf]](https://openreview.net/forum?id=ntCAP6tMoX)  
+()
+
 
 
 从poster开始，可以检索vision language model，有很多文章。
@@ -224,7 +226,7 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY2NzI3OTc4LC0xOTQxMzE3MzUyLDEzOT
+eyJoaXN0b3J5IjpbODU2NTY0MzY1LC0xOTQxMzE3MzUyLDEzOT
 M4NDQxMzcsMTc4MTIzNjk0MSwxNDA2ODAxNjg5LC0yMjI2NjU3
 OTIsMTM1MzAyNjUzMCw1MTc0NTY4NjEsLTY1NTcwMzM2MCwtOD
 YxODk5MDE3LDgzNzM0MjkzNCwtODM5NDEzNzQ1LDY1MTI5MzM5
