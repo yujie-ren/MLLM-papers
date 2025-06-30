@@ -55,7 +55,8 @@ Search Keywords: Vision, Visual, Multimodal
 20. Vision-Language Model Selection and Reuse for Downstream Adaptation  [[pdf]](https://openreview.net/forum?id=bvrsrvo0Mt)  
 (NJU, Selecting a VLM for a specific task)  
 21. Vision-Language Models Create Cross-Modal Task Representations  [[pdf]](https://openreview.net/forum?id=77ziPGdQct)  
-(UCB, )
+(⭐️UCB, VLM interpretability)  
+22. 
 
 
 
@@ -216,7 +217,7 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwOTAyNTM2NiwtMjIyNjY1NzkyLDEzNT
+eyJoaXN0b3J5IjpbMTQwNjgwMTY4OSwtMjIyNjY1NzkyLDEzNT
 MwMjY1MzAsNTE3NDU2ODYxLC02NTU3MDMzNjAsLTg2MTg5OTAx
 Nyw4MzczNDI5MzQsLTgzOTQxMzc0NSw2NTEyOTMzOSw5MTg0OD
 c2MzUsMTMzNzg2NDU2NCwtMTQ4ODY1NDY5OCwtMTY5NDAxOTYx
