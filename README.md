@@ -62,7 +62,8 @@ Search Keywords: Vision, Visual, Multimodal
 (ZJU, spurious correlation in VLM)
 24. Do Vision-Language Models Really Understand Visual Language?  [[pdf]](https://openreview.net/forum?id=ZPQU4uGMBA)  
 (ETH, Evaluate VLMs' ability of diagrams understanding and reasoning)  
-25. 
+25. OmniBal: Towards Fast Instruction-Tuning for Vision-Language Models via Omniverse Computation Balance  [[pdf]](https://openreview.net/forum?id=q6f9Fg9LHe)  
+(New tr)
 
 
 从poster开始，可以检索vision language model，有很多文章。
@@ -222,11 +223,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDEzMTczNTIsMTM5Mzg0NDEzNywxNz
-gxMjM2OTQxLDE0MDY4MDE2ODksLTIyMjY2NTc5MiwxMzUzMDI2
-NTMwLDUxNzQ1Njg2MSwtNjU1NzAzMzYwLC04NjE4OTkwMTcsOD
-M3MzQyOTM0LC04Mzk0MTM3NDUsNjUxMjkzMzksOTE4NDg3NjM1
-LDEzMzc4NjQ1NjQsLTE0ODg2NTQ2OTgsLTE2OTQwMTk2MTIsLT
-EzNzYwMDg3NDMsLTYwMTk0MzM2OSwxODA4MjY1Mjg5LC00NDg3
-Nzg3MjVdfQ==
+eyJoaXN0b3J5IjpbLTE1MzQ1NDY5NzEsLTE5NDEzMTczNTIsMT
+M5Mzg0NDEzNywxNzgxMjM2OTQxLDE0MDY4MDE2ODksLTIyMjY2
+NTc5MiwxMzUzMDI2NTMwLDUxNzQ1Njg2MSwtNjU1NzAzMzYwLC
+04NjE4OTkwMTcsODM3MzQyOTM0LC04Mzk0MTM3NDUsNjUxMjkz
+MzksOTE4NDg3NjM1LDEzMzc4NjQ1NjQsLTE0ODg2NTQ2OTgsLT
+E2OTQwMTk2MTIsLTEzNzYwMDg3NDMsLTYwMTk0MzM2OSwxODA4
+MjY1Mjg5XX0=
 -->
