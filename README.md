@@ -50,7 +50,9 @@ Search Keywords: Vision, Visual, Multimodal
 (Xiamen U, VLM architecture, Combine diffusion & VLM)  
 18. Unifying 2D and 3D Vision-Language Understanding  [[pdf]](https://openreview.net/forum?id=FcTeo26AfZ)  
 (CMU, New VLM architecture for 3D understanding)  
-19. #### [OTTER: A Vision-Language-Action Model with Text-Aware Visual Feature Extraction](https://openreview.net/forum?id=UHF0km7R5M)
+19. OTTER: A Vision-Language-Action Model with Text-Aware Visual Feature Extraction  [[pdf]](https://openreview.net/forum?id=UHF0km7R5M)  
+(UCB, New VLA architecture)  
+20. 
 
 
 
@@ -211,11 +213,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MzMwNzAwMCwtNjU1NzAzMzYwLC04Nj
-E4OTkwMTcsODM3MzQyOTM0LC04Mzk0MTM3NDUsNjUxMjkzMzks
-OTE4NDg3NjM1LDEzMzc4NjQ1NjQsLTE0ODg2NTQ2OTgsLTE2OT
-QwMTk2MTIsLTEzNzYwMDg3NDMsLTYwMTk0MzM2OSwxODA4MjY1
-Mjg5LC00NDg3Nzg3MjUsNjE4MzA1NDE3LDE1NDI5NDI0ODQsLT
-EzNTM4NDQxMjksLTI5NDc2ODE3Niw5NjQ0NDI2MTYsMTgzNzU2
-ODE0N119
+eyJoaXN0b3J5IjpbNTE3NDU2ODYxLC02NTU3MDMzNjAsLTg2MT
+g5OTAxNyw4MzczNDI5MzQsLTgzOTQxMzc0NSw2NTEyOTMzOSw5
+MTg0ODc2MzUsMTMzNzg2NDU2NCwtMTQ4ODY1NDY5OCwtMTY5ND
+AxOTYxMiwtMTM3NjAwODc0MywtNjAxOTQzMzY5LDE4MDgyNjUy
+ODksLTQ0ODc3ODcyNSw2MTgzMDU0MTcsMTU0Mjk0MjQ4NCwtMT
+M1Mzg0NDEyOSwtMjk0NzY4MTc2LDk2NDQ0MjYxNiwxODM3NTY4
+MTQ3XX0=
 -->
