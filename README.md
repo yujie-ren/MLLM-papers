@@ -63,7 +63,8 @@ Search Keywords: Vision, Visual, Multimodal
 24. Do Vision-Language Models Really Understand Visual Language?  [[pdf]](https://openreview.net/forum?id=ZPQU4uGMBA)  
 (ETH, Evaluate VLMs' ability of diagrams understanding and reasoning)  
 25. OmniBal: Towards Fast Instruction-Tuning for Vision-Language Models via Omniverse Computation Balance  [[pdf]](https://openreview.net/forum?id=q6f9Fg9LHe)  
-(New tr)
+(SJTU, New training method for VLM)  
+26. 
 
 
 从poster开始，可以检索vision language model，有很多文章。
@@ -223,11 +224,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzQ1NDY5NzEsLTE5NDEzMTczNTIsMT
-M5Mzg0NDEzNywxNzgxMjM2OTQxLDE0MDY4MDE2ODksLTIyMjY2
-NTc5MiwxMzUzMDI2NTMwLDUxNzQ1Njg2MSwtNjU1NzAzMzYwLC
-04NjE4OTkwMTcsODM3MzQyOTM0LC04Mzk0MTM3NDUsNjUxMjkz
-MzksOTE4NDg3NjM1LDEzMzc4NjQ1NjQsLTE0ODg2NTQ2OTgsLT
-E2OTQwMTk2MTIsLTEzNzYwMDg3NDMsLTYwMTk0MzM2OSwxODA4
-MjY1Mjg5XX0=
+eyJoaXN0b3J5IjpbOTY2NzI3OTc4LC0xOTQxMzE3MzUyLDEzOT
+M4NDQxMzcsMTc4MTIzNjk0MSwxNDA2ODAxNjg5LC0yMjI2NjU3
+OTIsMTM1MzAyNjUzMCw1MTc0NTY4NjEsLTY1NTcwMzM2MCwtOD
+YxODk5MDE3LDgzNzM0MjkzNCwtODM5NDEzNzQ1LDY1MTI5MzM5
+LDkxODQ4NzYzNSwxMzM3ODY0NTY0LC0xNDg4NjU0Njk4LC0xNj
+k0MDE5NjEyLC0xMzc2MDA4NzQzLC02MDE5NDMzNjksMTgwODI2
+NTI4OV19
 -->
