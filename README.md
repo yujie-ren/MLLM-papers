@@ -46,7 +46,8 @@ Search Keywords: Vision, Visual, Multimodal
 (U of Freiburg, CLIP, Training, Generalization)  
 16. A Closer Look at Multimodal Representation Collapse  [[pdf]](https://openreview.net/forum?id=Vf9f7eNX6T)  
 (Fujitsu Research, Modality collapse)
-
+17. DS-VLM: Diffusion Supervision Vision Language Model  [[pdf]](https://openreview.net/forum?id=NEBa0bs5LR)  
+()
 
 
 
@@ -207,7 +208,7 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5ODE4NjE3NywtODYxODk5MDE3LDgzNz
+eyJoaXN0b3J5IjpbMTA0NTkyNDcxNCwtODYxODk5MDE3LDgzNz
 M0MjkzNCwtODM5NDEzNzQ1LDY1MTI5MzM5LDkxODQ4NzYzNSwx
 MzM3ODY0NTY0LC0xNDg4NjU0Njk4LC0xNjk0MDE5NjEyLC0xMz
 c2MDA4NzQzLC02MDE5NDMzNjksMTgwODI2NTI4OSwtNDQ4Nzc4
