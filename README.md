@@ -77,7 +77,8 @@ Search Keywords: Vision, Visual, Multimodal
 31. Unlocking the Capabilities of Large Vision-Language Models for Generalizable and Explainable Deepfake Detection  [[pdf]](https://openreview.net/forum?id=vDB2oX3Wl3)  
 (Jinan U, VLM for deepfake detection)  
 32. Can We Predict Performance of Large Models across Vision-Language Tasks?  [[pdf]](https://openreview.net/forum?id=A9XePhy4Z3)  
-(Austrian)
+(Australian National U, Predicting performance of VLM)  
+
 
 
 
@@ -238,7 +239,7 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDUxMDk1MDgsLTkxMDY3ODIxMSwtMz
+eyJoaXN0b3J5IjpbLTE3NjEwNTExMTEsLTkxMDY3ODIxMSwtMz
 kzMDE2NDEyLC0xMTQ2MzYzMTQ2LDQ3NDc0MjkxMiwtMTk0MTMx
 NzM1MiwxMzkzODQ0MTM3LDE3ODEyMzY5NDEsMTQwNjgwMTY4OS
 wtMjIyNjY1NzkyLDEzNTMwMjY1MzAsNTE3NDU2ODYxLC02NTU3
