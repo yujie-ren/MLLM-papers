@@ -79,7 +79,8 @@ Search Keywords: Vision, Visual, Multimodal
 32. Can We Predict Performance of Large Models across Vision-Language Tasks?  [[pdf]](https://openreview.net/forum?id=A9XePhy4Z3)  
 (Australian National U, Predicting performance of VLM)  
 33. TRUST-VLM: Thorough Red-Teaming for Uncovering Safety Threats in Vision-Language Models  [[pdf]](https://openreview.net/forum?id=dc9vh0NlBR)  
-(NTU, A)
+(NTU, Attack method for VLM)  
+34. 
 
 
 
@@ -240,11 +241,11 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMTEyNDYxLC0xNzYxMDUxMTExLC05MT
-A2NzgyMTEsLTM5MzAxNjQxMiwtMTE0NjM2MzE0Niw0NzQ3NDI5
-MTIsLTE5NDEzMTczNTIsMTM5Mzg0NDEzNywxNzgxMjM2OTQxLD
-E0MDY4MDE2ODksLTIyMjY2NTc5MiwxMzUzMDI2NTMwLDUxNzQ1
-Njg2MSwtNjU1NzAzMzYwLC04NjE4OTkwMTcsODM3MzQyOTM0LC
-04Mzk0MTM3NDUsNjUxMjkzMzksOTE4NDg3NjM1LDEzMzc4NjQ1
-NjRdfQ==
+eyJoaXN0b3J5IjpbLTE2ODc0NTI1NDQsLTE3NjEwNTExMTEsLT
+kxMDY3ODIxMSwtMzkzMDE2NDEyLC0xMTQ2MzYzMTQ2LDQ3NDc0
+MjkxMiwtMTk0MTMxNzM1MiwxMzkzODQ0MTM3LDE3ODEyMzY5ND
+EsMTQwNjgwMTY4OSwtMjIyNjY1NzkyLDEzNTMwMjY1MzAsNTE3
+NDU2ODYxLC02NTU3MDMzNjAsLTg2MTg5OTAxNyw4MzczNDI5Mz
+QsLTgzOTQxMzc0NSw2NTEyOTMzOSw5MTg0ODc2MzUsMTMzNzg2
+NDU2NF19
 -->
