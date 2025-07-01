@@ -238,12 +238,14 @@ Search Keywords: Vision, Visual, Multimodal
 ## NAACL-202504
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
+1. Uncovering Bias in Large Vision-Language Models at Scale with Counterfactuals  [[pdf]](https://aclanthology.org/2025.naacl-long.305/)  
+()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NzE5MDI4NSwxODI5NjkwODg2LC0xNj
-g3NDUyNTQ0LC0xNzYxMDUxMTExLC05MTA2NzgyMTEsLTM5MzAx
-NjQxMiwtMTE0NjM2MzE0Niw0NzQ3NDI5MTIsLTE5NDEzMTczNT
-IsMTM5Mzg0NDEzNywxNzgxMjM2OTQxLDE0MDY4MDE2ODksLTIy
-MjY2NTc5MiwxMzUzMDI2NTMwLDUxNzQ1Njg2MSwtNjU1NzAzMz
-YwLC04NjE4OTkwMTcsODM3MzQyOTM0LC04Mzk0MTM3NDUsNjUx
-MjkzMzldfQ==
+eyJoaXN0b3J5IjpbLTMwNjQzNjU0NywxMjY3MTkwMjg1LDE4Mj
+k2OTA4ODYsLTE2ODc0NTI1NDQsLTE3NjEwNTExMTEsLTkxMDY3
+ODIxMSwtMzkzMDE2NDEyLC0xMTQ2MzYzMTQ2LDQ3NDc0MjkxMi
+wtMTk0MTMxNzM1MiwxMzkzODQ0MTM3LDE3ODEyMzY5NDEsMTQw
+NjgwMTY4OSwtMjIyNjY1NzkyLDEzNTMwMjY1MzAsNTE3NDU2OD
+YxLC02NTU3MDMzNjAsLTg2MTg5OTAxNyw4MzczNDI5MzQsLTgz
+OTQxMzc0NV19
 -->
