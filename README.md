@@ -242,13 +242,13 @@ Search Keywords: Vision, Visual, Multimodal
 (Intel, Social bias in VLM)  
 2. ImgTrojan: Jailbreaking Vision-Language Models with  ONE  Image  [[pdf]](https://aclanthology.org/2025.naacl-long.360/)  
 (HKU, Jailbreak VLM)  
-3. 
+3. Vision-Language Models Can Self-Improve Reasoning via Reflection](https://aclanthology.org/2025.naacl-long.447/)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMzExNzE4OCwtNTQxOTUwOTQxLDEyNj
-cxOTAyODUsMTgyOTY5MDg4NiwtMTY4NzQ1MjU0NCwtMTc2MTA1
-MTExMSwtOTEwNjc4MjExLC0zOTMwMTY0MTIsLTExNDYzNjMxND
-YsNDc0NzQyOTEyLC0xOTQxMzE3MzUyLDEzOTM4NDQxMzcsMTc4
-MTIzNjk0MSwxNDA2ODAxNjg5LC0yMjI2NjU3OTIsMTM1MzAyNj
-UzMCw1MTc0NTY4NjEsLTY1NTcwMzM2MCwtODYxODk5MDE3LDgz
-NzM0MjkzNF19
+eyJoaXN0b3J5IjpbMTgyMDMzODMwNywxMjAzMTE3MTg4LC01ND
+E5NTA5NDEsMTI2NzE5MDI4NSwxODI5NjkwODg2LC0xNjg3NDUy
+NTQ0LC0xNzYxMDUxMTExLC05MTA2NzgyMTEsLTM5MzAxNjQxMi
+wtMTE0NjM2MzE0Niw0NzQ3NDI5MTIsLTE5NDEzMTczNTIsMTM5
+Mzg0NDEzNywxNzgxMjM2OTQxLDE0MDY4MDE2ODksLTIyMjY2NT
+c5MiwxMzUzMDI2NTMwLDUxNzQ1Njg2MSwtNjU1NzAzMzYwLC04
+NjE4OTkwMTddfQ==
 -->
