@@ -240,13 +240,15 @@ Search Keywords: Vision, Visual, Multimodal
 
 1. Uncovering Bias in Large Vision-Language Models at Scale with Counterfactuals  [[pdf]](https://aclanthology.org/2025.naacl-long.305/)  
 (Intel, Social bias in VLM)  
-2. ImgTrojan: Jailbreaking Vision-Language Models with  ONE  Image](https://aclanthology.org/2025.naacl-long.360/)**
+2. ImgTrojan: Jailbreaking Vision-Language Models with  ONE  Image  [[pdf]](https://aclanthology.org/2025.naacl-long.360/)  
+(HKU, Jailbreak VLM)  
+3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODA0NTIwMjcsLTU0MTk1MDk0MSwxMj
-Y3MTkwMjg1LDE4Mjk2OTA4ODYsLTE2ODc0NTI1NDQsLTE3NjEw
-NTExMTEsLTkxMDY3ODIxMSwtMzkzMDE2NDEyLC0xMTQ2MzYzMT
-Q2LDQ3NDc0MjkxMiwtMTk0MTMxNzM1MiwxMzkzODQ0MTM3LDE3
-ODEyMzY5NDEsMTQwNjgwMTY4OSwtMjIyNjY1NzkyLDEzNTMwMj
-Y1MzAsNTE3NDU2ODYxLC02NTU3MDMzNjAsLTg2MTg5OTAxNyw4
-MzczNDI5MzRdfQ==
+eyJoaXN0b3J5IjpbMTIwMzExNzE4OCwtNTQxOTUwOTQxLDEyNj
+cxOTAyODUsMTgyOTY5MDg4NiwtMTY4NzQ1MjU0NCwtMTc2MTA1
+MTExMSwtOTEwNjc4MjExLC0zOTMwMTY0MTIsLTExNDYzNjMxND
+YsNDc0NzQyOTEyLC0xOTQxMzE3MzUyLDEzOTM4NDQxMzcsMTc4
+MTIzNjk0MSwxNDA2ODAxNjg5LC0yMjI2NjU3OTIsMTM1MzAyNj
+UzMCw1MTc0NTY4NjEsLTY1NTcwMzM2MCwtODYxODk5MDE3LDgz
+NzM0MjkzNF19
 -->
