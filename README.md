@@ -247,10 +247,10 @@ Search Keywords: Vision, Visual, Multimodal
 
 
 
-
+从这篇文章往下检索，可以检索vision和multimodal
 4. **[MAPWise: Evaluating Vision-Language Models for Advanced Map Queries](https://aclanthology.org/2025.naacl-long.473/)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NjgyNjc0MywxMjAzMTE3MTg4LC01ND
+eyJoaXN0b3J5IjpbLTIwODg5OTUxNywxMjAzMTE3MTg4LC01ND
 E5NTA5NDEsMTI2NzE5MDI4NSwxODI5NjkwODg2LC0xNjg3NDUy
 NTQ0LC0xNzYxMDUxMTExLC05MTA2NzgyMTEsLTM5MzAxNjQxMi
 wtMTE0NjM2MzE0Niw0NzQ3NDI5MTIsLTE5NDEzMTczNTIsMTM5
