@@ -244,9 +244,9 @@ Search Keywords: Vision, Visual, Multimodal
 (HKU, Jailbreak VLM)  
 3. Vision-Language Models Can Self-Improve Reasoning via Reflection  [[pdf]](https://aclanthology.org/2025.naacl-long.447/)  
 (NJU, VLM reasoning)  
-4. 
+4. **[MAPWise: Evaluating Vision-Language Models for Advanced Map Queries](https://aclanthology.org/2025.naacl-long.473/)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNTQ3ODU0NywxMjAzMTE3MTg4LC01ND
+eyJoaXN0b3J5IjpbMTA1NDIyMTYxNSwxMjAzMTE3MTg4LC01ND
 E5NTA5NDEsMTI2NzE5MDI4NSwxODI5NjkwODg2LC0xNjg3NDUy
 NTQ0LC0xNzYxMDUxMTExLC05MTA2NzgyMTEsLTM5MzAxNjQxMi
 wtMTE0NjM2MzE0Niw0NzQ3NDI5MTIsLTE5NDEzMTczNTIsMTM5
