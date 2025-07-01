@@ -239,9 +239,10 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://aclanthology.org/events/naacl-2025/)
 
 1. Uncovering Bias in Large Vision-Language Models at Scale with Counterfactuals  [[pdf]](https://aclanthology.org/2025.naacl-long.305/)  
-()
+(Intel, Social bias in VLM)  
+2. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNjQzNjU0NywxMjY3MTkwMjg1LDE4Mj
+eyJoaXN0b3J5IjpbLTU0MTk1MDk0MSwxMjY3MTkwMjg1LDE4Mj
 k2OTA4ODYsLTE2ODc0NTI1NDQsLTE3NjEwNTExMTEsLTkxMDY3
 ODIxMSwtMzkzMDE2NDEyLC0xMTQ2MzYzMTQ2LDQ3NDc0MjkxMi
 wtMTk0MTMxNzM1MiwxMzkzODQ0MTM3LDE3ODEyMzY5NDEsMTQw
