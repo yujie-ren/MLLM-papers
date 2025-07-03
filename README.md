@@ -253,14 +253,15 @@ Search Keywords: Vision, Visual, Multimodal
 7. LVPruning: An Effective yet Simple Language-Guided Vision Token Pruning Approach for Multi-modal Large Language Models  [[pdf]](https://aclanthology.org/2025.findings-naacl.242/)  
 (U of Manchester, Vision token pruning)  
 8. How do Multimodal Foundation Models Encode Text and Speech? An Analysis of Cross-Lingual and Cross-Modal Representations  [[pdf]](https://aclanthology.org/2025.naacl-short.51/)  
-(KIT, VLM interpretability, In)
+(KIT, VLM interpretability, Internal representation)  
+
 
 
 从这篇文章往下检索，可以检索vision和multimodal
 
 检索VLM文章，也可以从CVPR, ICCV, ECCV等会议进行检索。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjMzMzAzNSw4OTQwMzE5NTYsNjQwMz
+eyJoaXN0b3J5IjpbMTY4MDc4Mzc3NCw4OTQwMzE5NTYsNjQwMz
 cyOTg0LC00MzI4MTU1NzAsLTE4MzY5MTIyMzQsLTIxMTI3MDY5
 MDAsMTE4MTIwNTQyMiwxMzQzNTc0ODc2LC0yMDg4OTk1MTcsMT
 IwMzExNzE4OCwtNTQxOTUwOTQxLDEyNjcxOTAyODUsMTgyOTY5
