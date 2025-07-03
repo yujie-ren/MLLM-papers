@@ -249,18 +249,19 @@ Search Keywords: Vision, Visual, Multimodal
 5. VLind-Bench: Measuring Language Priors in Large Vision-Language Models  [[pdf]](https://aclanthology.org/2025.findings-naacl.231/)  
 (Seoul National U, Benchmark, Language prior)  
 6. Mitigating Hallucinations in Large Vision-Language Models via Summary-Guided Decoding  [[pdf]](https://aclanthology.org/2025.findings-naacl.235/)  
-(Seoul National U, )
+(Seoul National U, Hallucination due to language prior)  
+
 
 
 从这篇文章往下检索，可以检索vision和multimodal
 
 检索VLM文章，也可以从CVPR, ICCV, ECCV等会议进行检索。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzODQ5MjQ1LC0xODM2OTEyMjM0LC0yMT
-EyNzA2OTAwLDExODEyMDU0MjIsMTM0MzU3NDg3NiwtMjA4ODk5
-NTE3LDEyMDMxMTcxODgsLTU0MTk1MDk0MSwxMjY3MTkwMjg1LD
-E4Mjk2OTA4ODYsLTE2ODc0NTI1NDQsLTE3NjEwNTExMTEsLTkx
-MDY3ODIxMSwtMzkzMDE2NDEyLC0xMTQ2MzYzMTQ2LDQ3NDc0Mj
-kxMiwtMTk0MTMxNzM1MiwxMzkzODQ0MTM3LDE3ODEyMzY5NDEs
-MTQwNjgwMTY4OV19
+eyJoaXN0b3J5IjpbLTIwNDQ4ODM1NDUsLTE4MzY5MTIyMzQsLT
+IxMTI3MDY5MDAsMTE4MTIwNTQyMiwxMzQzNTc0ODc2LC0yMDg4
+OTk1MTcsMTIwMzExNzE4OCwtNTQxOTUwOTQxLDEyNjcxOTAyOD
+UsMTgyOTY5MDg4NiwtMTY4NzQ1MjU0NCwtMTc2MTA1MTExMSwt
+OTEwNjc4MjExLC0zOTMwMTY0MTIsLTExNDYzNjMxNDYsNDc0Nz
+QyOTEyLC0xOTQxMzE3MzUyLDEzOTM4NDQxMzcsMTc4MTIzNjk0
+MSwxNDA2ODAxNjg5XX0=
 -->
