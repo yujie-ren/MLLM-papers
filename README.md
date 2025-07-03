@@ -247,14 +247,14 @@ Search Keywords: Vision, Visual, Multimodal
 4. Enhancing Visual-Language Modality Alignment in Large Vision Language Models via Self-Improvement  [[pdf]](https://aclanthology.org/2025.findings-naacl.15/)  
 (UoMaryland, New visual instruction tuning method)  
 5. VLind-Bench: Measuring Language Priors in Large Vision-Language Models  [[pdf]](https://aclanthology.org/2025.findings-naacl.231/)  
-()
+(Seoul National U, )
 
 
 从这篇文章往下检索，可以检索vision和multimodal
 
 检索VLM文章，也可以从CVPR, ICCV, ECCV等会议进行检索。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MTcwMDIwOSwtMTgzNjkxMjIzNCwtMj
+eyJoaXN0b3J5IjpbMTc3NzU4MDEwNiwtMTgzNjkxMjIzNCwtMj
 ExMjcwNjkwMCwxMTgxMjA1NDIyLDEzNDM1NzQ4NzYsLTIwODg5
 OTUxNywxMjAzMTE3MTg4LC01NDE5NTA5NDEsMTI2NzE5MDI4NS
 wxODI5NjkwODg2LC0xNjg3NDUyNTQ0LC0xNzYxMDUxMTExLC05
