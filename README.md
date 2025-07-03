@@ -1,4 +1,4 @@
-## Multimodal Large Language Model Papers
+## Vision Language Model Papers
 Search Keywords: Vision, Visual, Multimodal
 
 ## Contents
@@ -250,11 +250,11 @@ Search Keywords: Vision, Visual, Multimodal
 从这篇文章往下检索，可以检索vision和multimodal
 4. **[MAPWise: Evaluating Vision-Language Models for Advanced Map Queries](https://aclanthology.org/2025.naacl-long.473/)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODg5OTUxNywxMjAzMTE3MTg4LC01ND
-E5NTA5NDEsMTI2NzE5MDI4NSwxODI5NjkwODg2LC0xNjg3NDUy
-NTQ0LC0xNzYxMDUxMTExLC05MTA2NzgyMTEsLTM5MzAxNjQxMi
-wtMTE0NjM2MzE0Niw0NzQ3NDI5MTIsLTE5NDEzMTczNTIsMTM5
-Mzg0NDEzNywxNzgxMjM2OTQxLDE0MDY4MDE2ODksLTIyMjY2NT
-c5MiwxMzUzMDI2NTMwLDUxNzQ1Njg2MSwtNjU1NzAzMzYwLC04
-NjE4OTkwMTddfQ==
+eyJoaXN0b3J5IjpbMTM0MzU3NDg3NiwtMjA4ODk5NTE3LDEyMD
+MxMTcxODgsLTU0MTk1MDk0MSwxMjY3MTkwMjg1LDE4Mjk2OTA4
+ODYsLTE2ODc0NTI1NDQsLTE3NjEwNTExMTEsLTkxMDY3ODIxMS
+wtMzkzMDE2NDEyLC0xMTQ2MzYzMTQ2LDQ3NDc0MjkxMiwtMTk0
+MTMxNzM1MiwxMzkzODQ0MTM3LDE3ODEyMzY5NDEsMTQwNjgwMT
+Y4OSwtMjIyNjY1NzkyLDEzNTMwMjY1MzAsNTE3NDU2ODYxLC02
+NTU3MDMzNjBdfQ==
 -->
