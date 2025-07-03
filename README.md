@@ -245,17 +245,18 @@ Search Keywords: Vision, Visual, Multimodal
 3. Vision-Language Models Can Self-Improve Reasoning via Reflection  [[pdf]](https://aclanthology.org/2025.naacl-long.447/)  
 (NJU, VLM reasoning)  
 4. Enhancing Visual-Language Modality Alignment in Large Vision Language Models via Self-Improvement  [[pdf]](https://aclanthology.org/2025.findings-naacl.15/)  
-(UoMaryland, )
+(UoMaryland, New visual instruction tuning method)  
+
 
 
 从这篇文章往下检索，可以检索vision和multimodal
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNzIwMDIwNCwxMTgxMjA1NDIyLDEzND
-M1NzQ4NzYsLTIwODg5OTUxNywxMjAzMTE3MTg4LC01NDE5NTA5
-NDEsMTI2NzE5MDI4NSwxODI5NjkwODg2LC0xNjg3NDUyNTQ0LC
-0xNzYxMDUxMTExLC05MTA2NzgyMTEsLTM5MzAxNjQxMiwtMTE0
-NjM2MzE0Niw0NzQ3NDI5MTIsLTE5NDEzMTczNTIsMTM5Mzg0ND
-EzNywxNzgxMjM2OTQxLDE0MDY4MDE2ODksLTIyMjY2NTc5Miwx
-MzUzMDI2NTMwXX0=
+eyJoaXN0b3J5IjpbLTIxMTI3MDY5MDAsMTE4MTIwNTQyMiwxMz
+QzNTc0ODc2LC0yMDg4OTk1MTcsMTIwMzExNzE4OCwtNTQxOTUw
+OTQxLDEyNjcxOTAyODUsMTgyOTY5MDg4NiwtMTY4NzQ1MjU0NC
+wtMTc2MTA1MTExMSwtOTEwNjc4MjExLC0zOTMwMTY0MTIsLTEx
+NDYzNjMxNDYsNDc0NzQyOTEyLC0xOTQxMzE3MzUyLDEzOTM4ND
+QxMzcsMTc4MTIzNjk0MSwxNDA2ODAxNjg5LC0yMjI2NjU3OTIs
+MTM1MzAyNjUzMF19
 -->
