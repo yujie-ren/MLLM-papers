@@ -251,14 +251,15 @@ Search Keywords: Vision, Visual, Multimodal
 6. Mitigating Hallucinations in Large Vision-Language Models via Summary-Guided Decoding  [[pdf]](https://aclanthology.org/2025.findings-naacl.235/)  
 (Seoul National U, Hallucination due to language prior)  
 7. LVPruning: An Effective yet Simple Language-Guided Vision Token Pruning Approach for Multi-modal Large Language Models  [[pdf]](https://aclanthology.org/2025.findings-naacl.242/)  
-(U of Manchester, )
+(U of Manchester, Vision token pruning)  
+8. 
 
 
 从这篇文章往下检索，可以检索vision和multimodal
 
 检索VLM文章，也可以从CVPR, ICCV, ECCV等会议进行检索。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0ODg4MDg1NCwtMTgzNjkxMjIzNCwtMj
+eyJoaXN0b3J5IjpbLTQzMjgxNTU3MCwtMTgzNjkxMjIzNCwtMj
 ExMjcwNjkwMCwxMTgxMjA1NDIyLDEzNDM1NzQ4NzYsLTIwODg5
 OTUxNywxMjAzMTE3MTg4LC01NDE5NTA5NDEsMTI2NzE5MDI4NS
 wxODI5NjkwODg2LC0xNjg3NDUyNTQ0LC0xNzYxMDUxMTExLC05
