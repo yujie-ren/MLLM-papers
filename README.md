@@ -58,7 +58,7 @@ Search Keywords: Vision, Visual, Multimodal
 23. VLsI: Verbalized Layers-to-Interactions from Large to Small Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Lee_VLsI_Verbalized_Layers-to-Interactions_from_Large_to_Small_Vision_Language_Models_CVPR_2025_paper.html)  
 (Nvidia, New VLM family, VLM effiency)  
 24. TopV: Compatible Token Pruning with Inference Time Optimization for Fast and Low-Memory Multimodal Vision Language Model  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_TopV_Compatible_Token_Pruning_with_Inference_Time_Optimization_for_Fast_CVPR_2025_paper.html)  
-(RutgersU, )
+(RutgersU, Visual token pruning)
 
 
 
@@ -312,7 +312,7 @@ Search Keywords: Vision, Visual, Multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MzkzNTYwLDY2MjAxMTUsLTU4Nzc5OD
+eyJoaXN0b3J5IjpbMzAyOTcyODI0LDY2MjAxMTUsLTU4Nzc5OD
 MxMywxODYwNjU3Nzg1LDQ3ODk3NzkwMiwxMTg5MzU5MDgwLC0x
 MTk2OTM2NzU1LDg3NzA1NTk1NSwtMTAwNTU2OTgyMSwxMDI5Nj
 gzNzE0LDQ4MDI4NzI4LDExODczOTk0NDksLTgxNDc3NzEzOCwt
