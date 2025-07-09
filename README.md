@@ -27,7 +27,7 @@ Search Keywords: Vision, Visual, Multimodal
 (THU, Layer-wise & instance-wise vision token pruning)  
 8. Lifelong Knowledge Editing for Vision Language Models with Low-Rank Mixture-of-Experts  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Lifelong_Knowledge_Editing_for_Vision_Language_Models_with_Low-Rank_Mixture-of-Experts_CVPR_2025_paper.html)  
 (ECNU, Model editing for VLM)  
-9. 
+9. [What's in the Image? A Deep-Dive into the Vision of Vision Language Models](https://openaccess.thecvf.com/content/CVPR2025/html/Kaduri_Whats_in_the_Image_A_Deep-Dive_into_the_Vision_of_CVPR_2025_paper.html)
 
 
 
@@ -278,11 +278,11 @@ Search Keywords: Vision, Visual, Multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NzM5OTQ0OSwtODE0Nzc3MTM4LC05Nz
-g0MTM5NTIsMTAwMDg3MzM4MywxMzQ3ODkyMDAyLC0xNjE3ODYz
-MDUyLDEwMjc0MjMwOTcsMjAxNjk4ODg1MywxMjU0NzI3ODg2LD
-E2ODA3ODM3NzQsODk0MDMxOTU2LDY0MDM3Mjk4NCwtNDMyODE1
-NTcwLC0xODM2OTEyMjM0LC0yMTEyNzA2OTAwLDExODEyMDU0Mj
-IsMTM0MzU3NDg3NiwtMjA4ODk5NTE3LDEyMDMxMTcxODgsLTU0
-MTk1MDk0MV19
+eyJoaXN0b3J5IjpbMTExOTU5NzgzMiwxMTg3Mzk5NDQ5LC04MT
+Q3NzcxMzgsLTk3ODQxMzk1MiwxMDAwODczMzgzLDEzNDc4OTIw
+MDIsLTE2MTc4NjMwNTIsMTAyNzQyMzA5NywyMDE2OTg4ODUzLD
+EyNTQ3Mjc4ODYsMTY4MDc4Mzc3NCw4OTQwMzE5NTYsNjQwMzcy
+OTg0LC00MzI4MTU1NzAsLTE4MzY5MTIyMzQsLTIxMTI3MDY5MD
+AsMTE4MTIwNTQyMiwxMzQzNTc0ODc2LC0yMDg4OTk1MTcsMTIw
+MzExNzE4OF19
 -->
