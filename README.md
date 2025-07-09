@@ -1,6 +1,7 @@
 ## Vision Language Model Papers
 Search Keywords: Vision, Visual, Multimodal
 
+
 ## Contents
 - 2025
   - [Other](#other)
@@ -255,17 +256,12 @@ Search Keywords: Vision, Visual, Multimodal
 8. How do Multimodal Foundation Models Encode Text and Speech? An Analysis of Cross-Lingual and Cross-Modal Representations  [[pdf]](https://aclanthology.org/2025.naacl-short.51/)  
 (KIT, VLM interpretability, Internal representation)  
 
-
-
-从这篇文章往下检索，可以检索vision和multimodal
-
-检索VLM文章，也可以从CVPR, ICCV, ECCV等会议进行检索。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MDc4Mzc3NCw4OTQwMzE5NTYsNjQwMz
-cyOTg0LC00MzI4MTU1NzAsLTE4MzY5MTIyMzQsLTIxMTI3MDY5
-MDAsMTE4MTIwNTQyMiwxMzQzNTc0ODc2LC0yMDg4OTk1MTcsMT
-IwMzExNzE4OCwtNTQxOTUwOTQxLDEyNjcxOTAyODUsMTgyOTY5
-MDg4NiwtMTY4NzQ1MjU0NCwtMTc2MTA1MTExMSwtOTEwNjc4Mj
-ExLC0zOTMwMTY0MTIsLTExNDYzNjMxNDYsNDc0NzQyOTEyLC0x
-OTQxMzE3MzUyXX0=
+eyJoaXN0b3J5IjpbLTI2MzA4NTQ3MiwxNjgwNzgzNzc0LDg5ND
+AzMTk1Niw2NDAzNzI5ODQsLTQzMjgxNTU3MCwtMTgzNjkxMjIz
+NCwtMjExMjcwNjkwMCwxMTgxMjA1NDIyLDEzNDM1NzQ4NzYsLT
+IwODg5OTUxNywxMjAzMTE3MTg4LC01NDE5NTA5NDEsMTI2NzE5
+MDI4NSwxODI5NjkwODg2LC0xNjg3NDUyNTQ0LC0xNzYxMDUxMT
+ExLC05MTA2NzgyMTEsLTM5MzAxNjQxMiwtMTE0NjM2MzE0Niw0
+NzQ3NDI5MTJdfQ==
 -->
