@@ -49,7 +49,7 @@ Search Keywords: Vision, Visual, Multimodal
 (UIUC, Defense jailbreak by steering vectors)  
 19. VisionZip: Longer is Better but Not Necessary in Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_VisionZip_Longer_is_Better_but_Not_Necessary_in_Vision_Language_CVPR_2025_paper.html)  
 (CUHK, VLM effiency, Reducing visual tokens)  
-
+20. Automated Generation of Challenging Multiple-Choice Questions for Vision Language Model Evaluation](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Automated_Generation_of_Challenging_Multiple-Choice_Questions_for_Vision_Language_Model_CVPR_2025_paper.html)
 
 
 
@@ -304,7 +304,7 @@ Search Keywords: Vision, Visual, Multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc5NDgwNDQyLDE4NjA2NTc3ODUsNDc4OT
+eyJoaXN0b3J5IjpbNjYzNjE4MTI4LDE4NjA2NTc3ODUsNDc4OT
 c3OTAyLDExODkzNTkwODAsLTExOTY5MzY3NTUsODc3MDU1OTU1
 LC0xMDA1NTY5ODIxLDEwMjk2ODM3MTQsNDgwMjg3MjgsMTE4Nz
 M5OTQ0OSwtODE0Nzc3MTM4LC05Nzg0MTM5NTIsMTAwMDg3MzM4
