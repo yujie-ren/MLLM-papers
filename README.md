@@ -23,7 +23,8 @@ Search Keywords: Vision, Visual, Multimodal
 (SYU, Synthesize training data for VLM, Object replacement)  
 6. Stealthy Backdoor Attack in Self-Supervised Learning Vision Encoders for Large Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Stealthy_Backdoor_Attack_in_Self-Supervised_Learning_Vision_Encoders_for_Large_CVPR_2025_paper.html)  
 (UIUC, Backdoor attack in vision encoder for VLM)  
-7. ATP-LLaVA: Adaptive Token Pruning for Large Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Ye_ATP-LLaVA_Adaptive_Token_Pruning_for_Large_Vision_Language_Models_CVPR_2025_paper.html) 
+7. ATP-LLaVA: Adaptive Token Pruning for Large Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Ye_ATP-LLaVA_Adaptive_Token_Pruning_for_Large_Vision_Language_Models_CVPR_2025_paper.html)  
+()
 
 
 
@@ -274,7 +275,7 @@ Search Keywords: Vision, Visual, Multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzIyMTg4MzgsMTAwMDg3MzM4MywxMz
+eyJoaXN0b3J5IjpbLTEwNzIyMjc2MDEsMTAwMDg3MzM4MywxMz
 Q3ODkyMDAyLC0xNjE3ODYzMDUyLDEwMjc0MjMwOTcsMjAxNjk4
 ODg1MywxMjU0NzI3ODg2LDE2ODA3ODM3NzQsODk0MDMxOTU2LD
 Y0MDM3Mjk4NCwtNDMyODE1NTcwLC0xODM2OTEyMjM0LC0yMTEy
