@@ -15,6 +15,9 @@ Search Keywords: Vision, Visual, Multimodal
 
 ## ICML-202507
 [All Papers](https://openreview.net/group?id=ICML.cc/2025/Conference#tab-accept-oral)
+1. CALICO: Part-Focused Semantic Co-Segmentation with Large Vision-Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Nguyen_CALICO_Part-Focused_Semantic_Co-Segmentation_with_Large_Vision-Language_Models_CVPR_2025_paper.html)  
+()
+
 
 #### MLLM
 1. EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents  [[pdf]](https://openreview.net/forum?id=DgGF2LEBPS)  
@@ -259,11 +262,11 @@ Search Keywords: Vision, Visual, Multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NDcyNzg4NiwxNjgwNzgzNzc0LDg5ND
-AzMTk1Niw2NDAzNzI5ODQsLTQzMjgxNTU3MCwtMTgzNjkxMjIz
-NCwtMjExMjcwNjkwMCwxMTgxMjA1NDIyLDEzNDM1NzQ4NzYsLT
-IwODg5OTUxNywxMjAzMTE3MTg4LC01NDE5NTA5NDEsMTI2NzE5
-MDI4NSwxODI5NjkwODg2LC0xNjg3NDUyNTQ0LC0xNzYxMDUxMT
-ExLC05MTA2NzgyMTEsLTM5MzAxNjQxMiwtMTE0NjM2MzE0Niw0
-NzQ3NDI5MTJdfQ==
+eyJoaXN0b3J5IjpbMTgxNTY4NjU5MywxMjU0NzI3ODg2LDE2OD
+A3ODM3NzQsODk0MDMxOTU2LDY0MDM3Mjk4NCwtNDMyODE1NTcw
+LC0xODM2OTEyMjM0LC0yMTEyNzA2OTAwLDExODEyMDU0MjIsMT
+M0MzU3NDg3NiwtMjA4ODk5NTE3LDEyMDMxMTcxODgsLTU0MTk1
+MDk0MSwxMjY3MTkwMjg1LDE4Mjk2OTA4ODYsLTE2ODc0NTI1ND
+QsLTE3NjEwNTExMTEsLTkxMDY3ODIxMSwtMzkzMDE2NDEyLC0x
+MTQ2MzYzMTQ2XX0=
 -->
