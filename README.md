@@ -15,7 +15,8 @@ Search Keywords: Vision, Visual, Multimodal
 2. Task Preference Optimization: Improving Multimodal Large Language Models with Vision Task Alignment  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Yan_Task_Preference_Optimization_Improving_Multimodal_Large_Language_Models_with_Vision_CVPR_2025_paper.html)  
 (Shanghai AI Lab, A new training method for VLM)  
 3. Words or Vision: Do Vision-Language Models Have Blind Faith in Text?  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Deng_Words_or_Vision_Do_Vision-Language_Models_Have_Blind_Faith_in_CVPR_2025_paper.html)  
-(⭐️NUS, )
+(⭐️NUS, Modality conflict, Blind faith in text)  
+
 
 
 
@@ -265,7 +266,7 @@ Search Keywords: Vision, Visual, Multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDg0NzUxNzksMTAyNzQyMzA5NywyMD
+eyJoaXN0b3J5IjpbLTE3NTMzODYyMTEsMTAyNzQyMzA5NywyMD
 E2OTg4ODUzLDEyNTQ3Mjc4ODYsMTY4MDc4Mzc3NCw4OTQwMzE5
 NTYsNjQwMzcyOTg0LC00MzI4MTU1NzAsLTE4MzY5MTIyMzQsLT
 IxMTI3MDY5MDAsMTE4MTIwNTQyMiwxMzQzNTc0ODc2LC0yMDg4
