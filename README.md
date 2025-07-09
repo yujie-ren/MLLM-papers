@@ -60,7 +60,8 @@ Search Keywords: Vision, Visual, Multimodal
 24. TopV: Compatible Token Pruning with Inference Time Optimization for Fast and Low-Memory Multimodal Vision Language Model  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_TopV_Compatible_Token_Pruning_with_Inference_Time_Optimization_for_Fast_CVPR_2025_paper.html)  
 (RutgersU, Visual token pruning)
 25. Towards Understanding How Knowledge Evolves in Large Vision-Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Towards_Understanding_How_Knowledge_Evolves_in_Large_Vision-Language_Models_CVPR_2025_paper.html)  
-(CAS, Knowledge evolving in VLM)
+(⭐️⭐️CAS, Knowledge evolving in VLM)  
+
 
 
 vision language已经检索完了，下一步检索vision-language和multimodal
@@ -315,11 +316,11 @@ vision language已经检索完了，下一步检索vision-language和multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTcxNDE5NzgsLTk0NDI4MzU4Niw2Nj
-IwMTE1LC01ODc3OTgzMTMsMTg2MDY1Nzc4NSw0Nzg5Nzc5MDIs
-MTE4OTM1OTA4MCwtMTE5NjkzNjc1NSw4NzcwNTU5NTUsLTEwMD
-U1Njk4MjEsMTAyOTY4MzcxNCw0ODAyODcyOCwxMTg3Mzk5NDQ5
-LC04MTQ3NzcxMzgsLTk3ODQxMzk1MiwxMDAwODczMzgzLDEzND
-c4OTIwMDIsLTE2MTc4NjMwNTIsMTAyNzQyMzA5NywyMDE2OTg4
-ODUzXX0=
+eyJoaXN0b3J5IjpbLTExNzcyNTYzOCwtOTQ0MjgzNTg2LDY2Mj
+AxMTUsLTU4Nzc5ODMxMywxODYwNjU3Nzg1LDQ3ODk3NzkwMiwx
+MTg5MzU5MDgwLC0xMTk2OTM2NzU1LDg3NzA1NTk1NSwtMTAwNT
+U2OTgyMSwxMDI5NjgzNzE0LDQ4MDI4NzI4LDExODczOTk0NDks
+LTgxNDc3NzEzOCwtOTc4NDEzOTUyLDEwMDA4NzMzODMsMTM0Nz
+g5MjAwMiwtMTYxNzg2MzA1MiwxMDI3NDIzMDk3LDIwMTY5ODg4
+NTNdfQ==
 -->
