@@ -28,7 +28,8 @@ Search Keywords: Vision, Visual, Multimodal
 8. Lifelong Knowledge Editing for Vision Language Models with Low-Rank Mixture-of-Experts  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Lifelong_Knowledge_Editing_for_Vision_Language_Models_with_Low-Rank_Mixture-of-Experts_CVPR_2025_paper.html)  
 (ECNU, Model editing for VLM)  
 9. What's in the Image? A Deep-Dive into the Vision of Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Kaduri_Whats_in_the_Image_A_Deep-Dive_into_the_Vision_of_CVPR_2025_paper.html)  
-(Weizmann Institute of Science, VLM interpretability, ) 
+(Weizmann Institute of Science, VLM interpretability, How VLM process visual information)  
+ 
 
 
 
@@ -279,11 +280,11 @@ Search Keywords: Vision, Visual, Multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkwMDcxNTgwLDExODczOTk0NDksLTgxND
-c3NzEzOCwtOTc4NDEzOTUyLDEwMDA4NzMzODMsMTM0Nzg5MjAw
-MiwtMTYxNzg2MzA1MiwxMDI3NDIzMDk3LDIwMTY5ODg4NTMsMT
-I1NDcyNzg4NiwxNjgwNzgzNzc0LDg5NDAzMTk1Niw2NDAzNzI5
-ODQsLTQzMjgxNTU3MCwtMTgzNjkxMjIzNCwtMjExMjcwNjkwMC
-wxMTgxMjA1NDIyLDEzNDM1NzQ4NzYsLTIwODg5OTUxNywxMjAz
-MTE3MTg4XX0=
+eyJoaXN0b3J5IjpbNDgwMjg3MjgsMTE4NzM5OTQ0OSwtODE0Nz
+c3MTM4LC05Nzg0MTM5NTIsMTAwMDg3MzM4MywxMzQ3ODkyMDAy
+LC0xNjE3ODYzMDUyLDEwMjc0MjMwOTcsMjAxNjk4ODg1MywxMj
+U0NzI3ODg2LDE2ODA3ODM3NzQsODk0MDMxOTU2LDY0MDM3Mjk4
+NCwtNDMyODE1NTcwLC0xODM2OTEyMjM0LC0yMTEyNzA2OTAwLD
+ExODEyMDU0MjIsMTM0MzU3NDg3NiwtMjA4ODk5NTE3LDEyMDMx
+MTcxODhdfQ==
 -->
