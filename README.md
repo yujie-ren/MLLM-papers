@@ -18,7 +18,8 @@ Search Keywords: Vision, Visual, Multimodal
 (⭐️NUS, Modality conflict, Blind faith in text)  
 4. Evaluating Vision-Language Models as Evaluators in Path Planning  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Aghzal_Evaluating_Vision-Language_Models_as_Evaluators_in_Path_Planning_CVPR_2025_paper.html)  
 (George Mason U, Benchmark)  
-[Img-Diff: Contrastive Data Synthesis for Multimodal Large Language Models](https://openaccess.thecvf.com/content/CVPR2025/html/Jiao_Img-Diff_Contrastive_Data_Synthesis_for_Multimodal_Large_Language_Models_CVPR_2025_paper.html)
+5. Img-Diff: Contrastive Data Synthesis for Multimodal Large Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Jiao_Img-Diff_Contrastive_Data_Synthesis_for_Multimodal_Large_Language_Models_CVPR_2025_paper.html)  
+(SYU, )
 
 
 
@@ -268,7 +269,7 @@ Search Keywords: Vision, Visual, Multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzI2Nzk2NzEsMTM0Nzg5MjAwMiwtMT
+eyJoaXN0b3J5IjpbLTEyNzkxODk5NDAsMTM0Nzg5MjAwMiwtMT
 YxNzg2MzA1MiwxMDI3NDIzMDk3LDIwMTY5ODg4NTMsMTI1NDcy
 Nzg4NiwxNjgwNzgzNzc0LDg5NDAzMTk1Niw2NDAzNzI5ODQsLT
 QzMjgxNTU3MCwtMTgzNjkxMjIzNCwtMjExMjcwNjkwMCwxMTgx
