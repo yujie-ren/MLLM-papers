@@ -26,7 +26,8 @@ Search Keywords: Vision, Visual, Multimodal
 7. ATP-LLaVA: Adaptive Token Pruning for Large Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Ye_ATP-LLaVA_Adaptive_Token_Pruning_for_Large_Vision_Language_Models_CVPR_2025_paper.html)  
 (THU, Layer-wise & instance-wise vision token pruning)  
 8. Lifelong Knowledge Editing for Vision Language Models with Low-Rank Mixture-of-Experts  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Lifelong_Knowledge_Editing_for_Vision_Language_Models_with_Low-Rank_Mixture-of-Experts_CVPR_2025_paper.html)  
-()
+(ECNU, Model editing for VLM)  
+9. 
 
 
 
@@ -277,11 +278,11 @@ Search Keywords: Vision, Visual, Multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMDMwODU2LC04MTQ3NzcxMzgsLTk3OD
-QxMzk1MiwxMDAwODczMzgzLDEzNDc4OTIwMDIsLTE2MTc4NjMw
-NTIsMTAyNzQyMzA5NywyMDE2OTg4ODUzLDEyNTQ3Mjc4ODYsMT
-Y4MDc4Mzc3NCw4OTQwMzE5NTYsNjQwMzcyOTg0LC00MzI4MTU1
-NzAsLTE4MzY5MTIyMzQsLTIxMTI3MDY5MDAsMTE4MTIwNTQyMi
-wxMzQzNTc0ODc2LC0yMDg4OTk1MTcsMTIwMzExNzE4OCwtNTQx
-OTUwOTQxXX0=
+eyJoaXN0b3J5IjpbMTE4NzM5OTQ0OSwtODE0Nzc3MTM4LC05Nz
+g0MTM5NTIsMTAwMDg3MzM4MywxMzQ3ODkyMDAyLC0xNjE3ODYz
+MDUyLDEwMjc0MjMwOTcsMjAxNjk4ODg1MywxMjU0NzI3ODg2LD
+E2ODA3ODM3NzQsODk0MDMxOTU2LDY0MDM3Mjk4NCwtNDMyODE1
+NTcwLC0xODM2OTEyMjM0LC0yMTEyNzA2OTAwLDExODEyMDU0Mj
+IsMTM0MzU3NDg3NiwtMjA4ODk5NTE3LDEyMDMxMTcxODgsLTU0
+MTk1MDk0MV19
 -->
