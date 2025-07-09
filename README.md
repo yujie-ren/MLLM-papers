@@ -29,7 +29,8 @@ Search Keywords: Vision, Visual, Multimodal
 (ECNU, Model editing for VLM)  
 9. What's in the Image? A Deep-Dive into the Vision of Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Kaduri_Whats_in_the_Image_A_Deep-Dive_into_the_Vision_of_CVPR_2025_paper.html)  
 (Weizmann Institute of Science, VLM interpretability, How VLM process visual information)  
- 
+10. PARC: A Quantitative Framework Uncovering the Symmetries within Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Schmalfuss_PARC_A_Quantitative_Framework_Uncovering_the_Symmetries_within_Vision_Language_CVPR_2025_paper.html)  
+()
 
 
 
@@ -280,11 +281,11 @@ Search Keywords: Vision, Visual, Multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgwMjg3MjgsMTE4NzM5OTQ0OSwtODE0Nz
-c3MTM4LC05Nzg0MTM5NTIsMTAwMDg3MzM4MywxMzQ3ODkyMDAy
-LC0xNjE3ODYzMDUyLDEwMjc0MjMwOTcsMjAxNjk4ODg1MywxMj
-U0NzI3ODg2LDE2ODA3ODM3NzQsODk0MDMxOTU2LDY0MDM3Mjk4
-NCwtNDMyODE1NTcwLC0xODM2OTEyMjM0LC0yMTEyNzA2OTAwLD
-ExODEyMDU0MjIsMTM0MzU3NDg3NiwtMjA4ODk5NTE3LDEyMDMx
-MTcxODhdfQ==
+eyJoaXN0b3J5IjpbLTM5OTQwNzgzMiw0ODAyODcyOCwxMTg3Mz
+k5NDQ5LC04MTQ3NzcxMzgsLTk3ODQxMzk1MiwxMDAwODczMzgz
+LDEzNDc4OTIwMDIsLTE2MTc4NjMwNTIsMTAyNzQyMzA5NywyMD
+E2OTg4ODUzLDEyNTQ3Mjc4ODYsMTY4MDc4Mzc3NCw4OTQwMzE5
+NTYsNjQwMzcyOTg0LC00MzI4MTU1NzAsLTE4MzY5MTIyMzQsLT
+IxMTI3MDY5MDAsMTE4MTIwNTQyMiwxMzQzNTc0ODc2LC0yMDg4
+OTk1MTddfQ==
 -->
