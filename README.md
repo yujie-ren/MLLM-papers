@@ -54,7 +54,8 @@ Search Keywords: Vision, Visual, Multimodal
 21. Seeing the Abstract: Translating the Abstract Language for Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Talon_Seeing_the_Abstract_Translating_the_Abstract_Language_for_Vision_Language_CVPR_2025_paper.html)  
 (Fondazione Bruno Kessler, Abstract-oriented language in VLMs)  
 22. FireEdit: Fine-grained Instruction-based Image Editing via Region-aware Vision Language Model  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_FireEdit_Fine-grained_Instruction-based_Image_Editing_via_Region-aware_Vision_Language_Model_CVPR_2025_paper.html)  
-(SYU, )
+(SYU, Instruction-based image editing, VLM+Diffusion model)  
+23. 
 
 
 
@@ -309,11 +310,11 @@ Search Keywords: Vision, Visual, Multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc3MzIyMTQ4LDY2MjAxMTUsLTU4Nzc5OD
-MxMywxODYwNjU3Nzg1LDQ3ODk3NzkwMiwxMTg5MzU5MDgwLC0x
-MTk2OTM2NzU1LDg3NzA1NTk1NSwtMTAwNTU2OTgyMSwxMDI5Nj
-gzNzE0LDQ4MDI4NzI4LDExODczOTk0NDksLTgxNDc3NzEzOCwt
-OTc4NDEzOTUyLDEwMDA4NzMzODMsMTM0Nzg5MjAwMiwtMTYxNz
-g2MzA1MiwxMDI3NDIzMDk3LDIwMTY5ODg4NTMsMTI1NDcyNzg4
-Nl19
+eyJoaXN0b3J5IjpbMTQ3NTA2ODQ0Niw2NjIwMTE1LC01ODc3OT
+gzMTMsMTg2MDY1Nzc4NSw0Nzg5Nzc5MDIsMTE4OTM1OTA4MCwt
+MTE5NjkzNjc1NSw4NzcwNTU5NTUsLTEwMDU1Njk4MjEsMTAyOT
+Y4MzcxNCw0ODAyODcyOCwxMTg3Mzk5NDQ5LC04MTQ3NzcxMzgs
+LTk3ODQxMzk1MiwxMDAwODczMzgzLDEzNDc4OTIwMDIsLTE2MT
+c4NjMwNTIsMTAyNzQyMzA5NywyMDE2OTg4ODUzLDEyNTQ3Mjc4
+ODZdfQ==
 -->
