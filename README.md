@@ -20,6 +20,8 @@ Search Keywords: Vision, Visual, Multimodal
 (George Mason U, Benchmark)  
 5. Img-Diff: Contrastive Data Synthesis for Multimodal Large Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Jiao_Img-Diff_Contrastive_Data_Synthesis_for_Multimodal_Large_Language_Models_CVPR_2025_paper.html)  
 (SYU, Synthesize training data for VLM, Object replacement)  
+6. Stealthy Backdoor Attack in Self-Supervised Learning Vision Encoders for Large Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Stealthy_Backdoor_Attack_in_Self-Supervised_Learning_Vision_Encoders_for_Large_CVPR_2025_paper.html)  
+(UIUC, Backdoor attack in vision encoder for VLM)  
 
 
 
@@ -271,11 +273,11 @@ Search Keywords: Vision, Visual, Multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMDg3MzM4MywxMzQ3ODkyMDAyLC0xNj
-E3ODYzMDUyLDEwMjc0MjMwOTcsMjAxNjk4ODg1MywxMjU0NzI3
-ODg2LDE2ODA3ODM3NzQsODk0MDMxOTU2LDY0MDM3Mjk4NCwtND
-MyODE1NTcwLC0xODM2OTEyMjM0LC0yMTEyNzA2OTAwLDExODEy
-MDU0MjIsMTM0MzU3NDg3NiwtMjA4ODk5NTE3LDEyMDMxMTcxOD
-gsLTU0MTk1MDk0MSwxMjY3MTkwMjg1LDE4Mjk2OTA4ODYsLTE2
-ODc0NTI1NDRdfQ==
+eyJoaXN0b3J5IjpbLTExMTQxNjI5NTcsMTAwMDg3MzM4MywxMz
+Q3ODkyMDAyLC0xNjE3ODYzMDUyLDEwMjc0MjMwOTcsMjAxNjk4
+ODg1MywxMjU0NzI3ODg2LDE2ODA3ODM3NzQsODk0MDMxOTU2LD
+Y0MDM3Mjk4NCwtNDMyODE1NTcwLC0xODM2OTEyMjM0LC0yMTEy
+NzA2OTAwLDExODEyMDU0MjIsMTM0MzU3NDg3NiwtMjA4ODk5NT
+E3LDEyMDMxMTcxODgsLTU0MTk1MDk0MSwxMjY3MTkwMjg1LDE4
+Mjk2OTA4ODZdfQ==
 -->
