@@ -52,7 +52,8 @@ Search Keywords: Vision, Visual, Multimodal
 20. Automated Generation of Challenging Multiple-Choice Questions for Vision Language Model Evaluation  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Automated_Generation_of_Challenging_Multiple-Choice_Questions_for_Vision_Language_Model_CVPR_2025_paper.html)  
 (Standford, Agentic framework converting open-ended questions into multiple-choice format)  
 21. Seeing the Abstract: Translating the Abstract Language for Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Talon_Seeing_the_Abstract_Translating_the_Abstract_Language_for_Vision_Language_CVPR_2025_paper.html)  
-(Fondazione Bruno Kessler, )
+(Fondazione Bruno Kessler, Abstract-oriented language in VLMs)  
+22. 
 
 
 
@@ -307,11 +308,11 @@ Search Keywords: Vision, Visual, Multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4Nzc5ODMxMywxODYwNjU3Nzg1LDQ3OD
-k3NzkwMiwxMTg5MzU5MDgwLC0xMTk2OTM2NzU1LDg3NzA1NTk1
-NSwtMTAwNTU2OTgyMSwxMDI5NjgzNzE0LDQ4MDI4NzI4LDExOD
-czOTk0NDksLTgxNDc3NzEzOCwtOTc4NDEzOTUyLDEwMDA4NzMz
-ODMsMTM0Nzg5MjAwMiwtMTYxNzg2MzA1MiwxMDI3NDIzMDk3LD
-IwMTY5ODg4NTMsMTI1NDcyNzg4NiwxNjgwNzgzNzc0LDg5NDAz
-MTk1Nl19
+eyJoaXN0b3J5IjpbNjYyMDExNSwtNTg3Nzk4MzEzLDE4NjA2NT
+c3ODUsNDc4OTc3OTAyLDExODkzNTkwODAsLTExOTY5MzY3NTUs
+ODc3MDU1OTU1LC0xMDA1NTY5ODIxLDEwMjk2ODM3MTQsNDgwMj
+g3MjgsMTE4NzM5OTQ0OSwtODE0Nzc3MTM4LC05Nzg0MTM5NTIs
+MTAwMDg3MzM4MywxMzQ3ODkyMDAyLC0xNjE3ODYzMDUyLDEwMj
+c0MjMwOTcsMjAxNjk4ODg1MywxMjU0NzI3ODg2LDE2ODA3ODM3
+NzRdfQ==
 -->
