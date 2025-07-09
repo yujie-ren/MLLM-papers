@@ -39,7 +39,8 @@ Search Keywords: Vision, Visual, Multimodal
 (THU, Benchmarking VLM's fine-grained motion comprehension)  
 14. Video-XL: Extra-Long Vision Language Model for Hour-Scale Video Understanding  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Shu_Video-XL_Extra-Long_Vision_Language_Model_for_Hour-Scale_Video_Understanding_CVPR_2025_paper.html)  
 (SJTU, VLM for video understanding)  
-15. 
+15. SPA-VL: A Comprehensive Safety Preference Alignment Dataset for Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_SPA-VL_A_Comprehensive_Safety_Preference_Alignment_Dataset_for_Vision_Language_CVPR_2025_paper.html)  
+()
 
 
 
@@ -294,11 +295,11 @@ Search Keywords: Vision, Visual, Multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDg1OTA5MzAsODc3MDU1OTU1LC0xMD
-A1NTY5ODIxLDEwMjk2ODM3MTQsNDgwMjg3MjgsMTE4NzM5OTQ0
-OSwtODE0Nzc3MTM4LC05Nzg0MTM5NTIsMTAwMDg3MzM4MywxMz
-Q3ODkyMDAyLC0xNjE3ODYzMDUyLDEwMjc0MjMwOTcsMjAxNjk4
-ODg1MywxMjU0NzI3ODg2LDE2ODA3ODM3NzQsODk0MDMxOTU2LD
-Y0MDM3Mjk4NCwtNDMyODE1NTcwLC0xODM2OTEyMjM0LC0yMTEy
-NzA2OTAwXX0=
+eyJoaXN0b3J5IjpbMTUxOTg1NjIwNCw4NzcwNTU5NTUsLTEwMD
+U1Njk4MjEsMTAyOTY4MzcxNCw0ODAyODcyOCwxMTg3Mzk5NDQ5
+LC04MTQ3NzcxMzgsLTk3ODQxMzk1MiwxMDAwODczMzgzLDEzND
+c4OTIwMDIsLTE2MTc4NjMwNTIsMTAyNzQyMzA5NywyMDE2OTg4
+ODUzLDEyNTQ3Mjc4ODYsMTY4MDc4Mzc3NCw4OTQwMzE5NTYsNj
+QwMzcyOTg0LC00MzI4MTU1NzAsLTE4MzY5MTIyMzQsLTIxMTI3
+MDY5MDBdfQ==
 -->
