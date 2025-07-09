@@ -44,7 +44,8 @@ Search Keywords: Vision, Visual, Multimodal
 16. FastVLM: Efficient Vision Encoding for Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Vasu_FastVLM_Efficient_Vision_Encoding_for_Vision_Language_Models_CVPR_2025_paper.html)  
 (Apple, VLM effiency, Tradeoff between resolution, latency, and accuracy)  
 17. HalLoc: Token-level Localization of Hallucinations for Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Park_HalLoc_Token-level_Localization_of_Hallucinations_for_Vision_Language_Models_CVPR_2025_paper.html)  
-(SNU, )
+(SNU, Dataset, Token-level hallucination localization)  
+
 
 
 
@@ -299,11 +300,11 @@ Search Keywords: Vision, Visual, Multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQxNjU4NDYsMTE4OTM1OTA4MCwtMTE5Nj
-kzNjc1NSw4NzcwNTU5NTUsLTEwMDU1Njk4MjEsMTAyOTY4Mzcx
-NCw0ODAyODcyOCwxMTg3Mzk5NDQ5LC04MTQ3NzcxMzgsLTk3OD
-QxMzk1MiwxMDAwODczMzgzLDEzNDc4OTIwMDIsLTE2MTc4NjMw
-NTIsMTAyNzQyMzA5NywyMDE2OTg4ODUzLDEyNTQ3Mjc4ODYsMT
-Y4MDc4Mzc3NCw4OTQwMzE5NTYsNjQwMzcyOTg0LC00MzI4MTU1
-NzBdfQ==
+eyJoaXN0b3J5IjpbNDc4OTc3OTAyLDExODkzNTkwODAsLTExOT
+Y5MzY3NTUsODc3MDU1OTU1LC0xMDA1NTY5ODIxLDEwMjk2ODM3
+MTQsNDgwMjg3MjgsMTE4NzM5OTQ0OSwtODE0Nzc3MTM4LC05Nz
+g0MTM5NTIsMTAwMDg3MzM4MywxMzQ3ODkyMDAyLC0xNjE3ODYz
+MDUyLDEwMjc0MjMwOTcsMjAxNjk4ODg1MywxMjU0NzI3ODg2LD
+E2ODA3ODM3NzQsODk0MDMxOTU2LDY0MDM3Mjk4NCwtNDMyODE1
+NTcwXX0=
 -->
