@@ -34,7 +34,8 @@ Search Keywords: Vision, Visual, Multimodal
 11. Forensics-Bench: A Comprehensive Forgery Detection Benchmark Suite for Large Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Forensics-Bench_A_Comprehensive_Forgery_Detection_Benchmark_Suite_for_Large_Vision_CVPR_2025_paper.html)  
 (HKU, Benchmark, Assess VLM's capability in forgery detection)  
 12. Embodied Scene Understanding for Vision Language Models via MetaVQA  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Embodied_Scene_Understanding_for_Vision_Language_Models_via_MetaVQA_CVPR_2025_paper.html)  
-(UCLA, )
+(UCLA, Benchmark, Assess VLM's spatial reasoning and sequential decision-making capabilities)  
+
 
 
 
@@ -289,11 +290,11 @@ Search Keywords: Vision, Visual, Multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNjAxNDgxNSwxMDI5NjgzNzE0LDQ4MD
-I4NzI4LDExODczOTk0NDksLTgxNDc3NzEzOCwtOTc4NDEzOTUy
-LDEwMDA4NzMzODMsMTM0Nzg5MjAwMiwtMTYxNzg2MzA1MiwxMD
-I3NDIzMDk3LDIwMTY5ODg4NTMsMTI1NDcyNzg4NiwxNjgwNzgz
-Nzc0LDg5NDAzMTk1Niw2NDAzNzI5ODQsLTQzMjgxNTU3MCwtMT
-gzNjkxMjIzNCwtMjExMjcwNjkwMCwxMTgxMjA1NDIyLDEzNDM1
-NzQ4NzZdfQ==
+eyJoaXN0b3J5IjpbLTEwMDU1Njk4MjEsMTAyOTY4MzcxNCw0OD
+AyODcyOCwxMTg3Mzk5NDQ5LC04MTQ3NzcxMzgsLTk3ODQxMzk1
+MiwxMDAwODczMzgzLDEzNDc4OTIwMDIsLTE2MTc4NjMwNTIsMT
+AyNzQyMzA5NywyMDE2OTg4ODUzLDEyNTQ3Mjc4ODYsMTY4MDc4
+Mzc3NCw4OTQwMzE5NTYsNjQwMzcyOTg0LC00MzI4MTU1NzAsLT
+E4MzY5MTIyMzQsLTIxMTI3MDY5MDAsMTE4MTIwNTQyMiwxMzQz
+NTc0ODc2XX0=
 -->
