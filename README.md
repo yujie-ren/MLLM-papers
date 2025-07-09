@@ -62,7 +62,8 @@ Search Keywords: Vision, Visual, Multimodal
 25. Towards Understanding How Knowledge Evolves in Large Vision-Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Towards_Understanding_How_Knowledge_Evolves_in_Large_Vision-Language_Models_CVPR_2025_paper.html)  
 (⭐️⭐️CAS, Knowledge evolving in VLM)  
 26. Revisiting Backdoor Attacks against Large Vision-Language Models from Domain Shift  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Liang_Revisiting_Backdoor_Attacks_against_Large_Vision-Language_Models_from_Domain_Shift_CVPR_2025_paper.html)  
-(NTU, )
+(NTU, Backdoor attack for VLM)  
+
 
 
 vision language已经检索完了，下一步检索vision-language和multimodal
@@ -317,7 +318,7 @@ vision language已经检索完了，下一步检索vision-language和multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyODExMTAwMiwtMTE3NzI1NjM4LC05ND
+eyJoaXN0b3J5IjpbLTE2OTIxMzczMywtMTE3NzI1NjM4LC05ND
 QyODM1ODYsNjYyMDExNSwtNTg3Nzk4MzEzLDE4NjA2NTc3ODUs
 NDc4OTc3OTAyLDExODkzNTkwODAsLTExOTY5MzY3NTUsODc3MD
 U1OTU1LC0xMDA1NTY5ODIxLDEwMjk2ODM3MTQsNDgwMjg3Mjgs
