@@ -42,7 +42,7 @@ Search Keywords: Vision, Visual, Multimodal
 15. SPA-VL: A Comprehensive Safety Preference Alignment Dataset for Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_SPA-VL_A_Comprehensive_Safety_Preference_Alignment_Dataset_for_Vision_Language_CVPR_2025_paper.html)  
 (USTC, Safety alignment dataset for VLM)  
 16. FastVLM: Efficient Vision Encoding for Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Vasu_FastVLM_Efficient_Vision_Encoding_for_Vision_Language_Models_CVPR_2025_paper.html)  
-()
+(Apple, )
 
 
 
@@ -297,7 +297,7 @@ Search Keywords: Vision, Visual, Multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc5MTQ0MjkwLDExODkzNTkwODAsLTExOT
+eyJoaXN0b3J5IjpbMTQxMjU2MjQ2LDExODkzNTkwODAsLTExOT
 Y5MzY3NTUsODc3MDU1OTU1LC0xMDA1NTY5ODIxLDEwMjk2ODM3
 MTQsNDgwMjg3MjgsMTE4NzM5OTQ0OSwtODE0Nzc3MTM4LC05Nz
 g0MTM5NTIsMTAwMDg3MzM4MywxMzQ3ODkyMDAyLC0xNjE3ODYz
