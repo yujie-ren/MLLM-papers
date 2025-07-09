@@ -53,7 +53,8 @@ Search Keywords: Vision, Visual, Multimodal
 (Standford, Agentic framework converting open-ended questions into multiple-choice format)  
 21. Seeing the Abstract: Translating the Abstract Language for Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Talon_Seeing_the_Abstract_Translating_the_Abstract_Language_for_Vision_Language_CVPR_2025_paper.html)  
 (Fondazione Bruno Kessler, Abstract-oriented language in VLMs)  
-22. 
+22. FireEdit: Fine-grained Instruction-based Image Editing via Region-aware Vision Language Model  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_FireEdit_Fine-grained_Instruction-based_Image_Editing_via_Region-aware_Vision_Language_Model_CVPR_2025_paper.html)  
+(SYU, )
 
 
 
@@ -308,11 +309,11 @@ Search Keywords: Vision, Visual, Multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYyMDExNSwtNTg3Nzk4MzEzLDE4NjA2NT
-c3ODUsNDc4OTc3OTAyLDExODkzNTkwODAsLTExOTY5MzY3NTUs
-ODc3MDU1OTU1LC0xMDA1NTY5ODIxLDEwMjk2ODM3MTQsNDgwMj
-g3MjgsMTE4NzM5OTQ0OSwtODE0Nzc3MTM4LC05Nzg0MTM5NTIs
-MTAwMDg3MzM4MywxMzQ3ODkyMDAyLC0xNjE3ODYzMDUyLDEwMj
-c0MjMwOTcsMjAxNjk4ODg1MywxMjU0NzI3ODg2LDE2ODA3ODM3
-NzRdfQ==
+eyJoaXN0b3J5IjpbNjc3MzIyMTQ4LDY2MjAxMTUsLTU4Nzc5OD
+MxMywxODYwNjU3Nzg1LDQ3ODk3NzkwMiwxMTg5MzU5MDgwLC0x
+MTk2OTM2NzU1LDg3NzA1NTk1NSwtMTAwNTU2OTgyMSwxMDI5Nj
+gzNzE0LDQ4MDI4NzI4LDExODczOTk0NDksLTgxNDc3NzEzOCwt
+OTc4NDEzOTUyLDEwMDA4NzMzODMsMTM0Nzg5MjAwMiwtMTYxNz
+g2MzA1MiwxMDI3NDIzMDk3LDIwMTY5ODg4NTMsMTI1NDcyNzg4
+Nl19
 -->
