@@ -47,7 +47,8 @@ Search Keywords: Vision, Visual, Multimodal
 (SNU, Dataset, Token-level hallucination localization)  
 18. Steering Away from Harm: An Adaptive Approach to Defending Vision Language Model Against Jailbreaks  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Steering_Away_from_Harm_An_Adaptive_Approach_to_Defending_Vision_CVPR_2025_paper.html)  
 (UIUC, Defense jailbreak by steering vectors)  
-19. 
+19. VisionZip: Longer is Better but Not Necessary in Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_VisionZip_Longer_is_Better_but_Not_Necessary_in_Vision_Language_CVPR_2025_paper.html)  
+(CUHK, VLM effiency, )
 
 
 
@@ -302,11 +303,11 @@ Search Keywords: Vision, Visual, Multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MDY1Nzc4NSw0Nzg5Nzc5MDIsMTE4OT
-M1OTA4MCwtMTE5NjkzNjc1NSw4NzcwNTU5NTUsLTEwMDU1Njk4
-MjEsMTAyOTY4MzcxNCw0ODAyODcyOCwxMTg3Mzk5NDQ5LC04MT
-Q3NzcxMzgsLTk3ODQxMzk1MiwxMDAwODczMzgzLDEzNDc4OTIw
-MDIsLTE2MTc4NjMwNTIsMTAyNzQyMzA5NywyMDE2OTg4ODUzLD
-EyNTQ3Mjc4ODYsMTY4MDc4Mzc3NCw4OTQwMzE5NTYsNjQwMzcy
-OTg0XX0=
+eyJoaXN0b3J5IjpbLTE1NDc1NzYzMzcsMTg2MDY1Nzc4NSw0Nz
+g5Nzc5MDIsMTE4OTM1OTA4MCwtMTE5NjkzNjc1NSw4NzcwNTU5
+NTUsLTEwMDU1Njk4MjEsMTAyOTY4MzcxNCw0ODAyODcyOCwxMT
+g3Mzk5NDQ5LC04MTQ3NzcxMzgsLTk3ODQxMzk1MiwxMDAwODcz
+MzgzLDEzNDc4OTIwMDIsLTE2MTc4NjMwNTIsMTAyNzQyMzA5Ny
+wyMDE2OTg4ODUzLDEyNTQ3Mjc4ODYsMTY4MDc4Mzc3NCw4OTQw
+MzE5NTZdfQ==
 -->
