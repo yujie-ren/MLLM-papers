@@ -38,7 +38,7 @@ Search Keywords: Vision, Visual, Multimodal
 13. MotionBench: Benchmarking and Improving Fine-grained Video Motion Understanding for Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Hong_MotionBench_Benchmarking_and_Improving_Fine-grained_Video_Motion_Understanding_for_Vision_CVPR_2025_paper.html)  
 (THU, Benchmarking VLM's fine-grained motion comprehension)  
 14. Video-XL: Extra-Long Vision Language Model for Hour-Scale Video Understanding  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Shu_Video-XL_Extra-Long_Vision_Language_Model_for_Hour-Scale_Video_Understanding_CVPR_2025_paper.html)  
-()
+(SJTU, )
 
 
 
@@ -293,11 +293,11 @@ Search Keywords: Vision, Visual, Multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTkxODgyODEsLTEwMDU1Njk4MjEsMT
-AyOTY4MzcxNCw0ODAyODcyOCwxMTg3Mzk5NDQ5LC04MTQ3Nzcx
-MzgsLTk3ODQxMzk1MiwxMDAwODczMzgzLDEzNDc4OTIwMDIsLT
-E2MTc4NjMwNTIsMTAyNzQyMzA5NywyMDE2OTg4ODUzLDEyNTQ3
-Mjc4ODYsMTY4MDc4Mzc3NCw4OTQwMzE5NTYsNjQwMzcyOTg0LC
-00MzI4MTU1NzAsLTE4MzY5MTIyMzQsLTIxMTI3MDY5MDAsMTE4
-MTIwNTQyMl19
+eyJoaXN0b3J5IjpbODc3MDU1OTU1LC0xMDA1NTY5ODIxLDEwMj
+k2ODM3MTQsNDgwMjg3MjgsMTE4NzM5OTQ0OSwtODE0Nzc3MTM4
+LC05Nzg0MTM5NTIsMTAwMDg3MzM4MywxMzQ3ODkyMDAyLC0xNj
+E3ODYzMDUyLDEwMjc0MjMwOTcsMjAxNjk4ODg1MywxMjU0NzI3
+ODg2LDE2ODA3ODM3NzQsODk0MDMxOTU2LDY0MDM3Mjk4NCwtND
+MyODE1NTcwLC0xODM2OTEyMjM0LC0yMTEyNzA2OTAwLDExODEy
+MDU0MjJdfQ==
 -->
