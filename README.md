@@ -69,7 +69,7 @@ Search Keywords: Vision, Visual, Multimodal
 (Nvidia, Dataset, Extend VLMs’ 2D understanding and reasoning to 3D)  
 29. Your Large Vision-Language Model Only Needs A Few Attention Heads For Visual Grounding  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Kang_Your_Large_Vision-Language_Model_Only_Needs_A_Few_Attention_Heads_CVPR_2025_paper.html)  
 (Yonsei U, VLM for visual grounding)  
-
+[CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models](https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_CoT-VLA_Visual_Chain-of-Thought_Reasoning_for_Vision-Language-Action_Models_CVPR_2025_paper.html)
 
 
 vision language已经检索完了，下一步检索vision-language和multimodal
@@ -324,11 +324,11 @@ vision language已经检索完了，下一步检索vision-language和multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMxMTc0MjExLC00MDk5MTM4MTAsLTE2OT
-IxMzczMywtMTE3NzI1NjM4LC05NDQyODM1ODYsNjYyMDExNSwt
-NTg3Nzk4MzEzLDE4NjA2NTc3ODUsNDc4OTc3OTAyLDExODkzNT
-kwODAsLTExOTY5MzY3NTUsODc3MDU1OTU1LC0xMDA1NTY5ODIx
-LDEwMjk2ODM3MTQsNDgwMjg3MjgsMTE4NzM5OTQ0OSwtODE0Nz
-c3MTM4LC05Nzg0MTM5NTIsMTAwMDg3MzM4MywxMzQ3ODkyMDAy
+eyJoaXN0b3J5IjpbMTY1NjMxNzc3OSw1MzExNzQyMTEsLTQwOT
+kxMzgxMCwtMTY5MjEzNzMzLC0xMTc3MjU2MzgsLTk0NDI4MzU4
+Niw2NjIwMTE1LC01ODc3OTgzMTMsMTg2MDY1Nzc4NSw0Nzg5Nz
+c5MDIsMTE4OTM1OTA4MCwtMTE5NjkzNjc1NSw4NzcwNTU5NTUs
+LTEwMDU1Njk4MjEsMTAyOTY4MzcxNCw0ODAyODcyOCwxMTg3Mz
+k5NDQ5LC04MTQ3NzcxMzgsLTk3ODQxMzk1MiwxMDAwODczMzgz
 XX0=
 -->
