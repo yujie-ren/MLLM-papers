@@ -45,7 +45,7 @@ Search Keywords: Vision, Visual, Multimodal
 (Apple, VLM effiency, Tradeoff between resolution, latency, and accuracy)  
 17. HalLoc: Token-level Localization of Hallucinations for Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Park_HalLoc_Token-level_Localization_of_Hallucinations_for_Vision_Language_Models_CVPR_2025_paper.html)  
 (SNU, Dataset, Token-level hallucination localization)  
-
+18. Steering Away from Harm: An Adaptive Approach to Defending Vision Language Model Against Jailbreaks](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Steering_Away_from_Harm_An_Adaptive_Approach_to_Defending_Vision_CVPR_2025_paper.html)
 
 
 
@@ -300,11 +300,11 @@ Search Keywords: Vision, Visual, Multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc4OTc3OTAyLDExODkzNTkwODAsLTExOT
-Y5MzY3NTUsODc3MDU1OTU1LC0xMDA1NTY5ODIxLDEwMjk2ODM3
-MTQsNDgwMjg3MjgsMTE4NzM5OTQ0OSwtODE0Nzc3MTM4LC05Nz
-g0MTM5NTIsMTAwMDg3MzM4MywxMzQ3ODkyMDAyLC0xNjE3ODYz
-MDUyLDEwMjc0MjMwOTcsMjAxNjk4ODg1MywxMjU0NzI3ODg2LD
-E2ODA3ODM3NzQsODk0MDMxOTU2LDY0MDM3Mjk4NCwtNDMyODE1
-NTcwXX0=
+eyJoaXN0b3J5IjpbLTI3NTc1NjU3MCw0Nzg5Nzc5MDIsMTE4OT
+M1OTA4MCwtMTE5NjkzNjc1NSw4NzcwNTU5NTUsLTEwMDU1Njk4
+MjEsMTAyOTY4MzcxNCw0ODAyODcyOCwxMTg3Mzk5NDQ5LC04MT
+Q3NzcxMzgsLTk3ODQxMzk1MiwxMDAwODczMzgzLDEzNDc4OTIw
+MDIsLTE2MTc4NjMwNTIsMTAyNzQyMzA5NywyMDE2OTg4ODUzLD
+EyNTQ3Mjc4ODYsMTY4MDc4Mzc3NCw4OTQwMzE5NTYsNjQwMzcy
+OTg0XX0=
 -->
