@@ -19,7 +19,8 @@ Search Keywords: Vision, Visual, Multimodal
 4. Evaluating Vision-Language Models as Evaluators in Path Planning  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Aghzal_Evaluating_Vision-Language_Models_as_Evaluators_in_Path_Planning_CVPR_2025_paper.html)  
 (George Mason U, Benchmark)  
 5. Img-Diff: Contrastive Data Synthesis for Multimodal Large Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Jiao_Img-Diff_Contrastive_Data_Synthesis_for_Multimodal_Large_Language_Models_CVPR_2025_paper.html)  
-(SYU, Synthesize training data for VLM, )  
+(SYU, Synthesize training data for VLM, Object replacement)  
+
 
 
 
@@ -270,11 +271,11 @@ Search Keywords: Vision, Visual, Multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI4Njc0MTUyLDEzNDc4OTIwMDIsLTE2MT
-c4NjMwNTIsMTAyNzQyMzA5NywyMDE2OTg4ODUzLDEyNTQ3Mjc4
-ODYsMTY4MDc4Mzc3NCw4OTQwMzE5NTYsNjQwMzcyOTg0LC00Mz
-I4MTU1NzAsLTE4MzY5MTIyMzQsLTIxMTI3MDY5MDAsMTE4MTIw
-NTQyMiwxMzQzNTc0ODc2LC0yMDg4OTk1MTcsMTIwMzExNzE4OC
-wtNTQxOTUwOTQxLDEyNjcxOTAyODUsMTgyOTY5MDg4NiwtMTY4
-NzQ1MjU0NF19
+eyJoaXN0b3J5IjpbMTAwMDg3MzM4MywxMzQ3ODkyMDAyLC0xNj
+E3ODYzMDUyLDEwMjc0MjMwOTcsMjAxNjk4ODg1MywxMjU0NzI3
+ODg2LDE2ODA3ODM3NzQsODk0MDMxOTU2LDY0MDM3Mjk4NCwtND
+MyODE1NTcwLC0xODM2OTEyMjM0LC0yMTEyNzA2OTAwLDExODEy
+MDU0MjIsMTM0MzU3NDg3NiwtMjA4ODk5NTE3LDEyMDMxMTcxOD
+gsLTU0MTk1MDk0MSwxMjY3MTkwMjg1LDE4Mjk2OTA4ODYsLTE2
+ODc0NTI1NDRdfQ==
 -->
