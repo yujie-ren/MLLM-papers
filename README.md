@@ -31,7 +31,12 @@ Search Keywords: Vision, Visual, Multimodal
 (Weizmann Institute of Science, VLM interpretability, How VLM process visual information)  
 10. PARC: A Quantitative Framework Uncovering the Symmetries within Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Schmalfuss_PARC_A_Quantitative_Framework_Uncovering_the_Symmetries_within_Vision_Language_CVPR_2025_paper.html)  
 (U of Stuttgart, Analysing prompt sensitivity of VLMs)  
-11. 
+11. Forensics-Bench: A Comprehensive Forgery Detection Benchmark Suite for Large Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Forensics-Bench_A_Comprehensive_Forgery_Detection_Benchmark_Suite_for_Large_Vision_CVPR_2025_paper.html)  
+(Benchmark, )
+
+
+
+
 
 
 
@@ -282,11 +287,11 @@ Search Keywords: Vision, Visual, Multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyOTY4MzcxNCw0ODAyODcyOCwxMTg3Mz
-k5NDQ5LC04MTQ3NzcxMzgsLTk3ODQxMzk1MiwxMDAwODczMzgz
-LDEzNDc4OTIwMDIsLTE2MTc4NjMwNTIsMTAyNzQyMzA5NywyMD
-E2OTg4ODUzLDEyNTQ3Mjc4ODYsMTY4MDc4Mzc3NCw4OTQwMzE5
-NTYsNjQwMzcyOTg0LC00MzI4MTU1NzAsLTE4MzY5MTIyMzQsLT
-IxMTI3MDY5MDAsMTE4MTIwNTQyMiwxMzQzNTc0ODc2LC0yMDg4
-OTk1MTddfQ==
+eyJoaXN0b3J5IjpbLTEyNTUyOTE4NzAsMTAyOTY4MzcxNCw0OD
+AyODcyOCwxMTg3Mzk5NDQ5LC04MTQ3NzcxMzgsLTk3ODQxMzk1
+MiwxMDAwODczMzgzLDEzNDc4OTIwMDIsLTE2MTc4NjMwNTIsMT
+AyNzQyMzA5NywyMDE2OTg4ODUzLDEyNTQ3Mjc4ODYsMTY4MDc4
+Mzc3NCw4OTQwMzE5NTYsNjQwMzcyOTg0LC00MzI4MTU1NzAsLT
+E4MzY5MTIyMzQsLTIxMTI3MDY5MDAsMTE4MTIwNTQyMiwxMzQz
+NTc0ODc2XX0=
 -->
