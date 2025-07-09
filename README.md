@@ -1,15 +1,14 @@
 ## Vision Language Model Papers
 Search Keywords: Vision, Visual, Multimodal
 
-
 ## Contents
 - 2025
-  - [Other](#other)
+  - [CVPR-202506](#cvpr-202506)
   - [ICML-202507](#icml-202507)
   - [ICLR-202504](#iclr-202504)
   - [NAACL-202504](#naacl-202504)
 
-## Other
+## CVPR-202506
 
 ## ICML-202507
 [All Papers](https://openreview.net/group?id=ICML.cc/2025/Conference#tab-accept-oral)
@@ -257,7 +256,7 @@ Search Keywords: Vision, Visual, Multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MzA4NTQ3MiwxNjgwNzgzNzc0LDg5ND
+eyJoaXN0b3J5IjpbMTQ2NDg3NTY0OSwxNjgwNzgzNzc0LDg5ND
 AzMTk1Niw2NDAzNzI5ODQsLTQzMjgxNTU3MCwtMTgzNjkxMjIz
 NCwtMjExMjcwNjkwMCwxMTgxMjA1NDIyLDEzNDM1NzQ4NzYsLT
 IwODg5OTUxNywxMjAzMTE3MTg4LC01NDE5NTA5NDEsMTI2NzE5
