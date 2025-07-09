@@ -61,7 +61,7 @@ Search Keywords: Vision, Visual, Multimodal
 (RutgersU, Visual token pruning)
 25. Towards Understanding How Knowledge Evolves in Large Vision-Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Towards_Understanding_How_Knowledge_Evolves_in_Large_Vision-Language_Models_CVPR_2025_paper.html)  
 (⭐️⭐️CAS, Knowledge evolving in VLM)  
-
+[Revisiting Backdoor Attacks against Large Vision-Language Models from Domain Shift](https://openaccess.thecvf.com/content/CVPR2025/html/Liang_Revisiting_Backdoor_Attacks_against_Large_Vision-Language_Models_from_Domain_Shift_CVPR_2025_paper.html)
 
 
 vision language已经检索完了，下一步检索vision-language和multimodal
@@ -316,11 +316,11 @@ vision language已经检索完了，下一步检索vision-language和multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzcyNTYzOCwtOTQ0MjgzNTg2LDY2Mj
-AxMTUsLTU4Nzc5ODMxMywxODYwNjU3Nzg1LDQ3ODk3NzkwMiwx
-MTg5MzU5MDgwLC0xMTk2OTM2NzU1LDg3NzA1NTk1NSwtMTAwNT
-U2OTgyMSwxMDI5NjgzNzE0LDQ4MDI4NzI4LDExODczOTk0NDks
-LTgxNDc3NzEzOCwtOTc4NDEzOTUyLDEwMDA4NzMzODMsMTM0Nz
-g5MjAwMiwtMTYxNzg2MzA1MiwxMDI3NDIzMDk3LDIwMTY5ODg4
-NTNdfQ==
+eyJoaXN0b3J5IjpbNDIwMDI2MjAsLTExNzcyNTYzOCwtOTQ0Mj
+gzNTg2LDY2MjAxMTUsLTU4Nzc5ODMxMywxODYwNjU3Nzg1LDQ3
+ODk3NzkwMiwxMTg5MzU5MDgwLC0xMTk2OTM2NzU1LDg3NzA1NT
+k1NSwtMTAwNTU2OTgyMSwxMDI5NjgzNzE0LDQ4MDI4NzI4LDEx
+ODczOTk0NDksLTgxNDc3NzEzOCwtOTc4NDEzOTUyLDEwMDA4Nz
+MzODMsMTM0Nzg5MjAwMiwtMTYxNzg2MzA1MiwxMDI3NDIzMDk3
+XX0=
 -->
