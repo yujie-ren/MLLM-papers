@@ -48,7 +48,8 @@ Search Keywords: Vision, Visual, Multimodal
 18. Steering Away from Harm: An Adaptive Approach to Defending Vision Language Model Against Jailbreaks  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Steering_Away_from_Harm_An_Adaptive_Approach_to_Defending_Vision_CVPR_2025_paper.html)  
 (UIUC, Defense jailbreak by steering vectors)  
 19. VisionZip: Longer is Better but Not Necessary in Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_VisionZip_Longer_is_Better_but_Not_Necessary_in_Vision_Language_CVPR_2025_paper.html)  
-(CUHK, VLM effiency, )
+(CUHK, VLM effiency, Reducing visual tokens)  
+
 
 
 
@@ -303,11 +304,11 @@ Search Keywords: Vision, Visual, Multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDc1NzYzMzcsMTg2MDY1Nzc4NSw0Nz
-g5Nzc5MDIsMTE4OTM1OTA4MCwtMTE5NjkzNjc1NSw4NzcwNTU5
-NTUsLTEwMDU1Njk4MjEsMTAyOTY4MzcxNCw0ODAyODcyOCwxMT
-g3Mzk5NDQ5LC04MTQ3NzcxMzgsLTk3ODQxMzk1MiwxMDAwODcz
-MzgzLDEzNDc4OTIwMDIsLTE2MTc4NjMwNTIsMTAyNzQyMzA5Ny
-wyMDE2OTg4ODUzLDEyNTQ3Mjc4ODYsMTY4MDc4Mzc3NCw4OTQw
-MzE5NTZdfQ==
+eyJoaXN0b3J5IjpbNjc5NDgwNDQyLDE4NjA2NTc3ODUsNDc4OT
+c3OTAyLDExODkzNTkwODAsLTExOTY5MzY3NTUsODc3MDU1OTU1
+LC0xMDA1NTY5ODIxLDEwMjk2ODM3MTQsNDgwMjg3MjgsMTE4Nz
+M5OTQ0OSwtODE0Nzc3MTM4LC05Nzg0MTM5NTIsMTAwMDg3MzM4
+MywxMzQ3ODkyMDAyLC0xNjE3ODYzMDUyLDEwMjc0MjMwOTcsMj
+AxNjk4ODg1MywxMjU0NzI3ODg2LDE2ODA3ODM3NzQsODk0MDMx
+OTU2XX0=
 -->
