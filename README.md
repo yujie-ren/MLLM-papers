@@ -32,7 +32,8 @@ Search Keywords: Vision, Visual, Multimodal
 10. PARC: A Quantitative Framework Uncovering the Symmetries within Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Schmalfuss_PARC_A_Quantitative_Framework_Uncovering_the_Symmetries_within_Vision_Language_CVPR_2025_paper.html)  
 (U of Stuttgart, Analysing prompt sensitivity of VLMs)  
 11. Forensics-Bench: A Comprehensive Forgery Detection Benchmark Suite for Large Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Forensics-Bench_A_Comprehensive_Forgery_Detection_Benchmark_Suite_for_Large_Vision_CVPR_2025_paper.html)  
-(Benchmark, )
+(HKU, Benchmark, Assess VLM's capability in forgery detection)  
+
 
 
 
@@ -287,7 +288,7 @@ Search Keywords: Vision, Visual, Multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTUyOTE4NzAsMTAyOTY4MzcxNCw0OD
+eyJoaXN0b3J5IjpbLTE2MTE0NzM0MTUsMTAyOTY4MzcxNCw0OD
 AyODcyOCwxMTg3Mzk5NDQ5LC04MTQ3NzcxMzgsLTk3ODQxMzk1
 MiwxMDAwODczMzgzLDEzNDc4OTIwMDIsLTE2MTc4NjMwNTIsMT
 AyNzQyMzA5NywyMDE2OTg4ODUzLDEyNTQ3Mjc4ODYsMTY4MDc4
