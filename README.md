@@ -68,7 +68,8 @@ Search Keywords: Vision, Visual, Multimodal
 28. OmniDrive: A Holistic Vision-Language Dataset for Autonomous Driving with Counterfactual Reasoning  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_OmniDrive_A_Holistic_Vision-Language_Dataset_for_Autonomous_Driving_with_Counterfactual_CVPR_2025_paper.html)  
 (Nvidia, Dataset, Extend VLMs’ 2D understanding and reasoning to 3D)  
 29. Your Large Vision-Language Model Only Needs A Few Attention Heads For Visual Grounding  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Kang_Your_Large_Vision-Language_Model_Only_Needs_A_Few_Attention_Heads_CVPR_2025_paper.html)  
-()
+(Yonsei U, VLM for visual grounding)  
+
 
 
 vision language已经检索完了，下一步检索vision-language和multimodal
@@ -323,11 +324,11 @@ vision language已经检索完了，下一步检索vision-language和multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjU0NTQzMTYsLTQwOTkxMzgxMCwtMT
-Y5MjEzNzMzLC0xMTc3MjU2MzgsLTk0NDI4MzU4Niw2NjIwMTE1
-LC01ODc3OTgzMTMsMTg2MDY1Nzc4NSw0Nzg5Nzc5MDIsMTE4OT
-M1OTA4MCwtMTE5NjkzNjc1NSw4NzcwNTU5NTUsLTEwMDU1Njk4
-MjEsMTAyOTY4MzcxNCw0ODAyODcyOCwxMTg3Mzk5NDQ5LC04MT
-Q3NzcxMzgsLTk3ODQxMzk1MiwxMDAwODczMzgzLDEzNDc4OTIw
-MDJdfQ==
+eyJoaXN0b3J5IjpbNTMxMTc0MjExLC00MDk5MTM4MTAsLTE2OT
+IxMzczMywtMTE3NzI1NjM4LC05NDQyODM1ODYsNjYyMDExNSwt
+NTg3Nzk4MzEzLDE4NjA2NTc3ODUsNDc4OTc3OTAyLDExODkzNT
+kwODAsLTExOTY5MzY3NTUsODc3MDU1OTU1LC0xMDA1NTY5ODIx
+LDEwMjk2ODM3MTQsNDgwMjg3MjgsMTE4NzM5OTQ0OSwtODE0Nz
+c3MTM4LC05Nzg0MTM5NTIsMTAwMDg3MzM4MywxMzQ3ODkyMDAy
+XX0=
 -->
