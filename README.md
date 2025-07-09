@@ -17,7 +17,8 @@ Search Keywords: Vision, Visual, Multimodal
 3. Words or Vision: Do Vision-Language Models Have Blind Faith in Text?  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Deng_Words_or_Vision_Do_Vision-Language_Models_Have_Blind_Faith_in_CVPR_2025_paper.html)  
 (⭐️NUS, Modality conflict, Blind faith in text)  
 4. Evaluating Vision-Language Models as Evaluators in Path Planning  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Aghzal_Evaluating_Vision-Language_Models_as_Evaluators_in_Path_Planning_CVPR_2025_paper.html)  
-(George Mason U, )
+(George Mason U, Benchmark)  
+
 
 
 
@@ -267,7 +268,7 @@ Search Keywords: Vision, Visual, Multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NTM5MDE4MywtMTYxNzg2MzA1MiwxMD
+eyJoaXN0b3J5IjpbMTM0Nzg5MjAwMiwtMTYxNzg2MzA1MiwxMD
 I3NDIzMDk3LDIwMTY5ODg4NTMsMTI1NDcyNzg4NiwxNjgwNzgz
 Nzc0LDg5NDAzMTk1Niw2NDAzNzI5ODQsLTQzMjgxNTU3MCwtMT
 gzNjkxMjIzNCwtMjExMjcwNjkwMCwxMTgxMjA1NDIyLDEzNDM1
