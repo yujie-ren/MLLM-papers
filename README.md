@@ -10,19 +10,18 @@ Search Keywords: Vision, Visual, Multimodal
 
 ## CVPR-202506
 [All Papers](https://openaccess.thecvf.com/CVPR2025?day=all)
-
-
-
-## ICML-202507
-[All Papers](https://openreview.net/group?id=ICML.cc/2025/Conference#tab-accept-oral)
 1. CALICO: Part-Focused Semantic Co-Segmentation with Large Vision-Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Nguyen_CALICO_Part-Focused_Semantic_Co-Segmentation_with_Large_Vision-Language_Models_CVPR_2025_paper.html)  
 (UIUC, Make VLMs identify common objects across multiple images)  
 2. Task Preference Optimization: Improving Multimodal Large Language Models with Vision Task Alignment  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Yan_Task_Preference_Optimization_Improving_Multimodal_Large_Language_Models_with_Vision_CVPR_2025_paper.html)  
 (Shanghai AI Lab, A new training method for VLM)  
 3. Words or Vision: Do Vision-Language Models Have Blind Faith in Text?  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Deng_Words_or_Vision_Do_Vision-Language_Models_Have_Blind_Faith_in_CVPR_2025_paper.html)  
-(NUS, )
+(⭐️NUS, )
 
 
+
+
+## ICML-202507
+[All Papers](https://openreview.net/group?id=ICML.cc/2025/Conference#tab-accept-oral)
 #### MLLM
 1. EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents  [[pdf]](https://openreview.net/forum?id=DgGF2LEBPS)  
 (UIUC, Benchmark, MLLM, Agent)
@@ -266,11 +265,11 @@ Search Keywords: Vision, Visual, Multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYxNDUyMzgsMTAyNzQyMzA5NywyMDE2OT
-g4ODUzLDEyNTQ3Mjc4ODYsMTY4MDc4Mzc3NCw4OTQwMzE5NTYs
-NjQwMzcyOTg0LC00MzI4MTU1NzAsLTE4MzY5MTIyMzQsLTIxMT
-I3MDY5MDAsMTE4MTIwNTQyMiwxMzQzNTc0ODc2LC0yMDg4OTk1
-MTcsMTIwMzExNzE4OCwtNTQxOTUwOTQxLDEyNjcxOTAyODUsMT
-gyOTY5MDg4NiwtMTY4NzQ1MjU0NCwtMTc2MTA1MTExMSwtOTEw
-Njc4MjExXX0=
+eyJoaXN0b3J5IjpbLTEzMDg0NzUxNzksMTAyNzQyMzA5NywyMD
+E2OTg4ODUzLDEyNTQ3Mjc4ODYsMTY4MDc4Mzc3NCw4OTQwMzE5
+NTYsNjQwMzcyOTg0LC00MzI4MTU1NzAsLTE4MzY5MTIyMzQsLT
+IxMTI3MDY5MDAsMTE4MTIwNTQyMiwxMzQzNTc0ODc2LC0yMDg4
+OTk1MTcsMTIwMzExNzE4OCwtNTQxOTUwOTQxLDEyNjcxOTAyOD
+UsMTgyOTY5MDg4NiwtMTY4NzQ1MjU0NCwtMTc2MTA1MTExMSwt
+OTEwNjc4MjExXX0=
 -->
