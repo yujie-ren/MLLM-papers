@@ -64,7 +64,8 @@ Search Keywords: Vision, Visual, Multimodal
 26. Revisiting Backdoor Attacks against Large Vision-Language Models from Domain Shift  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Liang_Revisiting_Backdoor_Attacks_against_Large_Vision-Language_Models_from_Domain_Shift_CVPR_2025_paper.html)  
 (NTU, Backdoor attack for VLM)  
 27. Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Deitke_Molmo_and_PixMo_Open_Weights_and_Open_Data_for_State-of-the-Art_CVPR_2025_paper.html)  
-()
+(AI2, Open source Molmo)  
+
 
 
 vision language已经检索完了，下一步检索vision-language和multimodal
@@ -319,7 +320,7 @@ vision language已经检索完了，下一步检索vision-language和multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NjY3NjAyNywtMTY5MjEzNzMzLC0xMT
+eyJoaXN0b3J5IjpbLTQwOTkxMzgxMCwtMTY5MjEzNzMzLC0xMT
 c3MjU2MzgsLTk0NDI4MzU4Niw2NjIwMTE1LC01ODc3OTgzMTMs
 MTg2MDY1Nzc4NSw0Nzg5Nzc5MDIsMTE4OTM1OTA4MCwtMTE5Nj
 kzNjc1NSw4NzcwNTU5NTUsLTEwMDU1Njk4MjEsMTAyOTY4Mzcx
