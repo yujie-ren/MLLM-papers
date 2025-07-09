@@ -50,7 +50,8 @@ Search Keywords: Vision, Visual, Multimodal
 19. VisionZip: Longer is Better but Not Necessary in Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_VisionZip_Longer_is_Better_but_Not_Necessary_in_Vision_Language_CVPR_2025_paper.html)  
 (CUHK, VLM effiency, Reducing visual tokens)  
 20. Automated Generation of Challenging Multiple-Choice Questions for Vision Language Model Evaluation  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Automated_Generation_of_Challenging_Multiple-Choice_Questions_for_Vision_Language_Model_CVPR_2025_paper.html)  
-(Standford, )
+(Standford, Agentic framework converting open-ended questions into multiple-choice format)  
+21. 
 
 
 
@@ -305,7 +306,7 @@ Search Keywords: Vision, Visual, Multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3Njk4NjcxMywxODYwNjU3Nzg1LDQ3OD
+eyJoaXN0b3J5IjpbLTE0OTQ1NDAwNSwxODYwNjU3Nzg1LDQ3OD
 k3NzkwMiwxMTg5MzU5MDgwLC0xMTk2OTM2NzU1LDg3NzA1NTk1
 NSwtMTAwNTU2OTgyMSwxMDI5NjgzNzE0LDQ4MDI4NzI4LDExOD
 czOTk0NDksLTgxNDc3NzEzOCwtOTc4NDEzOTUyLDEwMDA4NzMz
