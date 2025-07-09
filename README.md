@@ -65,7 +65,7 @@ Search Keywords: Vision, Visual, Multimodal
 (NTU, Backdoor attack for VLM)  
 27. Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Deitke_Molmo_and_PixMo_Open_Weights_and_Open_Data_for_State-of-the-Art_CVPR_2025_paper.html)  
 (AI2, Open source Molmo)  
-
+2OmniDrive: A Holistic Vision-Language Dataset for Autonomous Driving with Counterfactual Reasoning](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_OmniDrive_A_Holistic_Vision-Language_Dataset_for_Autonomous_Driving_with_Counterfactual_CVPR_2025_paper.html)
 
 
 vision language已经检索完了，下一步检索vision-language和multimodal
@@ -320,11 +320,11 @@ vision language已经检索完了，下一步检索vision-language和multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwOTkxMzgxMCwtMTY5MjEzNzMzLC0xMT
-c3MjU2MzgsLTk0NDI4MzU4Niw2NjIwMTE1LC01ODc3OTgzMTMs
-MTg2MDY1Nzc4NSw0Nzg5Nzc5MDIsMTE4OTM1OTA4MCwtMTE5Nj
-kzNjc1NSw4NzcwNTU5NTUsLTEwMDU1Njk4MjEsMTAyOTY4Mzcx
-NCw0ODAyODcyOCwxMTg3Mzk5NDQ5LC04MTQ3NzcxMzgsLTk3OD
-QxMzk1MiwxMDAwODczMzgzLDEzNDc4OTIwMDIsLTE2MTc4NjMw
-NTJdfQ==
+eyJoaXN0b3J5IjpbMjEzNzU4MjYzMSwtNDA5OTEzODEwLC0xNj
+kyMTM3MzMsLTExNzcyNTYzOCwtOTQ0MjgzNTg2LDY2MjAxMTUs
+LTU4Nzc5ODMxMywxODYwNjU3Nzg1LDQ3ODk3NzkwMiwxMTg5Mz
+U5MDgwLC0xMTk2OTM2NzU1LDg3NzA1NTk1NSwtMTAwNTU2OTgy
+MSwxMDI5NjgzNzE0LDQ4MDI4NzI4LDExODczOTk0NDksLTgxND
+c3NzEzOCwtOTc4NDEzOTUyLDEwMDA4NzMzODMsMTM0Nzg5MjAw
+Ml19
 -->
