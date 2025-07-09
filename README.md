@@ -17,7 +17,7 @@ Search Keywords: Vision, Visual, Multimodal
 [All Papers](https://openreview.net/group?id=ICML.cc/2025/Conference#tab-accept-oral)
 1. CALICO: Part-Focused Semantic Co-Segmentation with Large Vision-Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Nguyen_CALICO_Part-Focused_Semantic_Co-Segmentation_with_Large_Vision-Language_Models_CVPR_2025_paper.html)  
 (UIUC, Make VLMs identify common objects across multiple images)  
-2. 
+2. [Task Preference Optimization: Improving Multimodal Large Language Models with Vision Task Alignment  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Yan_Task_Preference_Optimization_Improving_Multimodal_Large_Language_Models_with_Vision_CVPR_2025_paper.html)
 
 
 #### MLLM
@@ -263,11 +263,11 @@ Search Keywords: Vision, Visual, Multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNjk4ODg1MywxMjU0NzI3ODg2LDE2OD
-A3ODM3NzQsODk0MDMxOTU2LDY0MDM3Mjk4NCwtNDMyODE1NTcw
-LC0xODM2OTEyMjM0LC0yMTEyNzA2OTAwLDExODEyMDU0MjIsMT
-M0MzU3NDg3NiwtMjA4ODk5NTE3LDEyMDMxMTcxODgsLTU0MTk1
-MDk0MSwxMjY3MTkwMjg1LDE4Mjk2OTA4ODYsLTE2ODc0NTI1ND
-QsLTE3NjEwNTExMTEsLTkxMDY3ODIxMSwtMzkzMDE2NDEyLC0x
-MTQ2MzYzMTQ2XX0=
+eyJoaXN0b3J5IjpbLTIwNjgwODEzNTMsMjAxNjk4ODg1MywxMj
+U0NzI3ODg2LDE2ODA3ODM3NzQsODk0MDMxOTU2LDY0MDM3Mjk4
+NCwtNDMyODE1NTcwLC0xODM2OTEyMjM0LC0yMTEyNzA2OTAwLD
+ExODEyMDU0MjIsMTM0MzU3NDg3NiwtMjA4ODk5NTE3LDEyMDMx
+MTcxODgsLTU0MTk1MDk0MSwxMjY3MTkwMjg1LDE4Mjk2OTA4OD
+YsLTE2ODc0NTI1NDQsLTE3NjEwNTExMTEsLTkxMDY3ODIxMSwt
+MzkzMDE2NDEyXX0=
 -->
