@@ -36,7 +36,8 @@ Search Keywords: Vision, Visual, Multimodal
 12. Embodied Scene Understanding for Vision Language Models via MetaVQA  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Embodied_Scene_Understanding_for_Vision_Language_Models_via_MetaVQA_CVPR_2025_paper.html)  
 (UCLA, Benchmark, Assess VLM's spatial reasoning and sequential decision-making capabilities)  
 13. MotionBench: Benchmarking and Improving Fine-grained Video Motion Understanding for Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Hong_MotionBench_Benchmarking_and_Improving_Fine-grained_Video_Motion_Understanding_for_Vision_CVPR_2025_paper.html)  
-(THU, )
+(THU, Benchmarking VLM's fine-grained motion comprehension)  
+14. 
 
 
 
@@ -291,11 +292,11 @@ Search Keywords: Vision, Visual, Multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTY4MjY2ODYsLTEwMDU1Njk4MjEsMT
-AyOTY4MzcxNCw0ODAyODcyOCwxMTg3Mzk5NDQ5LC04MTQ3Nzcx
-MzgsLTk3ODQxMzk1MiwxMDAwODczMzgzLDEzNDc4OTIwMDIsLT
-E2MTc4NjMwNTIsMTAyNzQyMzA5NywyMDE2OTg4ODUzLDEyNTQ3
-Mjc4ODYsMTY4MDc4Mzc3NCw4OTQwMzE5NTYsNjQwMzcyOTg0LC
-00MzI4MTU1NzAsLTE4MzY5MTIyMzQsLTIxMTI3MDY5MDAsMTE4
-MTIwNTQyMl19
+eyJoaXN0b3J5IjpbLTc1MDk5MDc5NCwtMTAwNTU2OTgyMSwxMD
+I5NjgzNzE0LDQ4MDI4NzI4LDExODczOTk0NDksLTgxNDc3NzEz
+OCwtOTc4NDEzOTUyLDEwMDA4NzMzODMsMTM0Nzg5MjAwMiwtMT
+YxNzg2MzA1MiwxMDI3NDIzMDk3LDIwMTY5ODg4NTMsMTI1NDcy
+Nzg4NiwxNjgwNzgzNzc0LDg5NDAzMTk1Niw2NDAzNzI5ODQsLT
+QzMjgxNTU3MCwtMTgzNjkxMjIzNCwtMjExMjcwNjkwMCwxMTgx
+MjA1NDIyXX0=
 -->
