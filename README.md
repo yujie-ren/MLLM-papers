@@ -35,7 +35,8 @@ Search Keywords: Vision, Visual, Multimodal
 (HKU, Benchmark, Assess VLM's capability in forgery detection)  
 12. Embodied Scene Understanding for Vision Language Models via MetaVQA  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Embodied_Scene_Understanding_for_Vision_Language_Models_via_MetaVQA_CVPR_2025_paper.html)  
 (UCLA, Benchmark, Assess VLM's spatial reasoning and sequential decision-making capabilities)  
-
+13. MotionBench: Benchmarking and Improving Fine-grained Video Motion Understanding for Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Hong_MotionBench_Benchmarking_and_Improving_Fine-grained_Video_Motion_Understanding_for_Vision_CVPR_2025_paper.html)  
+()
 
 
 
@@ -290,11 +291,11 @@ Search Keywords: Vision, Visual, Multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDU1Njk4MjEsMTAyOTY4MzcxNCw0OD
-AyODcyOCwxMTg3Mzk5NDQ5LC04MTQ3NzcxMzgsLTk3ODQxMzk1
-MiwxMDAwODczMzgzLDEzNDc4OTIwMDIsLTE2MTc4NjMwNTIsMT
-AyNzQyMzA5NywyMDE2OTg4ODUzLDEyNTQ3Mjc4ODYsMTY4MDc4
-Mzc3NCw4OTQwMzE5NTYsNjQwMzcyOTg0LC00MzI4MTU1NzAsLT
-E4MzY5MTIyMzQsLTIxMTI3MDY5MDAsMTE4MTIwNTQyMiwxMzQz
-NTc0ODc2XX0=
+eyJoaXN0b3J5IjpbNTExNzI5MzczLC0xMDA1NTY5ODIxLDEwMj
+k2ODM3MTQsNDgwMjg3MjgsMTE4NzM5OTQ0OSwtODE0Nzc3MTM4
+LC05Nzg0MTM5NTIsMTAwMDg3MzM4MywxMzQ3ODkyMDAyLC0xNj
+E3ODYzMDUyLDEwMjc0MjMwOTcsMjAxNjk4ODg1MywxMjU0NzI3
+ODg2LDE2ODA3ODM3NzQsODk0MDMxOTU2LDY0MDM3Mjk4NCwtND
+MyODE1NTcwLC0xODM2OTEyMjM0LC0yMTEyNzA2OTAwLDExODEy
+MDU0MjJdfQ==
 -->
