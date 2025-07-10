@@ -71,7 +71,7 @@ Search Keywords: Vision, Visual, Multimodal
 (Yonsei U, VLM for visual grounding)  
 30. CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_CoT-VLA_Visual_Chain-of-Thought_Reasoning_for_Vision-Language-Action_Models_CVPR_2025_paper.html)  
 (NVIDIA, Visual CoT for VLM)  
-31. 
+31. Vision-Language Gradient Descent-driven All-in-One Deep Unfolding Networks](https://openaccess.thecvf.com/content/CVPR2025/html/Zeng_Vision-Language_Gradient_Descent-driven_All-in-One_Deep_Unfolding_Networks_CVPR_2025_paper.html)
 
 检索vision-language和multimodal，从这篇开始
 
@@ -324,11 +324,11 @@ Search Keywords: Vision, Visual, Multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0Njk1MjU2NCwyMTAzMTIzMzEsNTMxMT
-c0MjExLC00MDk5MTM4MTAsLTE2OTIxMzczMywtMTE3NzI1NjM4
-LC05NDQyODM1ODYsNjYyMDExNSwtNTg3Nzk4MzEzLDE4NjA2NT
-c3ODUsNDc4OTc3OTAyLDExODkzNTkwODAsLTExOTY5MzY3NTUs
-ODc3MDU1OTU1LC0xMDA1NTY5ODIxLDEwMjk2ODM3MTQsNDgwMj
-g3MjgsMTE4NzM5OTQ0OSwtODE0Nzc3MTM4LC05Nzg0MTM5NTJd
-fQ==
+eyJoaXN0b3J5IjpbLTExMDk3MTcwNTMsMTc0Njk1MjU2NCwyMT
+AzMTIzMzEsNTMxMTc0MjExLC00MDk5MTM4MTAsLTE2OTIxMzcz
+MywtMTE3NzI1NjM4LC05NDQyODM1ODYsNjYyMDExNSwtNTg3Nz
+k4MzEzLDE4NjA2NTc3ODUsNDc4OTc3OTAyLDExODkzNTkwODAs
+LTExOTY5MzY3NTUsODc3MDU1OTU1LC0xMDA1NTY5ODIxLDEwMj
+k2ODM3MTQsNDgwMjg3MjgsMTE4NzM5OTQ0OSwtODE0Nzc3MTM4
+XX0=
 -->
