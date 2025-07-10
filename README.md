@@ -75,7 +75,8 @@ Search Keywords: Vision, Visual, Multimodal
 (SK Telecom, Distill VLM to light NN for image classification)  
 32. Libra-Merging: Importance-redundancy and Pruning-merging Trade-off for Acceleration Plug-in in Large Vision-Language Model  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_Libra-Merging_Importance-redundancy_and_Pruning-merging_Trade-off_for_Acceleration_Plug-in_in_Large_CVPR_2025_paper.html)  
 (ZJU, VLM effiency, Visual token pruning)  
-
+33. Nullu: Mitigating Object Hallucinations in Large Vision-Language Models via HalluSpace Projection  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_Nullu_Mitigating_Object_Hallucinations_in_Large_Vision-Language_Models_via_HalluSpace_CVPR_2025_paper.html)  
+()
 
 检索vision-language和multimodal，从这篇开始
 
@@ -328,11 +329,11 @@ Search Keywords: Vision, Visual, Multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjE2NDQ5NzQsLTM5NjE0MDI0NywxNz
-Q2OTUyNTY0LDIxMDMxMjMzMSw1MzExNzQyMTEsLTQwOTkxMzgx
-MCwtMTY5MjEzNzMzLC0xMTc3MjU2MzgsLTk0NDI4MzU4Niw2Nj
-IwMTE1LC01ODc3OTgzMTMsMTg2MDY1Nzc4NSw0Nzg5Nzc5MDIs
-MTE4OTM1OTA4MCwtMTE5NjkzNjc1NSw4NzcwNTU5NTUsLTEwMD
-U1Njk4MjEsMTAyOTY4MzcxNCw0ODAyODcyOCwxMTg3Mzk5NDQ5
+eyJoaXN0b3J5IjpbMTI4MzAyNTk0MCwtMTAyMTY0NDk3NCwtMz
+k2MTQwMjQ3LDE3NDY5NTI1NjQsMjEwMzEyMzMxLDUzMTE3NDIx
+MSwtNDA5OTEzODEwLC0xNjkyMTM3MzMsLTExNzcyNTYzOCwtOT
+Q0MjgzNTg2LDY2MjAxMTUsLTU4Nzc5ODMxMywxODYwNjU3Nzg1
+LDQ3ODk3NzkwMiwxMTg5MzU5MDgwLC0xMTk2OTM2NzU1LDg3Nz
+A1NTk1NSwtMTAwNTU2OTgyMSwxMDI5NjgzNzE0LDQ4MDI4NzI4
 XX0=
 -->
