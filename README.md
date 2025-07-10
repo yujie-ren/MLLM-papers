@@ -88,7 +88,8 @@ Search Keywords: Vision, Visual, Multimodal
 38. MBQ: Modality-Balanced Quantization for Large Vision-Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Li_MBQ_Modality-Balanced_Quantization_for_Large_Vision-Language_Models_CVPR_2025_paper.html)  
 (THU, Quantization for VLM)  
 39. Florence-VL: Enhancing Vision-Language Models with Generative Vision Encoder and Depth-Breadth Fusion  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Florence-VL_Enhancing_Vision-Language_Models_with_Generative_Vision_Encoder_and_Depth-Breadth_CVPR_2025_paper.html)  
-(Uo )
+(Uo Maryland, New family of VLMs)  
+
 
 检索vision-language和multimodal，从这篇开始
 
@@ -341,11 +342,11 @@ Search Keywords: Vision, Visual, Multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMDIyNjI4OSwtMTUyMzY4MTM4MSw4Mz
-k3OTY3NDEsMTQzNzY5MTMzMiwtNjI1MzIyODEzLDEzNTIwODI2
-MTAsLTEwMjE2NDQ5NzQsLTM5NjE0MDI0NywxNzQ2OTUyNTY0LD
-IxMDMxMjMzMSw1MzExNzQyMTEsLTQwOTkxMzgxMCwtMTY5MjEz
-NzMzLC0xMTc3MjU2MzgsLTk0NDI4MzU4Niw2NjIwMTE1LC01OD
-c3OTgzMTMsMTg2MDY1Nzc4NSw0Nzg5Nzc5MDIsMTE4OTM1OTA4
-MF19
+eyJoaXN0b3J5IjpbNDQ4MzU1NDI0LC0xNTIzNjgxMzgxLDgzOT
+c5Njc0MSwxNDM3NjkxMzMyLC02MjUzMjI4MTMsMTM1MjA4MjYx
+MCwtMTAyMTY0NDk3NCwtMzk2MTQwMjQ3LDE3NDY5NTI1NjQsMj
+EwMzEyMzMxLDUzMTE3NDIxMSwtNDA5OTEzODEwLC0xNjkyMTM3
+MzMsLTExNzcyNTYzOCwtOTQ0MjgzNTg2LDY2MjAxMTUsLTU4Nz
+c5ODMxMywxODYwNjU3Nzg1LDQ3ODk3NzkwMiwxMTg5MzU5MDgw
+XX0=
 -->
