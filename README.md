@@ -97,6 +97,8 @@ Search Keywords: Vision, Visual, Multimodal
 (BIGAI, Benchmark for 3D vision-language model)  
 
 
+[F^3OCUS - Federated Finetuning of Vision-Language Foundation Models with Optimal Client Layer Updating Strategy via Multi-objective Meta-Heuristics](https://openaccess.thecvf.com/content/CVPR2025/html/Saha_F3OCUS_-_Federated_Finetuning_of_Vision-Language_Foundation_Models_with_Optimal_CVPR_2025_paper.html)
+vision-language 45/96
 检索vision-language和multimodal，从这篇开始
 
 
@@ -348,11 +350,11 @@ Search Keywords: Vision, Visual, Multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI0NjIzODg5LDIwNjkyNTQ1MjksLTgxMj
-kzMjk4NSw0NDgzNTU0MjQsLTE1MjM2ODEzODEsODM5Nzk2NzQx
-LDE0Mzc2OTEzMzIsLTYyNTMyMjgxMywxMzUyMDgyNjEwLC0xMD
-IxNjQ0OTc0LC0zOTYxNDAyNDcsMTc0Njk1MjU2NCwyMTAzMTIz
-MzEsNTMxMTc0MjExLC00MDk5MTM4MTAsLTE2OTIxMzczMywtMT
-E3NzI1NjM4LC05NDQyODM1ODYsNjYyMDExNSwtNTg3Nzk4MzEz
+eyJoaXN0b3J5IjpbMTk3NTUyMzY3MCw3MjQ2MjM4ODksMjA2OT
+I1NDUyOSwtODEyOTMyOTg1LDQ0ODM1NTQyNCwtMTUyMzY4MTM4
+MSw4Mzk3OTY3NDEsMTQzNzY5MTMzMiwtNjI1MzIyODEzLDEzNT
+IwODI2MTAsLTEwMjE2NDQ5NzQsLTM5NjE0MDI0NywxNzQ2OTUy
+NTY0LDIxMDMxMjMzMSw1MzExNzQyMTEsLTQwOTkxMzgxMCwtMT
+Y5MjEzNzMzLC0xMTc3MjU2MzgsLTk0NDI4MzU4Niw2NjIwMTE1
 XX0=
 -->
