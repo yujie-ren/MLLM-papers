@@ -73,7 +73,7 @@ Search Keywords: Vision, Visual, Multimodal
 (NVIDIA, Visual CoT for VLM)  
 31. VL2Lite: Task-Specific Knowledge Distillation from Large Vision-Language Models to Lightweight Networks  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Jang_VL2Lite_Task-Specific_Knowledge_Distillation_from_Large_Vision-Language_Models_to_Lightweight_CVPR_2025_paper.html)
 (SK Telecom, Distill VLM to light NN for image classification)  
-
+[Libra-Merging: Importance-redundancy and Pruning-merging Trade-off for Acceleration Plug-in in Large Vision-Language Model](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_Libra-Merging_Importance-redundancy_and_Pruning-merging_Trade-off_for_Acceleration_Plug-in_in_Large_CVPR_2025_paper.html)
 
 检索vision-language和multimodal，从这篇开始
 
@@ -326,11 +326,11 @@ Search Keywords: Vision, Visual, Multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NjE0MDI0NywxNzQ2OTUyNTY0LDIxMD
-MxMjMzMSw1MzExNzQyMTEsLTQwOTkxMzgxMCwtMTY5MjEzNzMz
-LC0xMTc3MjU2MzgsLTk0NDI4MzU4Niw2NjIwMTE1LC01ODc3OT
-gzMTMsMTg2MDY1Nzc4NSw0Nzg5Nzc5MDIsMTE4OTM1OTA4MCwt
-MTE5NjkzNjc1NSw4NzcwNTU5NTUsLTEwMDU1Njk4MjEsMTAyOT
-Y4MzcxNCw0ODAyODcyOCwxMTg3Mzk5NDQ5LC04MTQ3NzcxMzhd
+eyJoaXN0b3J5IjpbLTQ3NTUxNzg0MywtMzk2MTQwMjQ3LDE3ND
+Y5NTI1NjQsMjEwMzEyMzMxLDUzMTE3NDIxMSwtNDA5OTEzODEw
+LC0xNjkyMTM3MzMsLTExNzcyNTYzOCwtOTQ0MjgzNTg2LDY2Mj
+AxMTUsLTU4Nzc5ODMxMywxODYwNjU3Nzg1LDQ3ODk3NzkwMiwx
+MTg5MzU5MDgwLC0xMTk2OTM2NzU1LDg3NzA1NTk1NSwtMTAwNT
+U2OTgyMSwxMDI5NjgzNzE0LDQ4MDI4NzI4LDExODczOTk0NDld
 fQ==
 -->
