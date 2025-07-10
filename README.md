@@ -83,7 +83,8 @@ Search Keywords: Vision, Visual, Multimodal
 (CUHK, On-policy DPO for reducing VLM hallucinations)  
 36. STING-BEE: Towards Vision-Language Model for Real-World X-ray Baggage Security Inspection  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Velayudhan_STING-BEE_Towards_Vision-Language_Model_for_Real-World_X-ray_Baggage_Security_Inspection_CVPR_2025_paper.html)  
 (Khalifa University of Science and Technology, X-ray baggage security dataset)  
-37. BOLT: Boost Large Vision-Language Model Without Training for Long-form Video Understanding](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_BOLT_Boost_Large_Vision-Language_Model_Without_Training_for_Long-form_Video_CVPR_2025_paper.html)
+37. BOLT: Boost Large Vision-Language Model Without Training for Long-form Video Understanding  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_BOLT_Boost_Large_Vision-Language_Model_Without_Training_for_Long-form_Video_CVPR_2025_paper.html)  
+()
 
 检索vision-language和multimodal，从这篇开始
 
@@ -336,11 +337,11 @@ Search Keywords: Vision, Visual, Multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODI5NTkzMDIsMTQzNzY5MTMzMiwtNj
-I1MzIyODEzLDEzNTIwODI2MTAsLTEwMjE2NDQ5NzQsLTM5NjE0
-MDI0NywxNzQ2OTUyNTY0LDIxMDMxMjMzMSw1MzExNzQyMTEsLT
-QwOTkxMzgxMCwtMTY5MjEzNzMzLC0xMTc3MjU2MzgsLTk0NDI4
-MzU4Niw2NjIwMTE1LC01ODc3OTgzMTMsMTg2MDY1Nzc4NSw0Nz
-g5Nzc5MDIsMTE4OTM1OTA4MCwtMTE5NjkzNjc1NSw4NzcwNTU5
-NTVdfQ==
+eyJoaXN0b3J5IjpbODE5Mzk0MTAsMTQzNzY5MTMzMiwtNjI1Mz
+IyODEzLDEzNTIwODI2MTAsLTEwMjE2NDQ5NzQsLTM5NjE0MDI0
+NywxNzQ2OTUyNTY0LDIxMDMxMjMzMSw1MzExNzQyMTEsLTQwOT
+kxMzgxMCwtMTY5MjEzNzMzLC0xMTc3MjU2MzgsLTk0NDI4MzU4
+Niw2NjIwMTE1LC01ODc3OTgzMTMsMTg2MDY1Nzc4NSw0Nzg5Nz
+c5MDIsMTE4OTM1OTA4MCwtMTE5NjkzNjc1NSw4NzcwNTU5NTVd
+fQ==
 -->
