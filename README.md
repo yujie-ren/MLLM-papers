@@ -91,7 +91,8 @@ Search Keywords: Vision, Visual, Multimodal
 (Uo Maryland, New family of VLMs)  
 40. Benchmarking Large Vision-Language Models via Directed Scene Graph for Comprehensive Image Captioning  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Lu_Benchmarking_Large_Vision-Language_Models_via_Directed_Scene_Graph_for_Comprehensive_CVPR_2025_paper.html)  
 (USTC, Benchmarking VLM for image captioning)  
-
+41. Conical Visual Concentration for Efficient Large Vision-Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Xing_Conical_Visual_Concentration_for_Efficient_Large_Vision-Language_Models_CVPR_2025_paper.html)  
+()
 
 检索vision-language和multimodal，从这篇开始
 
@@ -344,11 +345,11 @@ Search Keywords: Vision, Visual, Multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMjkzMjk4NSw0NDgzNTU0MjQsLTE1Mj
-M2ODEzODEsODM5Nzk2NzQxLDE0Mzc2OTEzMzIsLTYyNTMyMjgx
-MywxMzUyMDgyNjEwLC0xMDIxNjQ0OTc0LC0zOTYxNDAyNDcsMT
-c0Njk1MjU2NCwyMTAzMTIzMzEsNTMxMTc0MjExLC00MDk5MTM4
-MTAsLTE2OTIxMzczMywtMTE3NzI1NjM4LC05NDQyODM1ODYsNj
-YyMDExNSwtNTg3Nzk4MzEzLDE4NjA2NTc3ODUsNDc4OTc3OTAy
-XX0=
+eyJoaXN0b3J5IjpbMjA5NzI0NDc0MiwtODEyOTMyOTg1LDQ0OD
+M1NTQyNCwtMTUyMzY4MTM4MSw4Mzk3OTY3NDEsMTQzNzY5MTMz
+MiwtNjI1MzIyODEzLDEzNTIwODI2MTAsLTEwMjE2NDQ5NzQsLT
+M5NjE0MDI0NywxNzQ2OTUyNTY0LDIxMDMxMjMzMSw1MzExNzQy
+MTEsLTQwOTkxMzgxMCwtMTY5MjEzNzMzLC0xMTc3MjU2MzgsLT
+k0NDI4MzU4Niw2NjIwMTE1LC01ODc3OTgzMTMsMTg2MDY1Nzc4
+NV19
 -->
