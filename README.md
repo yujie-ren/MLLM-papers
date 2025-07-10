@@ -71,8 +71,9 @@ Search Keywords: Vision, Visual, Multimodal
 (Yonsei U, VLM for visual grounding)  
 30. CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_CoT-VLA_Visual_Chain-of-Thought_Reasoning_for_Vision-Language-Action_Models_CVPR_2025_paper.html)  
 (NVIDIA, Visual CoT for VLM)  
-31. Vision-Language Gradient Descent-driven All-in-One Deep Unfolding Networks  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Zeng_Vision-Language_Gradient_Descent-driven_All-in-One_Deep_Unfolding_Networks_CVPR_2025_paper.html)  
-(SK Telecom, )
+31. VL2Lite: Task-Specific Knowledge Distillation from Large Vision-Language Models to Lightweight Networks  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Jang_VL2Lite_Task-Specific_Knowledge_Distillation_from_Large_Vision-Language_Models_to_Lightweight_CVPR_2025_paper.html)
+(SK Telecom, Distill VLM to light NN for image classification)  
+
 
 检索vision-language和multimodal，从这篇开始
 
@@ -325,7 +326,7 @@ Search Keywords: Vision, Visual, Multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5Mjg2NDMyMiwxNzQ2OTUyNTY0LDIxMD
+eyJoaXN0b3J5IjpbLTM5NjE0MDI0NywxNzQ2OTUyNTY0LDIxMD
 MxMjMzMSw1MzExNzQyMTEsLTQwOTkxMzgxMCwtMTY5MjEzNzMz
 LC0xMTc3MjU2MzgsLTk0NDI4MzU4Niw2NjIwMTE1LC01ODc3OT
 gzMTMsMTg2MDY1Nzc4NSw0Nzg5Nzc5MDIsMTE4OTM1OTA4MCwt
