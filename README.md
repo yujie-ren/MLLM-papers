@@ -70,7 +70,8 @@ Search Keywords: Vision, Visual, Multimodal
 29. Your Large Vision-Language Model Only Needs A Few Attention Heads For Visual Grounding  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Kang_Your_Large_Vision-Language_Model_Only_Needs_A_Few_Attention_Heads_CVPR_2025_paper.html)  
 (Yonsei U, VLM for visual grounding)  
 30. CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_CoT-VLA_Visual_Chain-of-Thought_Reasoning_for_Vision-Language-Action_Models_CVPR_2025_paper.html)  
-(NVIDIA, )
+(NVIDIA, Visual CoT for VLM)  
+31. 
 
 检索vision-language和multimodal，从这篇开始
 
@@ -323,11 +324,11 @@ Search Keywords: Vision, Visual, Multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk4MjYwOTQsMjEwMzEyMzMxLDUzMTE3ND
-IxMSwtNDA5OTEzODEwLC0xNjkyMTM3MzMsLTExNzcyNTYzOCwt
-OTQ0MjgzNTg2LDY2MjAxMTUsLTU4Nzc5ODMxMywxODYwNjU3Nz
-g1LDQ3ODk3NzkwMiwxMTg5MzU5MDgwLC0xMTk2OTM2NzU1LDg3
-NzA1NTk1NSwtMTAwNTU2OTgyMSwxMDI5NjgzNzE0LDQ4MDI4Nz
-I4LDExODczOTk0NDksLTgxNDc3NzEzOCwtOTc4NDEzOTUyXX0=
-
+eyJoaXN0b3J5IjpbMTc0Njk1MjU2NCwyMTAzMTIzMzEsNTMxMT
+c0MjExLC00MDk5MTM4MTAsLTE2OTIxMzczMywtMTE3NzI1NjM4
+LC05NDQyODM1ODYsNjYyMDExNSwtNTg3Nzk4MzEzLDE4NjA2NT
+c3ODUsNDc4OTc3OTAyLDExODkzNTkwODAsLTExOTY5MzY3NTUs
+ODc3MDU1OTU1LC0xMDA1NTY5ODIxLDEwMjk2ODM3MTQsNDgwMj
+g3MjgsMTE4NzM5OTQ0OSwtODE0Nzc3MTM4LC05Nzg0MTM5NTJd
+fQ==
 -->
