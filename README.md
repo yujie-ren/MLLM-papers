@@ -94,7 +94,8 @@ Search Keywords: Vision, Visual, Multimodal
 41. Conical Visual Concentration for Efficient Large Vision-Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Xing_Conical_Visual_Concentration_for_Efficient_Large_Vision-Language_Models_CVPR_2025_paper.html)  
 (USTC, Visual token reduction)  
 42. Unveiling the Mist over 3D Vision-Language Understanding: Object-centric Evaluation with Chain-of-Analysis  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Huang_Unveiling_the_Mist_over_3D_Vision-Language_Understanding_Object-centric_Evaluation_with_CVPR_2025_paper.html)  
-(BIGAI， )
+(BIGAI, Benchmark for 3D vision-language model)  
+
 
 检索vision-language和multimodal，从这篇开始
 
@@ -347,11 +348,11 @@ Search Keywords: Vision, Visual, Multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNzk5MjYyNiwyMDY5MjU0NTI5LC04MT
-I5MzI5ODUsNDQ4MzU1NDI0LC0xNTIzNjgxMzgxLDgzOTc5Njc0
-MSwxNDM3NjkxMzMyLC02MjUzMjI4MTMsMTM1MjA4MjYxMCwtMT
-AyMTY0NDk3NCwtMzk2MTQwMjQ3LDE3NDY5NTI1NjQsMjEwMzEy
-MzMxLDUzMTE3NDIxMSwtNDA5OTEzODEwLC0xNjkyMTM3MzMsLT
-ExNzcyNTYzOCwtOTQ0MjgzNTg2LDY2MjAxMTUsLTU4Nzc5ODMx
-M119
+eyJoaXN0b3J5IjpbNzI0NjIzODg5LDIwNjkyNTQ1MjksLTgxMj
+kzMjk4NSw0NDgzNTU0MjQsLTE1MjM2ODEzODEsODM5Nzk2NzQx
+LDE0Mzc2OTEzMzIsLTYyNTMyMjgxMywxMzUyMDgyNjEwLC0xMD
+IxNjQ0OTc0LC0zOTYxNDAyNDcsMTc0Njk1MjU2NCwyMTAzMTIz
+MzEsNTMxMTc0MjExLC00MDk5MTM4MTAsLTE2OTIxMzczMywtMT
+E3NzI1NjM4LC05NDQyODM1ODYsNjYyMDExNSwtNTg3Nzk4MzEz
+XX0=
 -->
