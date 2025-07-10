@@ -81,7 +81,7 @@ Search Keywords: Vision, Visual, Multimodal
 (Xi'an Jiaotong, Image-prompt matching to reduce VLM's object hallucination)  
 35. Mitigating Hallucinations in Large Vision-Language Models via DPO: On-Policy Data Hold the Key  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_Mitigating_Hallucinations_in_Large_Vision-Language_Models_via_DPO_On-Policy_Data_CVPR_2025_paper.html)  
 (CUHK, On-policy DPO for reducing VLM hallucinations)  
-
+3STING-BEE: Towards Vision-Language Model for Real-World X-ray Baggage Security Inspection](https://openaccess.thecvf.com/content/CVPR2025/html/Velayudhan_STING-BEE_Towards_Vision-Language_Model_for_Real-World_X-ray_Baggage_Security_Inspection_CVPR_2025_paper.html)
 
 检索vision-language和multimodal，从这篇开始
 
@@ -334,7 +334,7 @@ Search Keywords: Vision, Visual, Multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODY5ODcxNywxNDM3NjkxMzMyLC02Mj
+eyJoaXN0b3J5IjpbLTE5MTQ2NjY1NSwxNDM3NjkxMzMyLC02Mj
 UzMjI4MTMsMTM1MjA4MjYxMCwtMTAyMTY0NDk3NCwtMzk2MTQw
 MjQ3LDE3NDY5NTI1NjQsMjEwMzEyMzMxLDUzMTE3NDIxMSwtND
 A5OTEzODEwLC0xNjkyMTM3MzMsLTExNzcyNTYzOCwtOTQ0Mjgz
