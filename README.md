@@ -87,7 +87,8 @@ Search Keywords: Vision, Visual, Multimodal
 (KAUST, Frame sampling for Video-language model)  
 38. MBQ: Modality-Balanced Quantization for Large Vision-Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Li_MBQ_Modality-Balanced_Quantization_for_Large_Vision-Language_Models_CVPR_2025_paper.html)  
 (THU, Quantization for VLM)  
-
+39. Florence-VL: Enhancing Vision-Language Models with Generative Vision Encoder and Depth-Breadth Fusion  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Florence-VL_Enhancing_Vision-Language_Models_with_Generative_Vision_Encoder_and_Depth-Breadth_CVPR_2025_paper.html)  
+(Uo )
 
 检索vision-language和multimodal，从这篇开始
 
@@ -340,11 +341,11 @@ Search Keywords: Vision, Visual, Multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjM2ODEzODEsODM5Nzk2NzQxLDE0Mz
-c2OTEzMzIsLTYyNTMyMjgxMywxMzUyMDgyNjEwLC0xMDIxNjQ0
-OTc0LC0zOTYxNDAyNDcsMTc0Njk1MjU2NCwyMTAzMTIzMzEsNT
-MxMTc0MjExLC00MDk5MTM4MTAsLTE2OTIxMzczMywtMTE3NzI1
-NjM4LC05NDQyODM1ODYsNjYyMDExNSwtNTg3Nzk4MzEzLDE4Nj
-A2NTc3ODUsNDc4OTc3OTAyLDExODkzNTkwODAsLTExOTY5MzY3
-NTVdfQ==
+eyJoaXN0b3J5IjpbLTkzMDIyNjI4OSwtMTUyMzY4MTM4MSw4Mz
+k3OTY3NDEsMTQzNzY5MTMzMiwtNjI1MzIyODEzLDEzNTIwODI2
+MTAsLTEwMjE2NDQ5NzQsLTM5NjE0MDI0NywxNzQ2OTUyNTY0LD
+IxMDMxMjMzMSw1MzExNzQyMTEsLTQwOTkxMzgxMCwtMTY5MjEz
+NzMzLC0xMTc3MjU2MzgsLTk0NDI4MzU4Niw2NjIwMTE1LC01OD
+c3OTgzMTMsMTg2MDY1Nzc4NSw0Nzg5Nzc5MDIsMTE4OTM1OTA4
+MF19
 -->
