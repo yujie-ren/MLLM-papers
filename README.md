@@ -85,7 +85,7 @@ Search Keywords: Vision, Visual, Multimodal
 (Khalifa University of Science and Technology, X-ray baggage security dataset)  
 37. BOLT: Boost Large Vision-Language Model Without Training for Long-form Video Understanding  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_BOLT_Boost_Large_Vision-Language_Model_Without_Training_for_Long-form_Video_CVPR_2025_paper.html)  
 (KAUST, Frame sampling for Video-language model)  
-38. 
+38. MBQ: Modality-Balanced Quantization for Large Vision-Language Models](https://openaccess.thecvf.com/content/CVPR2025/html/Li_MBQ_Modality-Balanced_Quantization_for_Large_Vision-Language_Models_CVPR_2025_paper.html)
 
 检索vision-language和multimodal，从这篇开始
 
@@ -338,11 +338,11 @@ Search Keywords: Vision, Visual, Multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM5Nzk2NzQxLDE0Mzc2OTEzMzIsLTYyNT
-MyMjgxMywxMzUyMDgyNjEwLC0xMDIxNjQ0OTc0LC0zOTYxNDAy
-NDcsMTc0Njk1MjU2NCwyMTAzMTIzMzEsNTMxMTc0MjExLC00MD
-k5MTM4MTAsLTE2OTIxMzczMywtMTE3NzI1NjM4LC05NDQyODM1
-ODYsNjYyMDExNSwtNTg3Nzk4MzEzLDE4NjA2NTc3ODUsNDc4OT
-c3OTAyLDExODkzNTkwODAsLTExOTY5MzY3NTUsODc3MDU1OTU1
+eyJoaXN0b3J5IjpbOTE3MDE2MjgxLDgzOTc5Njc0MSwxNDM3Nj
+kxMzMyLC02MjUzMjI4MTMsMTM1MjA4MjYxMCwtMTAyMTY0NDk3
+NCwtMzk2MTQwMjQ3LDE3NDY5NTI1NjQsMjEwMzEyMzMxLDUzMT
+E3NDIxMSwtNDA5OTEzODEwLC0xNjkyMTM3MzMsLTExNzcyNTYz
+OCwtOTQ0MjgzNTg2LDY2MjAxMTUsLTU4Nzc5ODMxMywxODYwNj
+U3Nzg1LDQ3ODk3NzkwMiwxMTg5MzU5MDgwLC0xMTk2OTM2NzU1
 XX0=
 -->
