@@ -76,7 +76,8 @@ Search Keywords: Vision, Visual, Multimodal
 32. Libra-Merging: Importance-redundancy and Pruning-merging Trade-off for Acceleration Plug-in in Large Vision-Language Model  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_Libra-Merging_Importance-redundancy_and_Pruning-merging_Trade-off_for_Acceleration_Plug-in_in_Large_CVPR_2025_paper.html)  
 (ZJU, VLM effiency, Visual token pruning)  
 33. Nullu: Mitigating Object Hallucinations in Large Vision-Language Models via HalluSpace Projection  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_Nullu_Mitigating_Object_Hallucinations_in_Large_Vision-Language_Models_via_HalluSpace_CVPR_2025_paper.html)  
-()
+(Xi'an Jiaotong, Model editing for reducing VLM object hallucination)  
+
 
 检索vision-language和multimodal，从这篇开始
 
@@ -329,7 +330,7 @@ Search Keywords: Vision, Visual, Multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MzAyNTk0MCwtMTAyMTY0NDk3NCwtMz
+eyJoaXN0b3J5IjpbMTM1MjA4MjYxMCwtMTAyMTY0NDk3NCwtMz
 k2MTQwMjQ3LDE3NDY5NTI1NjQsMjEwMzEyMzMxLDUzMTE3NDIx
 MSwtNDA5OTEzODEwLC0xNjkyMTM3MzMsLTExNzcyNTYzOCwtOT
 Q0MjgzNTg2LDY2MjAxMTUsLTU4Nzc5ODMxMywxODYwNjU3Nzg1
