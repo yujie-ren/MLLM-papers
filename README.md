@@ -80,7 +80,8 @@ Search Keywords: Vision, Visual, Multimodal
 34. Mitigating Object Hallucinations in Large Vision-Language Models with Assembly of Global and Local Attention  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/An_Mitigating_Object_Hallucinations_in_Large_Vision-Language_Models_with_Assembly_of_CVPR_2025_paper.html)  
 (Xi'an Jiaotong, Image-prompt matching to reduce VLM's object hallucination)  
 35. Mitigating Hallucinations in Large Vision-Language Models via DPO: On-Policy Data Hold the Key  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_Mitigating_Hallucinations_in_Large_Vision-Language_Models_via_DPO_On-Policy_Data_CVPR_2025_paper.html)  
-(CUHK, )
+(CUHK, On-policy DPO for reducing VLM hallucinations)  
+
 
 检索vision-language和multimodal，从这篇开始
 
@@ -333,11 +334,11 @@ Search Keywords: Vision, Visual, Multimodal
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTc2MjU5NTksMTQzNzY5MTMzMiwtNj
-I1MzIyODEzLDEzNTIwODI2MTAsLTEwMjE2NDQ5NzQsLTM5NjE0
-MDI0NywxNzQ2OTUyNTY0LDIxMDMxMjMzMSw1MzExNzQyMTEsLT
-QwOTkxMzgxMCwtMTY5MjEzNzMzLC0xMTc3MjU2MzgsLTk0NDI4
-MzU4Niw2NjIwMTE1LC01ODc3OTgzMTMsMTg2MDY1Nzc4NSw0Nz
-g5Nzc5MDIsMTE4OTM1OTA4MCwtMTE5NjkzNjc1NSw4NzcwNTU5
-NTVdfQ==
+eyJoaXN0b3J5IjpbLTEwODY5ODcxNywxNDM3NjkxMzMyLC02Mj
+UzMjI4MTMsMTM1MjA4MjYxMCwtMTAyMTY0NDk3NCwtMzk2MTQw
+MjQ3LDE3NDY5NTI1NjQsMjEwMzEyMzMxLDUzMTE3NDIxMSwtND
+A5OTEzODEwLC0xNjkyMTM3MzMsLTExNzcyNTYzOCwtOTQ0Mjgz
+NTg2LDY2MjAxMTUsLTU4Nzc5ODMxMywxODYwNjU3Nzg1LDQ3OD
+k3NzkwMiwxMTg5MzU5MDgwLC0xMTk2OTM2NzU1LDg3NzA1NTk1
+NV19
 -->
