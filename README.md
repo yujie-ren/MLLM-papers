@@ -95,7 +95,7 @@ Search Keywords: Vision, Visual, Multimodal
 (USTC, Visual token reduction)  
 42. Unveiling the Mist over 3D Vision-Language Understanding: Object-centric Evaluation with Chain-of-Analysis  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Huang_Unveiling_the_Mist_over_3D_Vision-Language_Understanding_Object-centric_Evaluation_with_CVPR_2025_paper.html)  
 (BIGAI, Benchmark for 3D vision-language model)  
-43. 
+43. F^3OCUS - Federated Finetuning of Vision-Language Foundation Models with Optimal Client Layer Updating Strategy via Multi-objective Meta-Heuristics](https://openaccess.thecvf.com/content/CVPR2025/html/Saha_F3OCUS_-_Federated_Finetuning_of_Vision-Language_Foundation_Models_with_Optimal_CVPR_2025_paper.html)
 
 
 [F^3OCUS - Federated Finetuning of Vision-Language Foundation Models with Optimal Client Layer Updating Strategy via Multi-objective Meta-Heuristics](https://openaccess.thecvf.com/content/CVPR2025/html/Saha_F3OCUS_-_Federated_Finetuning_of_Vision-Language_Foundation_Models_with_Optimal_CVPR_2025_paper.html)
@@ -351,11 +351,11 @@ vision-language 45/96
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk0NDQ5MzA1LDE5NzU1MjM2NzAsNzI0Nj
-IzODg5LDIwNjkyNTQ1MjksLTgxMjkzMjk4NSw0NDgzNTU0MjQs
-LTE1MjM2ODEzODEsODM5Nzk2NzQxLDE0Mzc2OTEzMzIsLTYyNT
-MyMjgxMywxMzUyMDgyNjEwLC0xMDIxNjQ0OTc0LC0zOTYxNDAy
-NDcsMTc0Njk1MjU2NCwyMTAzMTIzMzEsNTMxMTc0MjExLC00MD
-k5MTM4MTAsLTE2OTIxMzczMywtMTE3NzI1NjM4LC05NDQyODM1
-ODZdfQ==
+eyJoaXN0b3J5IjpbNjg1OTY3NDExLDU5NDQ0OTMwNSwxOTc1NT
+IzNjcwLDcyNDYyMzg4OSwyMDY5MjU0NTI5LC04MTI5MzI5ODUs
+NDQ4MzU1NDI0LC0xNTIzNjgxMzgxLDgzOTc5Njc0MSwxNDM3Nj
+kxMzMyLC02MjUzMjI4MTMsMTM1MjA4MjYxMCwtMTAyMTY0NDk3
+NCwtMzk2MTQwMjQ3LDE3NDY5NTI1NjQsMjEwMzEyMzMxLDUzMT
+E3NDIxMSwtNDA5OTEzODEwLC0xNjkyMTM3MzMsLTExNzcyNTYz
+OF19
 -->
