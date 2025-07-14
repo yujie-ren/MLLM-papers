@@ -104,7 +104,7 @@ Search Keywords: Vision, Visual, Multimodal
  46. PVC: Progressive Visual Token Compression for Unified Image and Video Processing in Large Vision-Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_PVC_Progressive_Visual_Token_Compression_for_Unified_Image_and_Video_CVPR_2025_paper.html)  
  (THU, Visual token compression for image & video in VLMs)  
  47. GFlowVLM: Enhancing Multi-step Reasoning in Vision-Language Models with Generative Flow Networks  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Kang_GFlowVLM_Enhancing_Multi-step_Reasoning_in_Vision-Language_Models_with_Generative_Flow_CVPR_2025_paper.html)  
-
+()
 
 
 vision-language 45/96
@@ -359,11 +359,11 @@ vision-language 45/96
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjkxNDIwODEsLTM3NjAwMzIsLTEzMD
-g4MTc5OTMsNjY2MTg2Mzg3LDExODI4NzgxMCwzMDc4ODkzNTMs
-LTk5NTE1MDM3Niw5NDY4NjU1MjEsNTk0NDQ5MzA1LDE5NzU1Mj
-M2NzAsNzI0NjIzODg5LDIwNjkyNTQ1MjksLTgxMjkzMjk4NSw0
-NDgzNTU0MjQsLTE1MjM2ODEzODEsODM5Nzk2NzQxLDE0Mzc2OT
-EzMzIsLTYyNTMyMjgxMywxMzUyMDgyNjEwLC0xMDIxNjQ0OTc0
-XX0=
+eyJoaXN0b3J5IjpbLTIxMDI0ODMyLC0zNzYwMDMyLC0xMzA4OD
+E3OTkzLDY2NjE4NjM4NywxMTgyODc4MTAsMzA3ODg5MzUzLC05
+OTUxNTAzNzYsOTQ2ODY1NTIxLDU5NDQ0OTMwNSwxOTc1NTIzNj
+cwLDcyNDYyMzg4OSwyMDY5MjU0NTI5LC04MTI5MzI5ODUsNDQ4
+MzU1NDI0LC0xNTIzNjgxMzgxLDgzOTc5Njc0MSwxNDM3NjkxMz
+MyLC02MjUzMjI4MTMsMTM1MjA4MjYxMCwtMTAyMTY0NDk3NF19
+
 -->
