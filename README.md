@@ -83,27 +83,29 @@ Search Keywords: Vision, Visual, Multimodal
 (CUHK, On-policy DPO for reducing VLM hallucinations)  
 36. STING-BEE: Towards Vision-Language Model for Real-World X-ray Baggage Security Inspection  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Velayudhan_STING-BEE_Towards_Vision-Language_Model_for_Real-World_X-ray_Baggage_Security_Inspection_CVPR_2025_paper.html)  
 (Khalifa University of Science and Technology, X-ray baggage security dataset)  
-38. BOLT: Boost Large Vision-Language Model Without Training for Long-form Video Understanding  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_BOLT_Boost_Large_Vision-Language_Model_Without_Training_for_Long-form_Video_CVPR_2025_paper.html)  
+37. BOLT: Boost Large Vision-Language Model Without Training for Long-form Video Understanding  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_BOLT_Boost_Large_Vision-Language_Model_Without_Training_for_Long-form_Video_CVPR_2025_paper.html)  
 (KAUST, Frame sampling for Video-language model)  
-39. MBQ: Modality-Balanced Quantization for Large Vision-Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Li_MBQ_Modality-Balanced_Quantization_for_Large_Vision-Language_Models_CVPR_2025_paper.html)  
+38. MBQ: Modality-Balanced Quantization for Large Vision-Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Li_MBQ_Modality-Balanced_Quantization_for_Large_Vision-Language_Models_CVPR_2025_paper.html)  
 (THU, Quantization for VLM)  
-40. Florence-VL: Enhancing Vision-Language Models with Generative Vision Encoder and Depth-Breadth Fusion  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Florence-VL_Enhancing_Vision-Language_Models_with_Generative_Vision_Encoder_and_Depth-Breadth_CVPR_2025_paper.html)  
+39. Florence-VL: Enhancing Vision-Language Models with Generative Vision Encoder and Depth-Breadth Fusion  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Florence-VL_Enhancing_Vision-Language_Models_with_Generative_Vision_Encoder_and_Depth-Breadth_CVPR_2025_paper.html)  
 (Uo Maryland, New family of VLMs)  
-41. Benchmarking Large Vision-Language Models via Directed Scene Graph for Comprehensive Image Captioning  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Lu_Benchmarking_Large_Vision-Language_Models_via_Directed_Scene_Graph_for_Comprehensive_CVPR_2025_paper.html)  
+40. Benchmarking Large Vision-Language Models via Directed Scene Graph for Comprehensive Image Captioning  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Lu_Benchmarking_Large_Vision-Language_Models_via_Directed_Scene_Graph_for_Comprehensive_CVPR_2025_paper.html)  
 (USTC, Benchmarking VLM for image captioning)  
-42. Conical Visual Concentration for Efficient Large Vision-Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Xing_Conical_Visual_Concentration_for_Efficient_Large_Vision-Language_Models_CVPR_2025_paper.html)  
+41. Conical Visual Concentration for Efficient Large Vision-Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Xing_Conical_Visual_Concentration_for_Efficient_Large_Vision-Language_Models_CVPR_2025_paper.html)  
 (USTC, Visual token reduction)  
-43. Unveiling the Mist over 3D Vision-Language Understanding: Object-centric Evaluation with Chain-of-Analysis  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Huang_Unveiling_the_Mist_over_3D_Vision-Language_Understanding_Object-centric_Evaluation_with_CVPR_2025_paper.html)  
+42. Unveiling the Mist over 3D Vision-Language Understanding: Object-centric Evaluation with Chain-of-Analysis  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Huang_Unveiling_the_Mist_over_3D_Vision-Language_Understanding_Object-centric_Evaluation_with_CVPR_2025_paper.html)  
 (BIGAI, Benchmark for 3D vision-language model)  
-44. F^3OCUS - Federated Finetuning of Vision-Language Foundation Models with Optimal Client Layer Updating Strategy via Multi-objective Meta-Heuristics  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Saha_F3OCUS_-_Federated_Finetuning_of_Vision-Language_Foundation_Models_with_Optimal_CVPR_2025_paper.html)  
+43. F^3OCUS - Federated Finetuning of Vision-Language Foundation Models with Optimal Client Layer Updating Strategy via Multi-objective Meta-Heuristics  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Saha_F3OCUS_-_Federated_Finetuning_of_Vision-Language_Foundation_Models_with_Optimal_CVPR_2025_paper.html)  
 (Oxford, VLM, Federated learning)  
-45. ICT: Image-Object Cross-Level Trusted Intervention for Mitigating Object Hallucination in Large Vision-Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_ICT_Image-Object_Cross-Level_Trusted_Intervention_for_Mitigating_Object_Hallucination_in_CVPR_2025_paper.html)  
+44. ICT: Image-Object Cross-Level Trusted Intervention for Mitigating Object Hallucination in Large Vision-Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_ICT_Image-Object_Cross-Level_Trusted_Intervention_for_Mitigating_Object_Hallucination_in_CVPR_2025_paper.html)  
  (THU, Reducing VLM's object hallucination)  
  45. Can Large Vision-Language Models Correct Semantic Grounding Errors By Themselves?  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Liao_Can_Large_Vision-Language_Models_Correct_Semantic_Grounding_Errors_By_Themselves_CVPR_2025_paper.html)  
  (UoT, VLM, Semantic grounding, Self-correction)  
  46. PVC: Progressive Visual Token Compression for Unified Image and Video Processing in Large Vision-Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_PVC_Progressive_Visual_Token_Compression_for_Unified_Image_and_Video_CVPR_2025_paper.html)  
  (THU, Visual token compression for image & video in VLMs)  
  47. GFlowVLM: Enhancing Multi-step Reasoning in Vision-Language Models with Generative Flow Networks  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Kang_GFlowVLM_Enhancing_Multi-step_Reasoning_in_Vision-Language_Models_with_Generative_Flow_CVPR_2025_paper.html)  
+
+
 
 vision-language 45/96
 检索vision-language和multimodal，从这篇开始
@@ -357,7 +359,7 @@ vision-language 45/96
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mjk2Mzg0OTQsLTM3NjAwMzIsLTEzMD
+eyJoaXN0b3J5IjpbLTEyMjkxNDIwODEsLTM3NjAwMzIsLTEzMD
 g4MTc5OTMsNjY2MTg2Mzg3LDExODI4NzgxMCwzMDc4ODkzNTMs
 LTk5NTE1MDM3Niw5NDY4NjU1MjEsNTk0NDQ5MzA1LDE5NzU1Mj
 M2NzAsNzI0NjIzODg5LDIwNjkyNTQ1MjksLTgxMjkzMjk4NSw0
