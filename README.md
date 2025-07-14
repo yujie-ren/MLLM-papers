@@ -105,6 +105,7 @@ Search Keywords: Vision, Visual, Multimodal
  (THU, Visual token compression for image & video in VLMs)  
  47. GFlowVLM: Enhancing Multi-step Reasoning in Vision-Language Models with Generative Flow Networks  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Kang_GFlowVLM_Enhancing_Multi-step_Reasoning_in_Vision-Language_Models_with_Generative_Flow_CVPR_2025_paper.html)  
 (Honda Research Institute, VLM reasoning)
+48. RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Song_RoboSpatial_Teaching_Spatial_Understanding_to_2D_and_3D_Vision-Language_Models_CVPR_2025_paper.html)  
 
 
 vision-language 45/96
@@ -359,11 +360,11 @@ vision-language 45/96
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MzE5ODc1MywtMzc2MDAzMiwtMTMwOD
-gxNzk5Myw2NjYxODYzODcsMTE4Mjg3ODEwLDMwNzg4OTM1Mywt
-OTk1MTUwMzc2LDk0Njg2NTUyMSw1OTQ0NDkzMDUsMTk3NTUyMz
-Y3MCw3MjQ2MjM4ODksMjA2OTI1NDUyOSwtODEyOTMyOTg1LDQ0
-ODM1NTQyNCwtMTUyMzY4MTM4MSw4Mzk3OTY3NDEsMTQzNzY5MT
-MzMiwtNjI1MzIyODEzLDEzNTIwODI2MTAsLTEwMjE2NDQ5NzRd
+eyJoaXN0b3J5IjpbLTIwMjc2NjQyNDMsMTE5MzE5ODc1MywtMz
+c2MDAzMiwtMTMwODgxNzk5Myw2NjYxODYzODcsMTE4Mjg3ODEw
+LDMwNzg4OTM1MywtOTk1MTUwMzc2LDk0Njg2NTUyMSw1OTQ0ND
+kzMDUsMTk3NTUyMzY3MCw3MjQ2MjM4ODksMjA2OTI1NDUyOSwt
+ODEyOTMyOTg1LDQ0ODM1NTQyNCwtMTUyMzY4MTM4MSw4Mzk3OT
+Y3NDEsMTQzNzY5MTMzMiwtNjI1MzIyODEzLDEzNTIwODI2MTBd
 fQ==
 -->
