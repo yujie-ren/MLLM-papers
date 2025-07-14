@@ -63,25 +63,25 @@ Search Keywords: Vision, Visual, Multimodal
 (⭐️⭐️CAS, Knowledge evolving in VLM)  
 26. Revisiting Backdoor Attacks against Large Vision-Language Models from Domain Shift  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Liang_Revisiting_Backdoor_Attacks_against_Large_Vision-Language_Models_from_Domain_Shift_CVPR_2025_paper.html)  
 (NTU, Backdoor attack for VLM)  
-28. Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Deitke_Molmo_and_PixMo_Open_Weights_and_Open_Data_for_State-of-the-Art_CVPR_2025_paper.html)  
+27. Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Deitke_Molmo_and_PixMo_Open_Weights_and_Open_Data_for_State-of-the-Art_CVPR_2025_paper.html)  
 (AI2, Open source Molmo)  
-29. OmniDrive: A Holistic Vision-Language Dataset for Autonomous Driving with Counterfactual Reasoning  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_OmniDrive_A_Holistic_Vision-Language_Dataset_for_Autonomous_Driving_with_Counterfactual_CVPR_2025_paper.html)  
+28. OmniDrive: A Holistic Vision-Language Dataset for Autonomous Driving with Counterfactual Reasoning  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_OmniDrive_A_Holistic_Vision-Language_Dataset_for_Autonomous_Driving_with_Counterfactual_CVPR_2025_paper.html)  
 (Nvidia, Dataset, Extend VLMs’ 2D understanding and reasoning to 3D)  
-30. Your Large Vision-Language Model Only Needs A Few Attention Heads For Visual Grounding  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Kang_Your_Large_Vision-Language_Model_Only_Needs_A_Few_Attention_Heads_CVPR_2025_paper.html)  
+29. Your Large Vision-Language Model Only Needs A Few Attention Heads For Visual Grounding  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Kang_Your_Large_Vision-Language_Model_Only_Needs_A_Few_Attention_Heads_CVPR_2025_paper.html)  
 (Yonsei U, VLM for visual grounding)  
-31. CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_CoT-VLA_Visual_Chain-of-Thought_Reasoning_for_Vision-Language-Action_Models_CVPR_2025_paper.html)  
+30. CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_CoT-VLA_Visual_Chain-of-Thought_Reasoning_for_Vision-Language-Action_Models_CVPR_2025_paper.html)  
 (NVIDIA, Visual CoT for VLM)  
-32. VL2Lite: Task-Specific Knowledge Distillation from Large Vision-Language Models to Lightweight Networks  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Jang_VL2Lite_Task-Specific_Knowledge_Distillation_from_Large_Vision-Language_Models_to_Lightweight_CVPR_2025_paper.html)
+31. VL2Lite: Task-Specific Knowledge Distillation from Large Vision-Language Models to Lightweight Networks  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Jang_VL2Lite_Task-Specific_Knowledge_Distillation_from_Large_Vision-Language_Models_to_Lightweight_CVPR_2025_paper.html)
 (SK Telecom, Distill VLM to light NN for image classification)  
-33. Libra-Merging: Importance-redundancy and Pruning-merging Trade-off for Acceleration Plug-in in Large Vision-Language Model  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_Libra-Merging_Importance-redundancy_and_Pruning-merging_Trade-off_for_Acceleration_Plug-in_in_Large_CVPR_2025_paper.html)  
+32. Libra-Merging: Importance-redundancy and Pruning-merging Trade-off for Acceleration Plug-in in Large Vision-Language Model  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_Libra-Merging_Importance-redundancy_and_Pruning-merging_Trade-off_for_Acceleration_Plug-in_in_Large_CVPR_2025_paper.html)  
 (ZJU, VLM effiency, Visual token pruning)  
-34. Nullu: Mitigating Object Hallucinations in Large Vision-Language Models via HalluSpace Projection  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_Nullu_Mitigating_Object_Hallucinations_in_Large_Vision-Language_Models_via_HalluSpace_CVPR_2025_paper.html)  
+33. Nullu: Mitigating Object Hallucinations in Large Vision-Language Models via HalluSpace Projection  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_Nullu_Mitigating_Object_Hallucinations_in_Large_Vision-Language_Models_via_HalluSpace_CVPR_2025_paper.html)  
 (Xi'an Jiaotong, Model editing for reducing VLM object hallucination)  
-35. Mitigating Object Hallucinations in Large Vision-Language Models with Assembly of Global and Local Attention  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/An_Mitigating_Object_Hallucinations_in_Large_Vision-Language_Models_with_Assembly_of_CVPR_2025_paper.html)  
+34. Mitigating Object Hallucinations in Large Vision-Language Models with Assembly of Global and Local Attention  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/An_Mitigating_Object_Hallucinations_in_Large_Vision-Language_Models_with_Assembly_of_CVPR_2025_paper.html)  
 (Xi'an Jiaotong, Image-prompt matching to reduce VLM's object hallucination)  
-36. Mitigating Hallucinations in Large Vision-Language Models via DPO: On-Policy Data Hold the Key  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_Mitigating_Hallucinations_in_Large_Vision-Language_Models_via_DPO_On-Policy_Data_CVPR_2025_paper.html)  
+35. Mitigating Hallucinations in Large Vision-Language Models via DPO: On-Policy Data Hold the Key  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_Mitigating_Hallucinations_in_Large_Vision-Language_Models_via_DPO_On-Policy_Data_CVPR_2025_paper.html)  
 (CUHK, On-policy DPO for reducing VLM hallucinations)  
-37. STING-BEE: Towards Vision-Language Model for Real-World X-ray Baggage Security Inspection  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Velayudhan_STING-BEE_Towards_Vision-Language_Model_for_Real-World_X-ray_Baggage_Security_Inspection_CVPR_2025_paper.html)  
+36. STING-BEE: Towards Vision-Language Model for Real-World X-ray Baggage Security Inspection  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Velayudhan_STING-BEE_Towards_Vision-Language_Model_for_Real-World_X-ray_Baggage_Security_Inspection_CVPR_2025_paper.html)  
 (Khalifa University of Science and Technology, X-ray baggage security dataset)  
 38. BOLT: Boost Large Vision-Language Model Without Training for Long-form Video Understanding  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_BOLT_Boost_Large_Vision-Language_Model_Without_Training_for_Long-form_Video_CVPR_2025_paper.html)  
 (KAUST, Frame sampling for Video-language model)  
@@ -357,11 +357,11 @@ vision-language 45/96
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMTAzNTgwMSwtMzc2MDAzMiwtMTMwOD
-gxNzk5Myw2NjYxODYzODcsMTE4Mjg3ODEwLDMwNzg4OTM1Mywt
-OTk1MTUwMzc2LDk0Njg2NTUyMSw1OTQ0NDkzMDUsMTk3NTUyMz
-Y3MCw3MjQ2MjM4ODksMjA2OTI1NDUyOSwtODEyOTMyOTg1LDQ0
-ODM1NTQyNCwtMTUyMzY4MTM4MSw4Mzk3OTY3NDEsMTQzNzY5MT
-MzMiwtNjI1MzIyODEzLDEzNTIwODI2MTAsLTEwMjE2NDQ5NzRd
-fQ==
+eyJoaXN0b3J5IjpbLTE5Mjk2Mzg0OTQsLTM3NjAwMzIsLTEzMD
+g4MTc5OTMsNjY2MTg2Mzg3LDExODI4NzgxMCwzMDc4ODkzNTMs
+LTk5NTE1MDM3Niw5NDY4NjU1MjEsNTk0NDQ5MzA1LDE5NzU1Mj
+M2NzAsNzI0NjIzODg5LDIwNjkyNTQ1MjksLTgxMjkzMjk4NSw0
+NDgzNTU0MjQsLTE1MjM2ODEzODEsODM5Nzk2NzQxLDE0Mzc2OT
+EzMzIsLTYyNTMyMjgxMywxMzUyMDgyNjEwLC0xMDIxNjQ0OTc0
+XX0=
 -->
