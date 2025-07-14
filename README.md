@@ -10,7 +10,7 @@ Search Keywords: Vision, Visual, Multimodal
 
 ## CVPR-202506
 [All Papers](https://openaccess.thecvf.com/CVPR2025?day=all)  
-检索词：vision language; vision-language; multimodal
+检索词：vision language; vision-language; multimodal  
 1. CALICO: Part-Focused Semantic Co-Segmentation with Large Vision-Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Nguyen_CALICO_Part-Focused_Semantic_Co-Segmentation_with_Large_Vision-Language_Models_CVPR_2025_paper.html)  
 (UIUC, Make VLMs identify common objects across multiple images)  
 2. Task Preference Optimization: Improving Multimodal Large Language Models with Vision Task Alignment  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Yan_Task_Preference_Optimization_Improving_Multimodal_Large_Language_Models_with_Vision_CVPR_2025_paper.html)  
@@ -53,15 +53,15 @@ Search Keywords: Vision, Visual, Multimodal
 (Standford, Agentic framework converting open-ended questions into multiple-choice format)  
 21. Seeing the Abstract: Translating the Abstract Language for Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Talon_Seeing_the_Abstract_Translating_the_Abstract_Language_for_Vision_Language_CVPR_2025_paper.html)  
 (Fondazione Bruno Kessler, Abstract-oriented language in VLMs)  
-23. FireEdit: Fine-grained Instruction-based Image Editing via Region-aware Vision Language Model  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_FireEdit_Fine-grained_Instruction-based_Image_Editing_via_Region-aware_Vision_Language_Model_CVPR_2025_paper.html)  
+22. FireEdit: Fine-grained Instruction-based Image Editing via Region-aware Vision Language Model  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_FireEdit_Fine-grained_Instruction-based_Image_Editing_via_Region-aware_Vision_Language_Model_CVPR_2025_paper.html)  
 (SYU, Instruction-based image editing, VLM+Diffusion model)  
-24. VLsI: Verbalized Layers-to-Interactions from Large to Small Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Lee_VLsI_Verbalized_Layers-to-Interactions_from_Large_to_Small_Vision_Language_Models_CVPR_2025_paper.html)  
+23. VLsI: Verbalized Layers-to-Interactions from Large to Small Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Lee_VLsI_Verbalized_Layers-to-Interactions_from_Large_to_Small_Vision_Language_Models_CVPR_2025_paper.html)  
 (Nvidia, New VLM family, VLM effiency)  
-25. TopV: Compatible Token Pruning with Inference Time Optimization for Fast and Low-Memory Multimodal Vision Language Model  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_TopV_Compatible_Token_Pruning_with_Inference_Time_Optimization_for_Fast_CVPR_2025_paper.html)  
+24. TopV: Compatible Token Pruning with Inference Time Optimization for Fast and Low-Memory Multimodal Vision Language Model  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_TopV_Compatible_Token_Pruning_with_Inference_Time_Optimization_for_Fast_CVPR_2025_paper.html)  
 (RutgersU, Visual token pruning)  
-26. Towards Understanding How Knowledge Evolves in Large Vision-Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Towards_Understanding_How_Knowledge_Evolves_in_Large_Vision-Language_Models_CVPR_2025_paper.html)  
+25. Towards Understanding How Knowledge Evolves in Large Vision-Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Towards_Understanding_How_Knowledge_Evolves_in_Large_Vision-Language_Models_CVPR_2025_paper.html)  
 (⭐️⭐️CAS, Knowledge evolving in VLM)  
-27. Revisiting Backdoor Attacks against Large Vision-Language Models from Domain Shift  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Liang_Revisiting_Backdoor_Attacks_against_Large_Vision-Language_Models_from_Domain_Shift_CVPR_2025_paper.html)  
+26. Revisiting Backdoor Attacks against Large Vision-Language Models from Domain Shift  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Liang_Revisiting_Backdoor_Attacks_against_Large_Vision-Language_Models_from_Domain_Shift_CVPR_2025_paper.html)  
 (NTU, Backdoor attack for VLM)  
 28. Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Deitke_Molmo_and_PixMo_Open_Weights_and_Open_Data_for_State-of-the-Art_CVPR_2025_paper.html)  
 (AI2, Open source Molmo)  
@@ -104,11 +104,6 @@ Search Keywords: Vision, Visual, Multimodal
  46. PVC: Progressive Visual Token Compression for Unified Image and Video Processing in Large Vision-Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_PVC_Progressive_Visual_Token_Compression_for_Unified_Image_and_Video_CVPR_2025_paper.html)  
  (THU, Visual token compression for image & video in VLMs)  
  47. GFlowVLM: Enhancing Multi-step Reasoning in Vision-Language Models with Generative Flow Networks  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Kang_GFlowVLM_Enhancing_Multi-step_Reasoning_in_Vision-Language_Models_with_Generative_Flow_CVPR_2025_paper.html)  
-
-46. 
-
-
-
 
 vision-language 45/96
 检索vision-language和multimodal，从这篇开始
@@ -362,7 +357,7 @@ vision-language 45/96
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDk3Mzg2OCwtMzc2MDAzMiwtMTMwOD
+eyJoaXN0b3J5IjpbLTMzMTAzNTgwMSwtMzc2MDAzMiwtMTMwOD
 gxNzk5Myw2NjYxODYzODcsMTE4Mjg3ODEwLDMwNzg4OTM1Mywt
 OTk1MTUwMzc2LDk0Njg2NTUyMSw1OTQ0NDkzMDUsMTk3NTUyMz
 Y3MCw3MjQ2MjM4ODksMjA2OTI1NDUyOSwtODEyOTMyOTg1LDQ0
