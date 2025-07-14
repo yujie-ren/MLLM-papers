@@ -96,10 +96,11 @@ Search Keywords: Vision, Visual, Multimodal
 42. Unveiling the Mist over 3D Vision-Language Understanding: Object-centric Evaluation with Chain-of-Analysis  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Huang_Unveiling_the_Mist_over_3D_Vision-Language_Understanding_Object-centric_Evaluation_with_CVPR_2025_paper.html)  
 (BIGAI, Benchmark for 3D vision-language model)  
 43. F^3OCUS - Federated Finetuning of Vision-Language Foundation Models with Optimal Client Layer Updating Strategy via Multi-objective Meta-Heuristics  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Saha_F3OCUS_-_Federated_Finetuning_of_Vision-Language_Foundation_Models_with_Optimal_CVPR_2025_paper.html)  
-(Oxford, )
+(Oxford, VLM, Federated learning)  
 
 
-[F^3OCUS - Federated Finetuning of Vision-Language Foundation Models with Optimal Client Layer Updating Strategy via Multi-objective Meta-Heuristics](https://openaccess.thecvf.com/content/CVPR2025/html/Saha_F3OCUS_-_Federated_Finetuning_of_Vision-Language_Foundation_Models_with_Optimal_CVPR_2025_paper.html)
+
+
 vision-language 45/96
 检索vision-language和multimodal，从这篇开始
 
@@ -352,11 +353,11 @@ vision-language 45/96
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NjU1MjEwMyw1OTQ0NDkzMDUsMTk3NT
-UyMzY3MCw3MjQ2MjM4ODksMjA2OTI1NDUyOSwtODEyOTMyOTg1
-LDQ0ODM1NTQyNCwtMTUyMzY4MTM4MSw4Mzk3OTY3NDEsMTQzNz
-Y5MTMzMiwtNjI1MzIyODEzLDEzNTIwODI2MTAsLTEwMjE2NDQ5
-NzQsLTM5NjE0MDI0NywxNzQ2OTUyNTY0LDIxMDMxMjMzMSw1Mz
-ExNzQyMTEsLTQwOTkxMzgxMCwtMTY5MjEzNzMzLC0xMTc3MjU2
-MzhdfQ==
+eyJoaXN0b3J5IjpbOTQ2ODY1NTIxLDU5NDQ0OTMwNSwxOTc1NT
+IzNjcwLDcyNDYyMzg4OSwyMDY5MjU0NTI5LC04MTI5MzI5ODUs
+NDQ4MzU1NDI0LC0xNTIzNjgxMzgxLDgzOTc5Njc0MSwxNDM3Nj
+kxMzMyLC02MjUzMjI4MTMsMTM1MjA4MjYxMCwtMTAyMTY0NDk3
+NCwtMzk2MTQwMjQ3LDE3NDY5NTI1NjQsMjEwMzEyMzMxLDUzMT
+E3NDIxMSwtNDA5OTEzODEwLC0xNjkyMTM3MzMsLTExNzcyNTYz
+OF19
 -->
