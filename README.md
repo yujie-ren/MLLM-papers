@@ -100,7 +100,8 @@ Search Keywords: Vision, Visual, Multimodal
 44. ICT: Image-Object Cross-Level Trusted Intervention for Mitigating Object Hallucination in Large Vision-Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_ICT_Image-Object_Cross-Level_Trusted_Intervention_for_Mitigating_Object_Hallucination_in_CVPR_2025_paper.html)  
  (THU, Reducing VLM's object hallucination)  
  45. Can Large Vision-Language Models Correct Semantic Grounding Errors By Themselves?  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Liao_Can_Large_Vision-Language_Models_Correct_Semantic_Grounding_Errors_By_Themselves_CVPR_2025_paper.html)  
- (UoT, )
+ (UoT, VLM, Semantic grounding, Self-correction)  
+ 46. 
 
 
 vision-language 45/96
@@ -355,11 +356,11 @@ vision-language 45/96
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzQzMDM0NTMsMzA3ODg5MzUzLC05OT
-UxNTAzNzYsOTQ2ODY1NTIxLDU5NDQ0OTMwNSwxOTc1NTIzNjcw
-LDcyNDYyMzg4OSwyMDY5MjU0NTI5LC04MTI5MzI5ODUsNDQ4Mz
-U1NDI0LC0xNTIzNjgxMzgxLDgzOTc5Njc0MSwxNDM3NjkxMzMy
-LC02MjUzMjI4MTMsMTM1MjA4MjYxMCwtMTAyMTY0NDk3NCwtMz
-k2MTQwMjQ3LDE3NDY5NTI1NjQsMjEwMzEyMzMxLDUzMTE3NDIx
-MV19
+eyJoaXN0b3J5IjpbMTE4Mjg3ODEwLDMwNzg4OTM1MywtOTk1MT
+UwMzc2LDk0Njg2NTUyMSw1OTQ0NDkzMDUsMTk3NTUyMzY3MCw3
+MjQ2MjM4ODksMjA2OTI1NDUyOSwtODEyOTMyOTg1LDQ0ODM1NT
+QyNCwtMTUyMzY4MTM4MSw4Mzk3OTY3NDEsMTQzNzY5MTMzMiwt
+NjI1MzIyODEzLDEzNTIwODI2MTAsLTEwMjE2NDQ5NzQsLTM5Nj
+E0MDI0NywxNzQ2OTUyNTY0LDIxMDMxMjMzMSw1MzExNzQyMTFd
+fQ==
 -->
