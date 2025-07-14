@@ -102,7 +102,8 @@ Search Keywords: Vision, Visual, Multimodal
  45. Can Large Vision-Language Models Correct Semantic Grounding Errors By Themselves?  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Liao_Can_Large_Vision-Language_Models_Correct_Semantic_Grounding_Errors_By_Themselves_CVPR_2025_paper.html)  
  (UoT, VLM, Semantic grounding, Self-correction)  
  46. PVC: Progressive Visual Token Compression for Unified Image and Video Processing in Large Vision-Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_PVC_Progressive_Visual_Token_Compression_for_Unified_Image_and_Video_CVPR_2025_paper.html)  
- (THU, )
+ (THU, Visual token compression for image & video in VLMs)  
+ 
 
 
 vision-language 45/96
@@ -357,11 +358,11 @@ vision-language 45/96
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzQzMDEyODYsMTE4Mjg3ODEwLDMwNz
-g4OTM1MywtOTk1MTUwMzc2LDk0Njg2NTUyMSw1OTQ0NDkzMDUs
-MTk3NTUyMzY3MCw3MjQ2MjM4ODksMjA2OTI1NDUyOSwtODEyOT
-MyOTg1LDQ0ODM1NTQyNCwtMTUyMzY4MTM4MSw4Mzk3OTY3NDEs
-MTQzNzY5MTMzMiwtNjI1MzIyODEzLDEzNTIwODI2MTAsLTEwMj
-E2NDQ5NzQsLTM5NjE0MDI0NywxNzQ2OTUyNTY0LDIxMDMxMjMz
-MV19
+eyJoaXN0b3J5IjpbNjY2MTg2Mzg3LDExODI4NzgxMCwzMDc4OD
+kzNTMsLTk5NTE1MDM3Niw5NDY4NjU1MjEsNTk0NDQ5MzA1LDE5
+NzU1MjM2NzAsNzI0NjIzODg5LDIwNjkyNTQ1MjksLTgxMjkzMj
+k4NSw0NDgzNTU0MjQsLTE1MjM2ODEzODEsODM5Nzk2NzQxLDE0
+Mzc2OTEzMzIsLTYyNTMyMjgxMywxMzUyMDgyNjEwLC0xMDIxNj
+Q0OTc0LC0zOTYxNDAyNDcsMTc0Njk1MjU2NCwyMTAzMTIzMzFd
+fQ==
 -->
