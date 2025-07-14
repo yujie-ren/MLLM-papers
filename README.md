@@ -13,45 +13,45 @@ Search Keywords: Vision, Visual, Multimodal
 检索词：vision language; vision-language; multimodal
 1. CALICO: Part-Focused Semantic Co-Segmentation with Large Vision-Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Nguyen_CALICO_Part-Focused_Semantic_Co-Segmentation_with_Large_Vision-Language_Models_CVPR_2025_paper.html)  
 (UIUC, Make VLMs identify common objects across multiple images)  
-3. Task Preference Optimization: Improving Multimodal Large Language Models with Vision Task Alignment  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Yan_Task_Preference_Optimization_Improving_Multimodal_Large_Language_Models_with_Vision_CVPR_2025_paper.html)  
+2. Task Preference Optimization: Improving Multimodal Large Language Models with Vision Task Alignment  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Yan_Task_Preference_Optimization_Improving_Multimodal_Large_Language_Models_with_Vision_CVPR_2025_paper.html)  
 (Shanghai AI Lab, A new training method for VLM, TPO)  
-4. Words or Vision: Do Vision-Language Models Have Blind Faith in Text?  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Deng_Words_or_Vision_Do_Vision-Language_Models_Have_Blind_Faith_in_CVPR_2025_paper.html)  
+3. Words or Vision: Do Vision-Language Models Have Blind Faith in Text?  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Deng_Words_or_Vision_Do_Vision-Language_Models_Have_Blind_Faith_in_CVPR_2025_paper.html)  
 (⭐️NUS, Modality conflict, Blind faith in text)  
-5. Evaluating Vision-Language Models as Evaluators in Path Planning  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Aghzal_Evaluating_Vision-Language_Models_as_Evaluators_in_Path_Planning_CVPR_2025_paper.html)  
+4. Evaluating Vision-Language Models as Evaluators in Path Planning  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Aghzal_Evaluating_Vision-Language_Models_as_Evaluators_in_Path_Planning_CVPR_2025_paper.html)  
 (George Mason U, Benchmark)  
-6. Img-Diff: Contrastive Data Synthesis for Multimodal Large Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Jiao_Img-Diff_Contrastive_Data_Synthesis_for_Multimodal_Large_Language_Models_CVPR_2025_paper.html)  
+5. Img-Diff: Contrastive Data Synthesis for Multimodal Large Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Jiao_Img-Diff_Contrastive_Data_Synthesis_for_Multimodal_Large_Language_Models_CVPR_2025_paper.html)  
 (SYU, Synthesize training data for VLM, Object replacement)  
-7. Stealthy Backdoor Attack in Self-Supervised Learning Vision Encoders for Large Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Stealthy_Backdoor_Attack_in_Self-Supervised_Learning_Vision_Encoders_for_Large_CVPR_2025_paper.html)  
+6. Stealthy Backdoor Attack in Self-Supervised Learning Vision Encoders for Large Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Stealthy_Backdoor_Attack_in_Self-Supervised_Learning_Vision_Encoders_for_Large_CVPR_2025_paper.html)  
 (UIUC, Backdoor attack in vision encoder for VLM)  
-8. ATP-LLaVA: Adaptive Token Pruning for Large Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Ye_ATP-LLaVA_Adaptive_Token_Pruning_for_Large_Vision_Language_Models_CVPR_2025_paper.html)  
+7. ATP-LLaVA: Adaptive Token Pruning for Large Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Ye_ATP-LLaVA_Adaptive_Token_Pruning_for_Large_Vision_Language_Models_CVPR_2025_paper.html)  
 (THU, Layer-wise & instance-wise vision token pruning)  
-9. Lifelong Knowledge Editing for Vision Language Models with Low-Rank Mixture-of-Experts  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Lifelong_Knowledge_Editing_for_Vision_Language_Models_with_Low-Rank_Mixture-of-Experts_CVPR_2025_paper.html)  
+8. Lifelong Knowledge Editing for Vision Language Models with Low-Rank Mixture-of-Experts  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Lifelong_Knowledge_Editing_for_Vision_Language_Models_with_Low-Rank_Mixture-of-Experts_CVPR_2025_paper.html)  
 (ECNU, Model editing for VLM)  
-10. What's in the Image? A Deep-Dive into the Vision of Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Kaduri_Whats_in_the_Image_A_Deep-Dive_into_the_Vision_of_CVPR_2025_paper.html)  
+9. What's in the Image? A Deep-Dive into the Vision of Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Kaduri_Whats_in_the_Image_A_Deep-Dive_into_the_Vision_of_CVPR_2025_paper.html)  
 (Weizmann Institute of Science, VLM interpretability, How VLM process visual information)  
-11. PARC: A Quantitative Framework Uncovering the Symmetries within Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Schmalfuss_PARC_A_Quantitative_Framework_Uncovering_the_Symmetries_within_Vision_Language_CVPR_2025_paper.html)  
+10. PARC: A Quantitative Framework Uncovering the Symmetries within Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Schmalfuss_PARC_A_Quantitative_Framework_Uncovering_the_Symmetries_within_Vision_Language_CVPR_2025_paper.html)  
 (U of Stuttgart, Analysing prompt sensitivity of VLMs)  
-12. Forensics-Bench: A Comprehensive Forgery Detection Benchmark Suite for Large Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Forensics-Bench_A_Comprehensive_Forgery_Detection_Benchmark_Suite_for_Large_Vision_CVPR_2025_paper.html)  
+11. Forensics-Bench: A Comprehensive Forgery Detection Benchmark Suite for Large Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Forensics-Bench_A_Comprehensive_Forgery_Detection_Benchmark_Suite_for_Large_Vision_CVPR_2025_paper.html)  
 (HKU, Benchmark, Assess VLM's capability in forgery detection)  
-13. Embodied Scene Understanding for Vision Language Models via MetaVQA  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Embodied_Scene_Understanding_for_Vision_Language_Models_via_MetaVQA_CVPR_2025_paper.html)  
+12. Embodied Scene Understanding for Vision Language Models via MetaVQA  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Embodied_Scene_Understanding_for_Vision_Language_Models_via_MetaVQA_CVPR_2025_paper.html)  
 (UCLA, Benchmark, Assess VLM's spatial reasoning and sequential decision-making capabilities)  
-14. MotionBench: Benchmarking and Improving Fine-grained Video Motion Understanding for Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Hong_MotionBench_Benchmarking_and_Improving_Fine-grained_Video_Motion_Understanding_for_Vision_CVPR_2025_paper.html)  
+13. MotionBench: Benchmarking and Improving Fine-grained Video Motion Understanding for Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Hong_MotionBench_Benchmarking_and_Improving_Fine-grained_Video_Motion_Understanding_for_Vision_CVPR_2025_paper.html)  
 (THU, Benchmarking VLM's fine-grained motion comprehension)  
-15. Video-XL: Extra-Long Vision Language Model for Hour-Scale Video Understanding  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Shu_Video-XL_Extra-Long_Vision_Language_Model_for_Hour-Scale_Video_Understanding_CVPR_2025_paper.html)  
+14. Video-XL: Extra-Long Vision Language Model for Hour-Scale Video Understanding  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Shu_Video-XL_Extra-Long_Vision_Language_Model_for_Hour-Scale_Video_Understanding_CVPR_2025_paper.html)  
 (SJTU, VLM for video understanding)  
-16. SPA-VL: A Comprehensive Safety Preference Alignment Dataset for Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_SPA-VL_A_Comprehensive_Safety_Preference_Alignment_Dataset_for_Vision_Language_CVPR_2025_paper.html)  
+15. SPA-VL: A Comprehensive Safety Preference Alignment Dataset for Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_SPA-VL_A_Comprehensive_Safety_Preference_Alignment_Dataset_for_Vision_Language_CVPR_2025_paper.html)  
 (USTC, Safety alignment dataset for VLM)  
-17. FastVLM: Efficient Vision Encoding for Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Vasu_FastVLM_Efficient_Vision_Encoding_for_Vision_Language_Models_CVPR_2025_paper.html)  
+16. FastVLM: Efficient Vision Encoding for Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Vasu_FastVLM_Efficient_Vision_Encoding_for_Vision_Language_Models_CVPR_2025_paper.html)  
 (Apple, VLM effiency, Tradeoff between resolution, latency, and accuracy)  
-18. HalLoc: Token-level Localization of Hallucinations for Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Park_HalLoc_Token-level_Localization_of_Hallucinations_for_Vision_Language_Models_CVPR_2025_paper.html)  
+17. HalLoc: Token-level Localization of Hallucinations for Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Park_HalLoc_Token-level_Localization_of_Hallucinations_for_Vision_Language_Models_CVPR_2025_paper.html)  
 (SNU, Dataset, Token-level hallucination localization)  
-19. Steering Away from Harm: An Adaptive Approach to Defending Vision Language Model Against Jailbreaks  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Steering_Away_from_Harm_An_Adaptive_Approach_to_Defending_Vision_CVPR_2025_paper.html)  
+18. Steering Away from Harm: An Adaptive Approach to Defending Vision Language Model Against Jailbreaks  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Steering_Away_from_Harm_An_Adaptive_Approach_to_Defending_Vision_CVPR_2025_paper.html)  
 (UIUC, Defense jailbreak by steering vectors)  
-20. VisionZip: Longer is Better but Not Necessary in Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_VisionZip_Longer_is_Better_but_Not_Necessary_in_Vision_Language_CVPR_2025_paper.html)  
+19. VisionZip: Longer is Better but Not Necessary in Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_VisionZip_Longer_is_Better_but_Not_Necessary_in_Vision_Language_CVPR_2025_paper.html)  
 (CUHK, VLM effiency, Reducing visual tokens)  
-21. Automated Generation of Challenging Multiple-Choice Questions for Vision Language Model Evaluation  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Automated_Generation_of_Challenging_Multiple-Choice_Questions_for_Vision_Language_Model_CVPR_2025_paper.html)  
+20. Automated Generation of Challenging Multiple-Choice Questions for Vision Language Model Evaluation  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Automated_Generation_of_Challenging_Multiple-Choice_Questions_for_Vision_Language_Model_CVPR_2025_paper.html)  
 (Standford, Agentic framework converting open-ended questions into multiple-choice format)  
-22. Seeing the Abstract: Translating the Abstract Language for Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Talon_Seeing_the_Abstract_Translating_the_Abstract_Language_for_Vision_Language_CVPR_2025_paper.html)  
+21. Seeing the Abstract: Translating the Abstract Language for Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Talon_Seeing_the_Abstract_Translating_the_Abstract_Language_for_Vision_Language_CVPR_2025_paper.html)  
 (Fondazione Bruno Kessler, Abstract-oriented language in VLMs)  
 23. FireEdit: Fine-grained Instruction-based Image Editing via Region-aware Vision Language Model  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_FireEdit_Fine-grained_Instruction-based_Image_Editing_via_Region-aware_Vision_Language_Model_CVPR_2025_paper.html)  
 (SYU, Instruction-based image editing, VLM+Diffusion model)  
@@ -362,11 +362,11 @@ vision-language 45/96
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NjAwMzIsLTEzMDg4MTc5OTMsNjY2MT
-g2Mzg3LDExODI4NzgxMCwzMDc4ODkzNTMsLTk5NTE1MDM3Niw5
-NDY4NjU1MjEsNTk0NDQ5MzA1LDE5NzU1MjM2NzAsNzI0NjIzOD
-g5LDIwNjkyNTQ1MjksLTgxMjkzMjk4NSw0NDgzNTU0MjQsLTE1
-MjM2ODEzODEsODM5Nzk2NzQxLDE0Mzc2OTEzMzIsLTYyNTMyMj
-gxMywxMzUyMDgyNjEwLC0xMDIxNjQ0OTc0LC0zOTYxNDAyNDdd
+eyJoaXN0b3J5IjpbLTExMDk3Mzg2OCwtMzc2MDAzMiwtMTMwOD
+gxNzk5Myw2NjYxODYzODcsMTE4Mjg3ODEwLDMwNzg4OTM1Mywt
+OTk1MTUwMzc2LDk0Njg2NTUyMSw1OTQ0NDkzMDUsMTk3NTUyMz
+Y3MCw3MjQ2MjM4ODksMjA2OTI1NDUyOSwtODEyOTMyOTg1LDQ0
+ODM1NTQyNCwtMTUyMzY4MTM4MSw4Mzk3OTY3NDEsMTQzNzY5MT
+MzMiwtNjI1MzIyODEzLDEzNTIwODI2MTAsLTEwMjE2NDQ5NzRd
 fQ==
 -->
