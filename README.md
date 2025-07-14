@@ -105,10 +105,9 @@ Search Keywords: Vision, Visual, Multimodal
  (THU, Visual token compression for image & video in VLMs)  
  47. GFlowVLM: Enhancing Multi-step Reasoning in Vision-Language Models with Generative Flow Networks  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Kang_GFlowVLM_Enhancing_Multi-step_Reasoning_in_Vision-Language_Models_with_Generative_Flow_CVPR_2025_paper.html)  
 (Honda Research Institute, VLM reasoning)  
-45. RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Song_RoboSpatial_Teaching_Spatial_Understanding_to_2D_and_3D_Vision-Language_Models_CVPR_2025_paper.html)  
+48. RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Song_RoboSpatial_Teaching_Spatial_Understanding_to_2D_and_3D_Vision-Language_Models_CVPR_2025_paper.html)  
 (The Ohio State U, Dataset, Spatial reasoning for VLM)  
-46. Document Haystacks: Vision-Language Reasoning Over Piles of 1000+ Documents  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Document_Haystacks__Vision-Language_Reasoning_Over_Piles_of_1000_Documents_CVPR_2025_paper.html)  
-47. 
+49. Document Haystacks: Vision-Language Reasoning Over Piles of 1000+ Documents  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Document_Haystacks__Vision-Language_Reasoning_Over_Piles_of_1000_Documents_CVPR_2025_paper.html)  
 
 vision-language 45/96
 检索vision-language和multimodal，从这篇开始
@@ -362,10 +361,11 @@ vision-language 45/96
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAxNDM4NDYsMjMzNTc2OTg1LDIwMDA1Mz
-M3MTAsMTE5MzE5ODc1MywtMzc2MDAzMiwtMTMwODgxNzk5Myw2
-NjYxODYzODcsMTE4Mjg3ODEwLDMwNzg4OTM1MywtOTk1MTUwMz
-c2LDk0Njg2NTUyMSw1OTQ0NDkzMDUsMTk3NTUyMzY3MCw3MjQ2
-MjM4ODksMjA2OTI1NDUyOSwtODEyOTMyOTg1LDQ0ODM1NTQyNC
-wtMTUyMzY4MTM4MSw4Mzk3OTY3NDEsMTQzNzY5MTMzMl19
+eyJoaXN0b3J5IjpbLTE5Njk4NjUwODksMjMzNTc2OTg1LDIwMD
+A1MzM3MTAsMTE5MzE5ODc1MywtMzc2MDAzMiwtMTMwODgxNzk5
+Myw2NjYxODYzODcsMTE4Mjg3ODEwLDMwNzg4OTM1MywtOTk1MT
+UwMzc2LDk0Njg2NTUyMSw1OTQ0NDkzMDUsMTk3NTUyMzY3MCw3
+MjQ2MjM4ODksMjA2OTI1NDUyOSwtODEyOTMyOTg1LDQ0ODM1NT
+QyNCwtMTUyMzY4MTM4MSw4Mzk3OTY3NDEsMTQzNzY5MTMzMl19
+
 -->
