@@ -106,7 +106,8 @@ Search Keywords: Vision, Visual, Multimodal
  47. GFlowVLM: Enhancing Multi-step Reasoning in Vision-Language Models with Generative Flow Networks  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Kang_GFlowVLM_Enhancing_Multi-step_Reasoning_in_Vision-Language_Models_with_Generative_Flow_CVPR_2025_paper.html)  
 (Honda Research Institute, VLM reasoning)
 48. RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Song_RoboSpatial_Teaching_Spatial_Understanding_to_2D_and_3D_Vision-Language_Models_CVPR_2025_paper.html)  
-()
+(The Ohio State U, Dataset, Spatial reasoning for VLM)  
+49. 
 
 vision-language 45/96
 检索vision-language和multimodal，从这篇开始
@@ -360,11 +361,11 @@ vision-language 45/96
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMDUzMzcxMCwxMTkzMTk4NzUzLC0zNz
-YwMDMyLC0xMzA4ODE3OTkzLDY2NjE4NjM4NywxMTgyODc4MTAs
-MzA3ODg5MzUzLC05OTUxNTAzNzYsOTQ2ODY1NTIxLDU5NDQ0OT
-MwNSwxOTc1NTIzNjcwLDcyNDYyMzg4OSwyMDY5MjU0NTI5LC04
-MTI5MzI5ODUsNDQ4MzU1NDI0LC0xNTIzNjgxMzgxLDgzOTc5Nj
-c0MSwxNDM3NjkxMzMyLC02MjUzMjI4MTMsMTM1MjA4MjYxMF19
+eyJoaXN0b3J5IjpbMjMzNTc2OTg1LDIwMDA1MzM3MTAsMTE5Mz
+E5ODc1MywtMzc2MDAzMiwtMTMwODgxNzk5Myw2NjYxODYzODcs
+MTE4Mjg3ODEwLDMwNzg4OTM1MywtOTk1MTUwMzc2LDk0Njg2NT
+UyMSw1OTQ0NDkzMDUsMTk3NTUyMzY3MCw3MjQ2MjM4ODksMjA2
+OTI1NDUyOSwtODEyOTMyOTg1LDQ0ODM1NTQyNCwtMTUyMzY4MT
+M4MSw4Mzk3OTY3NDEsMTQzNzY5MTMzMiwtNjI1MzIyODEzXX0=
 
 -->
