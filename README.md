@@ -58,7 +58,7 @@ Search Keywords: Vision, Visual, Multimodal
 23. VLsI: Verbalized Layers-to-Interactions from Large to Small Vision Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Lee_VLsI_Verbalized_Layers-to-Interactions_from_Large_to_Small_Vision_Language_Models_CVPR_2025_paper.html)  
 (Nvidia, New VLM family, VLM effiency)  
 24. TopV: Compatible Token Pruning with Inference Time Optimization for Fast and Low-Memory Multimodal Vision Language Model  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_TopV_Compatible_Token_Pruning_with_Inference_Time_Optimization_for_Fast_CVPR_2025_paper.html)  
-(RutgersU, Visual token pruning)
+(RutgersU, Visual token pruning)  
 25. Towards Understanding How Knowledge Evolves in Large Vision-Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Towards_Understanding_How_Knowledge_Evolves_in_Large_Vision-Language_Models_CVPR_2025_paper.html)  
 (⭐️⭐️CAS, Knowledge evolving in VLM)  
 26. Revisiting Backdoor Attacks against Large Vision-Language Models from Domain Shift  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Liang_Revisiting_Backdoor_Attacks_against_Large_Vision-Language_Models_from_Domain_Shift_CVPR_2025_paper.html)  
@@ -103,7 +103,8 @@ Search Keywords: Vision, Visual, Multimodal
  (UoT, VLM, Semantic grounding, Self-correction)  
  46. PVC: Progressive Visual Token Compression for Unified Image and Video Processing in Large Vision-Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_PVC_Progressive_Visual_Token_Compression_for_Unified_Image_and_Video_CVPR_2025_paper.html)  
  (THU, Visual token compression for image & video in VLMs)  
- 47. GFlowVLM: Enhancing Multi-step Reasoning in Vision-Language Models with Generative Flow Networks](https://openaccess.thecvf.com/content/CVPR2025/html/Kang_GFlowVLM_Enhancing_Multi-step_Reasoning_in_Vision-Language_Models_with_Generative_Flow_CVPR_2025_paper.html)  
+ 47. GFlowVLM: Enhancing Multi-step Reasoning in Vision-Language Models with Generative Flow Networks  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Kang_GFlowVLM_Enhancing_Multi-step_Reasoning_in_Vision-Language_Models_with_Generative_Flow_CVPR_2025_paper.html)  
+
 48. 
 
 
@@ -361,7 +362,7 @@ vision-language 45/96
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MjE5MzczMiwtMTMwODgxNzk5Myw2Nj
+eyJoaXN0b3J5IjpbMTg1NzE1NzczOSwtMTMwODgxNzk5Myw2Nj
 YxODYzODcsMTE4Mjg3ODEwLDMwNzg4OTM1MywtOTk1MTUwMzc2
 LDk0Njg2NTUyMSw1OTQ0NDkzMDUsMTk3NTUyMzY3MCw3MjQ2Mj
 M4ODksMjA2OTI1NDUyOSwtODEyOTMyOTg1LDQ0ODM1NTQyNCwt
