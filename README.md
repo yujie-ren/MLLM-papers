@@ -98,7 +98,7 @@ Search Keywords: Vision, Visual, Multimodal
 43. F^3OCUS - Federated Finetuning of Vision-Language Foundation Models with Optimal Client Layer Updating Strategy via Multi-objective Meta-Heuristics  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Saha_F3OCUS_-_Federated_Finetuning_of_Vision-Language_Foundation_Models_with_Optimal_CVPR_2025_paper.html)  
 (Oxford, VLM, Federated learning)  
 44. ICT: Image-Object Cross-Level Trusted Intervention for Mitigating Object Hallucination in Large Vision-Language Models  [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_ICT_Image-Object_Cross-Level_Trusted_Intervention_for_Mitigating_Object_Hallucination_in_CVPR_2025_paper.html)  
- ()
+ (THU, )
 
 
 vision-language 45/96
@@ -353,11 +353,11 @@ vision-language 45/96
 (KIT, VLM interpretability, Internal representation)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzk0Mjk5MTEsOTQ2ODY1NTIxLDU5ND
-Q0OTMwNSwxOTc1NTIzNjcwLDcyNDYyMzg4OSwyMDY5MjU0NTI5
-LC04MTI5MzI5ODUsNDQ4MzU1NDI0LC0xNTIzNjgxMzgxLDgzOT
-c5Njc0MSwxNDM3NjkxMzMyLC02MjUzMjI4MTMsMTM1MjA4MjYx
-MCwtMTAyMTY0NDk3NCwtMzk2MTQwMjQ3LDE3NDY5NTI1NjQsMj
-EwMzEyMzMxLDUzMTE3NDIxMSwtNDA5OTEzODEwLC0xNjkyMTM3
-MzNdfQ==
+eyJoaXN0b3J5IjpbLTk5NTE1MDM3Niw5NDY4NjU1MjEsNTk0ND
+Q5MzA1LDE5NzU1MjM2NzAsNzI0NjIzODg5LDIwNjkyNTQ1Mjks
+LTgxMjkzMjk4NSw0NDgzNTU0MjQsLTE1MjM2ODEzODEsODM5Nz
+k2NzQxLDE0Mzc2OTEzMzIsLTYyNTMyMjgxMywxMzUyMDgyNjEw
+LC0xMDIxNjQ0OTc0LC0zOTYxNDAyNDcsMTc0Njk1MjU2NCwyMT
+AzMTIzMzEsNTMxMTc0MjExLC00MDk5MTM4MTAsLTE2OTIxMzcz
+M119
 -->
